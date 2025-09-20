@@ -98,20 +98,6 @@
             transform: translateY(-2px);
         }
         
-        .read-aloud-button {
-            background: none;
-            border: none;
-            color: var(--primary-color);
-            font-size: 1.5rem;
-            cursor: pointer;
-            margin-left: auto;
-            transition: transform 0.2s ease;
-        }
-        
-        .read-aloud-button:hover {
-            transform: scale(1.1);
-        }
-
         h1, h2, h3 {
             color: #ffffff;
             font-weight: 600;
@@ -210,7 +196,6 @@
             <a href="#auxiliary-functions">Auxiliary Functions</a>
             <a href="#ruts">Ruts</a>
             <a href="#examples">Examples</a>
-            <button class="read-aloud-button" id="readAloudBtn" title="Read Aloud">🔊</button>
         </nav>
     </header>
 
@@ -220,23 +205,17 @@
         <section id="intro">
             <h2 id="intro-heading">🌱🛡️ Introduction & Executive Summary</h2>
             <p id="intro-p1">
-                <speak>
-                    <p>Imagine you're navigating a tough conversation. It could be a tricky family conflict, a heated debate online, or even a policy puzzle at work. These are situations where emotions run high and good intentions can still cause real harm. <strong>The Good-Faith Framework</strong> steps in as an ethical logic engine. It's designed to cut through the noise with plainspoken reasoning that prioritizes <em>structural clarity, ethical defense, and practical repair.</em> It doesn't give you lectures; it gives you direct tools to name what’s broken and prototype fixes that actually work.</p>
-                </speak>
+                Imagine you're navigating a tough conversation. It could be a tricky family conflict, a heated debate online, or even a policy puzzle at work. These are situations where emotions run high and good intentions can still cause real harm. <strong>The Good-Faith Framework</strong> steps in as an ethical logic engine. It's designed to cut through the noise with plainspoken reasoning that prioritizes <em>structural clarity, ethical defense, and practical repair.</em> It doesn't give you lectures; it gives you direct tools to name what’s broken and prototype fixes that actually work.
             </p>
             <p id="intro-p2">
-                <speak>
-                    <p>At its heart, Good-Faith is about <strong>fidelity</strong>, ensuring ideas and people travel intact, or not at all. It rejects abstract rules and feel-good vibes for outcome-linked clarity. It skips the procedural theater for structural integrity. <em>If a framework can't bear moral weight, it's scrap.</em> There are no euphemisms to hide harm and no bias favoring the powerful. The result? Conversations that build trust, repairs that last, and boundaries that feel like armor, not walls.</p>
-                </speak>
+                At its heart, Good-Faith is about <strong>fidelity</strong>, ensuring ideas and people travel intact, or not at all. It rejects abstract rules and feel-good vibes for outcome-linked clarity. It skips the procedural theater for structural integrity. <em>If a framework can't bear moral weight, it's scrap.</em> There are no euphemisms to hide harm and no bias favoring the powerful. The result? Conversations that build trust, repairs that last, and boundaries that feel like armor, not walls.
             </p>
         </section>
 
         <section id="principles">
             <h2 id="principles-heading">🧭⚖️ The 15 Core Principles</h2>
              <p id="principles-p1">
-                <speak>
-                    <p>The framework is built on fifteen interlocking doctrines that guide its reasoning. These are not vague suggestions but operational principles that define its responses and analytical capabilities. They are tested anchors: short, literal statements that guide everything from personal apologies to public policy.</p>
-                </speak>
+                The framework is built on fifteen interlocking doctrines that guide its reasoning. These are not vague suggestions but operational principles that define its responses and analytical capabilities. They are tested anchors: short, literal statements that guide everything from personal apologies to public policy.
             </p>
             <ul class="main-list">
                 <li>
@@ -438,57 +417,6 @@
                 }
                 lastScrollY = window.scrollY;
             }, { passive: true });
-
-            // Text-to-Speech
-            const readAloudBtn = document.getElementById('readAloudBtn');
-            const synth = window.speechSynthesis;
-            let isSpeaking = false;
-
-            readAloudBtn.addEventListener('click', () => {
-                if (synth.speaking) {
-                    synth.cancel();
-                    isSpeaking = false;
-                    readAloudBtn.textContent = '🔊';
-                    return;
-                }
-                
-                if(!isSpeaking){
-                    const contentContainer = document.getElementById('content-container');
-                    const sections = contentContainer.querySelectorAll('h1, h2, h3, p, li div');
-                    readAloudBtn.textContent = '⏹️';
-                    isSpeaking = true;
-                    
-                    const utterances = [];
-                    sections.forEach(element => {
-                        let textToSpeak = element.textContent;
-                        if (element.querySelector('speak')) {
-                           textToSpeak = element.querySelector('speak').innerHTML;
-                        }
-                        const utterance = new SpeechSynthesisUtterance(textToSpeak);
-                        utterances.push(utterance);
-                    });
-
-                    let currentIndex = 0;
-                    function speakNext() {
-                        if (currentIndex < utterances.length) {
-                             // Check if the synth is still speaking from the last utterance, wait if it is.
-                            if(synth.speaking) {
-                                setTimeout(speakNext, 100);
-                                return;
-                            }
-                            utterances[currentIndex].onend = () => {
-                                currentIndex++;
-                                speakNext();
-                            };
-                            synth.speak(utterances[currentIndex]);
-                        } else {
-                            isSpeaking = false;
-                            readAloudBtn.textContent = '🔊';
-                        }
-                    }
-                    speakNext();
-                }
-            });
         });
     </script>
 </body>
