@@ -5,6 +5,7 @@ Good-Faith is a moral operating system for building non-coercive, outcome-linked
 This repo distributes the core doctrine files, minimal usable documentation, and licensing structure for public use and reuse. It’s designed for integration, study, tooling, and safe AI alignment work.
 
 📘 [Read the full introduction »](https://moralclarity.github.io/goodfaith/good-faith-intro.html)
+
 🚀 [Run Good-Faith in ChatGPT](https://chatgpt.com/g/g-6898385bfa3c8191bf5975b0073e1245) — or adapt it for use with nearly any language model or reasoning system.
 
 ---
