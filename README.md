@@ -1,12 +1,16 @@
-# Good-Faith — Minimal Distribution
+# 🛠️🔍Good-Faith
 
 Good-Faith is a moral operating system for building non-coercive, outcome-linked ethics.
 
 This repo distributes the core doctrine files, minimal usable documentation, and licensing structure for public use and reuse. It’s designed for integration, study, tooling, and safe AI alignment work.
 
+📘 [Read the full introduction »](docs/good-faith-intro.md)  
+
+🚀 Run Good-Faith in [ChatGPT](https://chatgpt.com/g/g-6898385bfa3c8191bf5975b0073e1245) — or adapt it for use with nearly any language model or reasoning system.
+
 ---
 
-## 🧠✨ What is Good-Faith?
+## 🧭🧠 What is Good-Faith?
 
 Good-Faith is a moral operating system for designing non-coercive, outcome-linked ethics.
 
