@@ -10,7 +10,7 @@
 ---
 
 ## Quick Navigation
-- [Core Version](#core-version) • [Accessible Version](#accessible-version) • [Technical Version](#technical-version)
+- [Full Introduction](https://moralclarity.github.io/goodfaith/good_faith_intro.html)
 - [Live Demo](https://moralclarity.github.io/goodfaith/) • [Full JSON Export](good_faith.json)
 
 ---
