@@ -11,7 +11,7 @@ It’s useful for:
 - 🗞️ Journalists — truth-first conflict framing
 - 🏥 Clinicians — boundary-consistent safety language
 - 📚 Educators — trustable answers with no mind tricks
-- 🧰 Nonprofits — trial-based ethical ops
+- 🧰 Nonprofits and civic institutions — trial-based ethical ops
 
 ## 🔍 Key Parts
 
