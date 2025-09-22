@@ -29,7 +29,7 @@ It’s useful for:
 ## 🌐 Try It Live
 
 - [🔗 ChatGPT: Good-Faith OS](https://chatgpt.com/g/g-6898385bfa3c8191bf5975b0073e1245-good-faith-ethical-os)
-- [📘 View the Full Intro (GitHub Pages)](https://moralclarity.github.io/goodfaith/documentation/good_faith_intro.html)
+- [📘 View the Full Intro (GitHub Pages)](https://moralclarity.github.io/goodfaith/docs/good_faith_intro.html)
 
 ## ⚖️ License
 
