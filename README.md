@@ -1,3 +1,20 @@
+# Good-Faith Framework
+
+[![Version](https://img.shields.io/badge/version-2.7.1-blue)](https://github.com/moralclarity/goodfaith)
+[![License](https://img.shields.io/badge/license-CC%20BY%204.0-green)](https://creativecommons.org/licenses/by/4.0/)
+[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/moralclarity/goodfaith)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange)](https://github.com/moralclarity/goodfaith/blob/main/CONTRIBUTING.md)
+
+> An ethical operating system for clear communication and structural repair in adversarial environments.
+
+---
+
+## Quick Navigation
+- [Core Version](#core-version) • [Accessible Version](#accessible-version) • [Technical Version](#technical-version)
+- [Live Demo](https://moralclarity.github.io/goodfaith/) • [Full JSON Export](good_faith.json)
+
+---
+
 # 🧭 The Good-Faith Framework
 
 **A reproducible ethical operating system that emerges from a single seed phrase: "act in good faith"**
