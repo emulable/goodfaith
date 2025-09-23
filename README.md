@@ -1,6 +1,6 @@
 # Good-Faith Framework
 
-[![Version](https://img.shields.io/badge/version-2.7.1-blue)](https://github.com/moralclarity/goodfaith/releases/tag/v2.7.1)
+[![Version](https://img.shields.io/badge/version-2.7.3-blue)](https://github.com/moralclarity/goodfaith/releases/tag/v2.7.3)
 [![License](https://img.shields.io/badge/license-CC%20BY%204.0-green)](https://creativecommons.org/licenses/by/4.0/)
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/moralclarity/goodfaith)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange)](https://github.com/moralclarity/goodfaith/blob/main/CONTRIBUTING.md)
