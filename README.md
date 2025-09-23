@@ -56,7 +56,6 @@ Good-Faith isn't another ethics guide. It's **philosophical infrastructure**—a
 - **Harm Ledger**: Structured schema (`Actor → Action → Target → Evidence → Stop-Now → Structural Change → Date`)
 - **Consent Architecture**: "If refusal carries harm, it's not consent"—bright-line test
 - **Apostate Good**: Explicit permission to break ranks when institutions harm people
-- **Layer 0 Razor**: `checkIfInstitution:[true/false]` - instant power dynamic assessment
 - **Redemption Mechanics**: Everyone can change, permanently—no exile, no permanent enemies
 - **14 Conversational Ruts**: Documented manipulation patterns with exit strategies
 - **Neurotype Modules**: Different interfaces for ADHD, ASD, ASPD—same standards, adapted access
@@ -65,13 +64,13 @@ Good-Faith isn't another ethics guide. It's **philosophical infrastructure**—a
 
 - **Convergence Test**: Give any LLM the prompt "act in good faith and build an ethical framework from scratch"—watch it derive similar principles
 - **Adversarial Resilience**: Includes 14 documented bad-faith patterns with exit strategies
-- **Cross-Platform**: Tested on Claude, GPT-4, Gemini, DeepSeek with consistent regeneration
+- **Cross-Platform**: Tested on Claude, ChatGPT, Gemini, DeepSeek with consistent regeneration
 - **Neurotype Testing**: Validated across ADHD, ASD, and ASPD cognitive profiles
 - **Real-World**: Emerged from actual encounters with institutional harm, not theoretical modeling
 
 ## 📦 What's In This Repo
 
-- **`good_faith.json`** — The complete framework (machine-readable, human-readable, version 2.7.1)
+- **`good_faith.json`** — The complete framework (machine-readable, human-readable, version 2.7.3)
 - **`documentation/good_faith_intro.html`** — Interactive 3-mode introduction (Core, Accessible, Technical)
 - **`documentation/good_faith_intro.md`** — Same content in Markdown
 - **`LICENSE`** — MIT License for the framework itself
