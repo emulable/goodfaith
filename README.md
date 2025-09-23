@@ -77,8 +77,9 @@ Good-Faith isn't another ethics guide. It's **philosophical infrastructure**—a
 
 ## 🚀 Try It Live
 
-- [🤖 ChatGPT: Good-Faith OS](https://chatgpt.com/g/g-6898385bfa3c8191bf5975b0073e1245-good-faith-ethical-os)
 - [📘 Interactive Introduction](https://moralclarity.github.io/goodfaith/good_faith_intro.html)
+- [🤖 ChatGPT: Good-Faith OS](https://chatgpt.com/g/g-6898385bfa3c8191bf5975b0073e1245-good-faith-ethical-os)
+
 
 ## 👩‍💻 For Developers & Researchers
 
