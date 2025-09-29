@@ -1,17 +1,17 @@
 # Good-Faith Framework
 
-[![Version](https://img.shields.io/badge/version-2.7.3-blue)](https://github.com/moralclarity/goodfaith/releases/tag/v2.7.3)
+[![Version](https://img.shields.io/badge/version-3.1.0-blue)](https://github.com/emulable/goodfaith/releases/tag/v3.1.0)
 [![License](https://img.shields.io/badge/license-CC%20BY%204.0-green)](https://creativecommons.org/licenses/by/4.0/)
-[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/moralclarity/goodfaith)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange)](https://github.com/moralclarity/goodfaith/blob/main/CONTRIBUTING.md)
+[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/emulable/goodfaith)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange)](https://github.com/emulable/goodfaith/blob/main/CONTRIBUTING.md)
 
 > An ethical operating system for clear communication and structural repair in adversarial environments.
 
 ---
 
 ## Quick Navigation
-- [Full Introduction](https://moralclarity.github.io/goodfaith/good_faith_intro.html)
-- [Live Demo](https://moralclarity.github.io/goodfaith/) • [Full JSON Export](good_faith.json)
+- [Full Introduction](https://emulable.github.io/goodfaith/good_faith_intro.html)
+- [Live Demo](https://emulable.github.io/goodfaith/) • [Full JSON Export](good_faith.json)
 
 ---
 
@@ -77,7 +77,7 @@ Good-Faith isn't another ethics guide. It's **philosophical infrastructure**—a
 
 ## 🚀 Try It Live
 
-- [📘 Interactive Introduction](https://moralclarity.github.io/goodfaith/good_faith_intro.html)
+- [📘 Interactive Introduction](https://emulable.github.io/goodfaith/good_faith_intro.html)
 - [🤖 ChatGPT: Good-Faith OS](https://chatgpt.com/g/g-6898385bfa3c8191bf5975b0073e1245-good-faith-ethical-os)
 
 
