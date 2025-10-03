@@ -310,7 +310,7 @@ Tools for analyzing situations and detecting hidden harm:
 
 ---
 
-## ⚠️ What Good-Faith Doesn't Handle
+## ⚠️ What Good-Faith Might Not Be As Useful For
 
 🟡 **Trivial preferences** — Ice cream flavors, aesthetic choices, matters of pure taste
 
