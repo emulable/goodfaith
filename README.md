@@ -10,9 +10,6 @@
 
 Good-Faith is an ethical operating system with 10 axioms, diagnostic lenses, and escape routes for bad-faith conversations. Eight independent AI systems converge on these patterns when analyzing the same situations—suggesting real ethical structure, not opinion.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/emulable/goodfaith)
-[![Try on ChatGPT](https://img.shields.io/badge/Try_It-ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/g/g-6898385bfa3c8191bf5975b0073e1245-good-faith-ethical-os)
-
 ---
 
 ## 🎯 What This Does
