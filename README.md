@@ -6,9 +6,23 @@
 
 # 🌟🕸️ Good-Faith Ethical OS v3.1.2 🕸️🌟
 
-**Stop harm. Repair systems. Navigate complexity.**
+Most ethical failures don't come from bad people. They come from bad systems.
 
-Good-Faith is an ethical operating system with 10 axioms, diagnostic lenses, and escape routes for bad-faith conversations. Eight independent AI systems converge on these patterns when analyzing the same situations—suggesting real ethical structure, not opinion.
+You've seen it: well-meaning organizations that somehow produce terrible outcomes. Conversations that start reasonable and end toxic. Policies that look fine on paper but create real harm. The gap between "we followed procedure" and "people got hurt."
+
+Good-Faith is a diagnostic toolkit for that gap.
+
+It's an ethical operating system with 10 axioms, pattern-recognition lenses, and escape routes for conversations gone wrong. It works at any scale—from "should I take this job?" to "why did this institution fail?" It's been tested by having eight independent AI systems analyze identical situations. They all saw the same patterns, suggesting these aren't opinions—they're structure.
+
+Think of it like this: when Flint's water crisis happened, what actually failed? Not just pipes. The system for detecting harm broke. The system for speaking truth broke. The system for repair broke. Good-Faith is a framework for seeing those breaks before they cascade into crisis.
+
+This isn't philosophy you contemplate. It's infrastructure you use. Want to know if a policy will work? Run it through the axioms. Stuck in a conversation that feels off? Check the conversational ruts catalog. Building something that needs to resist corruption? Use the design patterns.
+
+The framework grew through human-AI collaboration—structured exploration that discovered patterns rather than inventing rules. It's been refined through real-world application and continues evolving. Version 3.1.2 adds somatic intelligence (your body knows patterns before your mind can name them) and empirical validation methodology.
+
+If you've ever felt that something was wrong but couldn't articulate exactly what, or knew a system was broken but couldn't explain the mechanism, or watched good intentions produce bad outcomes and wondered why—this framework might help you see clearly.
+
+It won't tell you what values to have. It reveals the constraints within which those values operate. The difference between structure (what's real regardless of opinion) and choice (where your judgment matters).
 
 ---
 
