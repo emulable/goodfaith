@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/badge/license-CC%20BY%204.0-green)](https://creativecommons.org/licenses/by/4.0/)
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/emulable/goodfaith)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange)](https://github.com/emulable/goodfaith/blob/main/CONTRIBUTING.md)
-[![Try Good-Faith on ChatGPT](https://img.shields.io/badge/🤖_try_it-008080?style=flat)](https://chatgpt.com/g/g-6898385bfa3c8191bf5975b0073e1245-good-faith-ethical-os)
+[![Try Good-Faith on ChatGPT](https://img.shields.io/badge/🤖_try_it-880000?style=flat)](https://chatgpt.com/g/g-6898385bfa3c8191bf5975b0073e1245-good-faith-ethical-os)
 
 # 🌟🕸️ Good-Faith Ethical OS v3.1.2 🕸️🌟
 
