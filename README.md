@@ -389,7 +389,7 @@ Target failure rate for discovery contributions: ~70%. If everything you try wor
 MIT (code, structure, schema) — Use freely, commercially  
 CC BY 4.0 (text, doctrine, examples) — Attribute when sharing
 
-**Original Author**: Moral Clarity  
+**Original Author**: Emulable and everyone who has ever said or done something that sparked an idea in his mind. 
 **Method**: Human-AI collaboration through structured intuition  
 **Repository**: github.com/emulable/goodfaith
 
