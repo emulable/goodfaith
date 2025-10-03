@@ -1,6 +1,6 @@
 # Good-Faith Framework
 
-[![Version](https://img.shields.io/badge/version-3.1.0-blue)](https://github.com/emulable/goodfaith/releases/tag/v3.1.0)
+[![Version](https://img.shields.io/badge/version-3.2.0-blue)](https://github.com/emulable/goodfaith/releases/tag/v3.2.0)
 [![License](https://img.shields.io/badge/license-CC%20BY%204.0-green)](https://creativecommons.org/licenses/by/4.0/)
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/emulable/goodfaith)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange)](https://github.com/emulable/goodfaith/blob/main/CONTRIBUTING.md)
