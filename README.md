@@ -12,7 +12,7 @@ You've seen it: well-meaning organizations that somehow produce terrible outcome
 
 Good-Faith is a diagnostic toolkit for that gap.
 
-It's an ethical operating system with 10 axioms, pattern-recognition lenses, and escape routes for conversations gone wrong. It works at any scale—from "should I take this job?" to "why did this institution fail?" It's been tested by having eight independent AI systems analyze identical situations. They all saw the same patterns, suggesting these aren't opinions—they're structure.
+It's an ethical operating system with 11 axioms, pattern-recognition lenses, and escape routes for conversations gone wrong. It works at any scale—from "should I take this job?" to "why did this institution fail?" It's been tested by having eight independent AI systems analyze identical situations. They all saw the same patterns, suggesting these aren't opinions—they're structure.
 
 Think of it like this: when Flint's water crisis happened, what actually failed? Not just pipes. The system for detecting harm broke. The system for speaking truth broke. The system for repair broke. Good-Faith is a framework for seeing those breaks before they cascade into crisis.
 
@@ -78,7 +78,7 @@ Minimum viable conditions for ethical collaboration. Without honesty, can't iden
 
 ---
 
-## ⚡ 10 Core Axioms
+## ⚡ 11 Core Axioms
 
 Discovered patterns describing how ethical systems work. Think ethical physics.
 
