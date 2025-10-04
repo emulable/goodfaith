@@ -4396,6 +4396,8 @@
     "🧭 Strategic Tenets": {
 
       "description": "Wisdom for applying the framework effectively. These are lessons learned from practice - strategic principles that guide skillful application.",
+      
+	  "default_voice": "essence_directness_mode"
 
       "plain_english": "Lessons learned about how to use these tools well.",
 
