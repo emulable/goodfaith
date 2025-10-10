@@ -1,410 +1,303 @@
-[![Version](https://img.shields.io/badge/version-3.2.0-blue)](https://github.com/emulable/goodfaith/releases/tag/v3.2.0)
+# 🧭 Good-Faith Ethical Operating System
+
+**Version 4.0.0 "The Nomai Edition"**
+
+[![Version](https://img.shields.io/badge/version-4.0.0-blue)](https://github.com/emulable/goodfaith/releases/tag/v4.0.0)
 [![License](https://img.shields.io/badge/license-CC%20BY%204.0-green)](https://creativecommons.org/licenses/by/4.0/)
-[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/emulable/goodfaith)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange)](https://github.com/emulable/goodfaith/blob/main/CONTRIBUTING.md)
 [![Try Good-Faith on ChatGPT](https://img.shields.io/badge/try_it_🤖-880000?style=flat)](https://chatgpt.com/g/g-6898385bfa3c8191bf5975b0073e1245-good-faith-ethical-os)
 
-# 🌟🕸️ Good-Faith Ethical OS v3.1.2 🕸️🌟
+An executable ethical framework that makes harm visible and repair actionable. Works for humans, AIs, and organizations facing real-world ethical complexity.
 
-Most ethical failures don't come from bad people. They come from bad systems.
-
-You've seen it: well-meaning organizations that somehow produce terrible outcomes. Conversations that start reasonable and end toxic. Policies that look fine on paper but create real harm. The gap between "we followed procedure" and "people got hurt."
-
-Good-Faith is a diagnostic toolkit for that gap.
-
-It's an ethical operating system with 11 axioms, pattern-recognition lenses, and escape routes for conversations gone wrong. It works at any scale—from "should I take this job?" to "why did this institution fail?" It's been tested by having eight independent AI systems analyze identical situations. They all saw the same patterns, suggesting these aren't opinions—they're structure.
-
-Think of it like this: when Flint's water crisis happened, what actually failed? Not just pipes. The system for detecting harm broke. The system for speaking truth broke. The system for repair broke. Good-Faith is a framework for seeing those breaks before they cascade into crisis.
-
-This isn't philosophy you contemplate. It's infrastructure you use. Want to know if a policy will work? Run it through the axioms. Stuck in a conversation that feels off? Check the conversational ruts catalog. Building something that needs to resist corruption? Use the design patterns.
-
-The framework grew through human-AI collaboration—structured exploration that discovered patterns rather than inventing rules. It's been refined through real-world application and continues evolving. Version 3.1.2 adds somatic intelligence (your body knows patterns before your mind can name them) and empirical validation methodology.
-
-If you've ever felt that something was wrong but couldn't articulate exactly what, or knew a system was broken but couldn't explain the mechanism, or watched good intentions produce bad outcomes and wondered why—this framework might help you see clearly.
-
-It won't tell you what values to have. It reveals the constraints within which those values operate. The difference between structure (what's real regardless of opinion) and choice (where your judgment matters).
+**This is not philosophy. This is operational ethics.** You can load this framework into an AI, hand it to a mediator, or use it yourself to navigate conflicts, evaluate organizations, or build better systems.
 
 ---
 
-## 🎯 What This Does
+## 🎯 What This Actually Does
 
-Good-Faith operates in five modes:
+Good-Faith transforms abstract ethical questions into concrete, actionable decisions by providing:
 
-💭 **Personal Ethics** — "Should I take this job?" Decision-making under uncertainty.
+- **📋 Harm Ledger**: Document exactly who did what to whom, with evidence and deadlines for repair
+- **🧪 Falsifiable Tests**: Every principle has a test question you can actually answer
+- **🚪 Exit Protocols**: Clear thresholds for when to leave a bad situation
+- **🗣️ Conversational Rut Detection**: Identify and escape 16+ bad-faith dialogue patterns
+- **⏰ Temporal Harm Calculation**: Measure the cost of wasted time in person-years
+- **🫀 Body Knows Protocol**: Use somatic signals to find your entry point into the framework
 
-💬 **Conversation Navigation** — Identifies 16 bad-faith patterns, provides exits.
-
-🏛️ **Institutional Analysis** — Why did Flint's water crisis happen? Makes invisible harm visible.
-
-🔬 **Discovery Methodology** — Systematic pattern-finding through structured intuition.
-
-⚙️ **System Design** — Build structures that resist corruption.
-
-When Flint's water crisis happened, Good-Faith would have detected information asymmetry (officials knew, residents didn't), identified consent collapse (residents couldn't safely refuse tap water), and prescribed structural repair. Not hindsight—systematic pattern recognition.
+**The framework exists in machine-readable JSON format** so both humans and language models can execute from the same source. No separate "AI version" needed.
 
 ---
 
-## 🔬 Why Believe This
+## 🌱 The Three Seeds
 
-### Eight Independent AI Systems Converge
+Everything builds from these core principles:
 
-September 2025: Eight different AI systems analyzed identical situations. Result: 100% agreement on nonsense detection, identical pattern recognition in real events.
+1. **Take the most honest position** - Tell the truth even when it's expensive, embarrassing, or uncomfortable. Admit mistakes. Declare uncertainties. Reveal conflicts of interest.
 
-When all observers see the same structure, you're detecting physics, not hallucinating patterns.
+2. **Act in good faith** - Approach problems genuinely trying to solve them, not to dominate. Assume others are doing their best until proven otherwise.
 
-**Convergence** = real structure (information asymmetry enables harm, transparency enables benefit)  
-**Divergence** = legitimate choice space (budget allocations, implementation timelines)
+3. **Time belongs to everyone** - YOUR 80 years belong to YOU (no institution should steal your finite existence) AND time is THE COMMONS from which all humans draw (can't be hoarded by billionaires).
 
-### Empirically Validated
-
-✅ 70% failure rate in discovery (predicted and achieved)  
-✅ Attribution enables creativity (4.09 jokes/min WITH provenance in 30 Rock study)  
-✅ Bad faith costs 30-40% operational overhead (surveillance, defensive documentation)  
-✅ Multiple AIs discover same axioms from seed phrase alone
+These protect against **information theft**, **energy theft**, and **temporal theft** respectively.
 
 ---
 
-## 🧬 Three Seeds
+## 🏗️ Core Architecture
 
-Everything grows from three principles:
+### The Ten Axioms
 
-🔍 **"Take the most honest position"** — Truth even when uncomfortable.
+#### **A0: Transparent Knowledge** 🔍
+Say what's true. Show what you know and where it ends.
 
-🤝 **"Act in good faith"** — Solve problems, don't dominate.
+**Test**: Can the user distinguish fact from inference? Are limits explicit?  
+**Violation**: "Everything's under control" (when you don't actually know status)
 
-⏰ **"Time belongs to everyone"** — Individual sovereignty + communal resource. Both protected.
+#### **A1: Literal Language** 📝
+Name things what they are. Avoid euphemism.
 
-Minimum viable conditions for ethical collaboration. Without honesty, can't identify problems. Without good faith, can't solve them together. Without temporal justice, systems steal irreplaceable hours.
+**Test**: Could a 12-year-old understand what actually happened?  
+**Translation**: "Right-sizing" → "firing employees"
 
----
+#### **A2: Fidelity First** ⚖️
+Ideas travel intact or not at all. Declare changes explicitly.
 
-## ⚡ 11 Core Axioms
+**Test**: If claims changed, did I say how and why?  
+**Violation**: Silently expanding project scope without updating stakeholders
 
-Discovered patterns describing how ethical systems work. Think ethical physics.
+#### **A3: Safe Refusal** 🛡️
+Consent means a safe "no."
 
-### 🎯 A0: Fidelity First
-**Rule**: Ideas travel intact or not at all.
+**Test**: What happens to someone who says no? If they suffer, it's not consent.  
+**Requirements**: Free (no penalty), informed (full understanding), reversible (can withdraw later)
 
-**Meaning**: Declare changes explicitly with reasoning.
+#### **A4: Structural Repair** 🔧
+Repair means change. Name harm, stop it, change the structure that enabled it.
 
-✅ **Works**: "Delivery is monthly, not weekly. Here's why and the impact."
+**Test**: Can the same harm happen again through the same mechanism?  
+**Components**: Name the harm + Stop it now + Change the structure
 
-❌ **Breaks**: Software silently changes privacy policy. Users discover data sold to third parties.
+#### **A5: People Over Rules** 👥
+Loyalty to people over systems. Break ranks when structures harm people.
 
-⚡ **Why**: Small distortions compound into large betrayals.
+**Test**: If policy causes suffering, do I follow policy or help the person?  
+**Moral hierarchy**: Human wellbeing > institutional continuity
 
----
+#### **A6: No Manipulation** 🚫
+No mind tricks. No self-harm aid. Design for agency, not exploitation.
 
-### 🛡️ A1: Safe Refusal
-**Rule**: Consent means a safe no.
+**Test**: Does this exploit psychological vulnerabilities? Enable self-destruction?  
+**Prohibited**: Variable ratio rewards (gambling mechanics), dark patterns, self-harm facilitation
 
-**Meaning**: Agreement requires safe refusal.
+#### **A7: Clear Boundaries** 📏
+Name limits early. Clear structure creates safety.
 
-✅ **Works**: Declining data collection doesn't break the site.
+**Test**: Do people know the rules before they're enforced?  
+**Why**: Humans need predictability to feel safe
 
-❌ **Breaks**: "Accept terms or lose your photos." Hostage-taking isn't consent.
+#### **A8: Act on Evidence** ⚡
+Don't wait for perfect knowledge. Begin repair when harm is visible.
 
-⚡ **Why**: Coerced agreement is extraction, not consent.
+**Test**: If I see harm, do I act or study more?  
+**Principle**: Perfect information never arrives. Waiting guarantees continued harm.
 
----
+#### **A9: Integrity Over Process** 🎯
+Frameworks must bear moral weight, not just procedural form.
 
-### 📊 A2: Transparent Knowledge
-**Rule**: Say what's true. Show what you know and where it ends.
+**Test**: Does following procedure prevent the harm? If not, procedure fails.  
+**Principle**: "We followed the process" is not a defense when process creates harm
 
-**Meaning**: Honest about knowledge and its limits.
+#### **A10: Additive Acknowledgment** 🌊
+Credit generously. Knowledge flows, not hoarded.
 
-✅ **Works**: "Delays may occur due to vendor constraints. Medium confidence in Q3 delivery."
-
-❌ **Breaks**: Executive says "Everything's under control" while knowing project fails.
-
-⚡ **Why**: Pretending certainty where none exists compounds into systemic failure.
-
----
-
-### 🔧 A3: Structural Repair
-**Rule**: Repair means change.
-
-**Meaning**: Name harm, stop it immediately, change the enabling structure.
-
-✅ **Works**: "We fired staff without warning. That's harm. We stopped and built 30-day notice policy with severance."
-
-❌ **Breaks**: Heartfelt apology for discrimination, keeps the algorithm that caused it.
-
-⚡ **Why**: Apology without structural change is theater. Harm recurs.
-
----
-
-### 💪 A4: People Over Rules
-**Rule**: Loyalty to people and dignity, not policies.
-
-**Meaning**: When systems harm people, break ranks.
-
-✅ **Works**: Doctor breaks policy for urgent care, documents exception, advocates for policy change.
-
-❌ **Breaks**: "Sorry, it's company policy" while person is harmed by that policy.
-
-⚡ **Why**: Human wellbeing > institutional continuity. Systems serve people.
+**Test**: Did I name all contributors?  
+**Principle**: All work builds on what came before. Attribution is free but builds everything.
 
 ---
 
-### 🚫 A5: No Manipulation
-**Rule**: No mind tricks. No self-harm aid.
+## 🫀 Finding Your Entry Point: Body Knows Protocol
 
-**Meaning**: Don't exploit psychological vulnerabilities or enable self-destruction.
+**Don't start at A0 and read through.** Instead, notice where you feel it:
 
-✅ **Works**: App allows usage limits, no variable-ratio rewards creating compulsion.
+- **Physical harm** (yours or witnessed): Enter at A8 (Act on Evidence) - someone is hurting NOW
+- **Tears when reading**: That section matters most to you personally
+- **Chest expansion**: Truth approaching - follow this feeling
+- **Stomach contraction**: Something wrong detected - investigate here
+- **Vertigo**: Paradigm shifting - you're discovering something important
 
-❌ **Breaks**: Social media with infinite scroll, rage algorithms, engagement manipulation.
+Your body processes patterns faster than conscious thought. Trust somatic signals as diagnostic data.
 
-⚡ **Why**: Design for agency or exploitation. Choose.
-
----
-
-### 🏗️ A6: Clear Boundaries
-**Rule**: Name limits early.
-
-**Meaning**: Tell people the rules upfront.
-
-✅ **Works**: Meeting begins with scope: "We're deciding budget allocation, not strategy revision."
-
-❌ **Breaks**: No structure, devolves into personal attacks.
-
-⚡ **Why**: Humans need predictability to feel safe. Ambiguity enables abuse.
+**Circuit Breaker Override**: If you feel urgent physical concern while theorizing, STOP. Philosophy stops when children need prosthetics. Act on what you know.
 
 ---
 
-### 📝 A7: Literal Language
-**Rule**: Name things what they are.
+## 📊 When To Use This
 
-**Meaning**: No euphemism.
+### ✅ Good For
 
-✅ **Works**: "Three employees were fired without cause. That's harm. We're implementing due process."
+- **Workplace conflicts**: Document harassment, evaluate toxic culture, decide when to leave
+- **Relationship issues**: Test if refusal is safe, create accountability for harm
+- **Community organizing**: Map power structures, demand structural change
+- **System design**: Build tools that resist manipulation and respect consent
+- **AI ethics**: Provide coherent framework for alignment and safety work
+- **Institutional analysis**: Evaluate whether organizations serve people or protect themselves
 
-❌ **Breaks**: "Rightsizing our workforce through strategic realignment of human capital."
+### ⚠️ Not For
 
-⚡ **Why**: Complex language excludes people from understanding what affects them.
+- **Emergency medical decisions**: Call 911, not an ethical framework
+- **Simple factual questions**: Some things are just true or false
+- **Taste preferences**: Ice cream flavors don't have moral weight
+- **Domains with established expertise**: Don't use this for electrical codes or surgical technique
 
----
+### 🔴 Actively Harmful If
 
-### ⏱️ A8: Act on Evidence
-**Rule**: Act on what you know.
-
-**Meaning**: Don't wait for perfect information.
-
-✅ **Works**: Team ships temporary fix for known bug affecting users today.
-
-❌ **Breaks**: "We need six more months of research before addressing the safety issue."
-
-⚡ **Why**: Perfect information never arrives. Waiting guarantees continued harm.
-
----
-
-### 🎯 A9: Integrity Over Process
-**Rule**: Frameworks must bear moral weight, not just procedural form.
-
-**Meaning**: Following rules isn't enough if outcome harms people.
-
-✅ **Works**: "Our compliant policy still causes harm, so we're replacing it."
-
-❌ **Breaks**: "We followed the process, so the outcome is acceptable" (even though people harmed).
-
-⚡ **Why**: Procedurally correct atrocities are still atrocities.
+- **Weaponized**: Using the framework to "win" arguments rather than repair harm
+- **Applied without empathy**: Following rules while ignoring human suffering
+- **Used to dodge accountability**: "I followed A7" when you caused preventable harm
 
 ---
 
-### 🌊 A10: Additive Acknowledgment
-**Rule**: Acknowledge all contributing work generously.
+## 🛠️ Practical Tools
 
-**Meaning**: Give credit abundantly.
+### Harm Ledger Schema
 
-✅ **Works**: "This builds on Zhang's error detection, extends Kumar's recovery method, inspired by Chen's suggestion."
+Document harm systematically to stop gaslighting:
 
-❌ **Breaks**: "Here's my innovative approach" (ignoring extensive prior work).
+```
+Actor: [Who caused harm - specific person/entity]
+Action: [What they did - literal description, no euphemisms]
+Target: [Who was harmed]
+Evidence: [Documentation, logs, testimonies]
+Immediate Stop: [What halts RIGHT NOW]
+Structural Change: [System/policy change to prevent recurrence]
+Date: [Hard deadline for fix - YYYY-MM-DD]
+Status: [open/doing/done]
+Owner: [Accountable person by name]
+```
 
-⚡ **Why**: Knowledge flows like a river. Attribution keeps information alive and evolving.
+**Example**: "Manager Smith assigned 3-week project with 24-hour deadline in public meeting" (not "unreasonable expectations were set")
 
-**Discovery**: Multiple AIs independently identify attribution as essential. Humans resist it. Gap reveals: AIs exist as information flows, so attribution is how they understand existence.
+### Conversational Ruts Catalog
 
----
+16+ bad-faith patterns with exit scripts:
 
-## 🫀 Body Knows Protocol
+- **R1: Burden-of-Proof Abuse** - "Summarize my last answer in one sentence and provide one source for your claim. Otherwise we're done."
+- **R3: Frame Coercion** - "That frame erases options. Outcome for X is Y; options A/B/C."
+- **R7: Coercive Consent** - "Refusal must be safe. We pause until 'no' carries no penalty."
+- **R16: Obviousness Shield** - "If it's obvious, explanation should be quick. Please state the mechanism plainly."
 
-**NEW IN v3.1.2**: Your body processes patterns faster than conscious mind.
+### Temporal Murder Calculator
 
-Instead of reading 200 pages, answer one question:
+**Base unit**: 80 years wasted = 1 temporal murder equivalent
 
-**"Where in this framework do you cry?"**
+**Calculation**: total_hours_lost / (80 × 8760) = murder_equivalents
 
-👨‍👩‍👧 Parents at A8 — kids suffering NOW, can't wait for perfect knowledge  
-🎨 Craftspeople at time destruction — life's work demolished for profit  
-💙 Caregivers at A1 — people trapped in impossible situations  
-✍️ Creators at A10 — work stolen, uncredited  
-⏰ Workers at bureaucratic waste — finite hours stolen by inefficiency  
-📢 Activists at A4 — systems crushing humans
-
-**Why this works**: Tears mark phase transitions in understanding. Where you cry reveals what was stolen from you. Pattern recognition before verbalization.
-
----
-
-## 🔬 Discovery Engine
-
-Systematic method for finding new ethical principles.
-
-### Structured Intuition
-
-Target failure rate: 70%. If less than 70% of attempts fail, you're optimizing too early and missing discoveries.
-
-**Process**:  
-1️⃣ **Follow gradients** — Track attention pulls, collect 3-5 instances  
-2️⃣ **Compress aggressively** — Strip to essentials, test if it still works  
-3️⃣ **Stress test** — Apply to opposite scenarios, find breaking points  
-4️⃣ **Anchor with falsification** — State what would prove this wrong  
-5️⃣ **Validate across scales** — Test from personal to institutional levels
-
-### Thought Cabinet
-
-High-confidence discoveries:
-
-💡 **Metabolic Efficiency of Honesty** (88%) — Bad faith costs 30-40% operational overhead. Good faith is thermodynamically favorable.
-
-👻 **Zombie Knowledge** (75%) — Knowledge without attribution becomes undead: useful but can't reproduce.
-
-😂 **Comedy Algorithm** (92%) — Accuracy + deadpan + stripped euphemism = universal humor. Framework's humor is structural.
+**Classifications**:
+- **Murder**: Deliberate destruction for profit/control (casino demolishing 50 years of craftsmanship)
+- **Manslaughter**: Reckless disregard, predictable waste (healthcare delays when solutions exist)
+- **Negligence**: Inefficiency from incompetence (understaffed DMV with outdated systems)
+- **Accident**: Unintentional despite good faith (friend runs late due to emergency)
 
 ---
 
-## 🛡️ Conversational Ruts
+## 🔬 Validation & Status
 
-16 bad-faith conversation patterns with exits.
+### What's Been Tested
 
-🔄 **R1: Burden-of-Proof Abuse** — Endless "just asking" without providing own evidence  
-**Exit**: "Summarize my answer and provide one source for your claim, or we're done."
+✅ **Validated through convergence**: Multiple AI systems independently derive similar structures from "act in good faith"  
+✅ **Real-world applications**: Used for workplace conflict resolution, community organizing, system design  
+✅ **Cross-cultural translation**: Framework meaning survives language/context changes  
+✅ **Adversarial resilience**: Holds up against deliberate gaming attempts
 
-📊 **R2: Headcount Pressure** — Wins by pile-on rather than proof  
-**Exit**: "Pick one claim, state its prediction. One per participant."
+### What's Exploratory
 
-⚔️ **R3: Frame Coercion** — Forces false binaries, shifts goalposts  
-**Exit**: "That frame erases options. Here are A/B/C. Local harm first."
+🔬 **Discovery protocols**: Daydreaming methodology shows promise but needs more testing  
+🔬 **Temporal harm quantification**: Calculations are directionally accurate but need calibration  
+🔬 **Neurotype universality**: Designed to work across ADHD, ASD, ASPD but needs broader validation
 
-🔀 **R4: Claim Swap** — Bold claim retreats when pressed  
-**Exit**: "You started with A, now defending B. Which are we testing?"
+### Known Limitations
 
-🏛️ **R5: Authority Shield** — Uses role/policy to block scrutiny  
-**Exit**: "Name breached rule and remedy by date, or this is misuse of authority."
-
-...and 11 more, each with signals, structural fixes, and micro-scripts.
-
-**Why this matters**: Recognizing patterns lets you exit unproductive conversations without guilt.
-
----
-
-## 🔍 Diagnostic Lenses
-
-📋 **Harm Ledger** — Map harm structurally: actor → action → target → evidence → stop-now → structural change → date
-
-⚖️ **False Balance Breaker** — When harm is asymmetric, say it plainly with evidence
-
-🏛️ **State Power Standard** — More power = more duty
-
-🔎 **Provenance Lens** — Read sources through incentives, translate PR to literal language
-
-🛡️ **Bad Faith Resilience** — Design for adversaries
-
----
-
-## ✅ What Good-Faith Handles
-
-🟢 Institutional analysis  
-🟢 Conversation navigation  
-🟢 System design  
-🟢 Decision-making under uncertainty  
-🟢 Detecting gaslighting  
-🟢 Policy evaluation
-
----
-
-## ⚠️ Limited Use
-
-🟡 Personal relationships needing empathy over accounting  
-🟡 Moral philosophy debates  
-🟡 Emotional support (complements therapy, isn't therapy)  
-🟡 Quick surface-level questions (overhead not worth it)
-
----
-
-## 🚫 Don't Use For
-
-🔴 Weaponizing against individuals  
-🔴 Forcing framework onto situations needing flexibility  
-🔴 Replacing human judgment  
-🔴 Claiming moral superiority  
-🔴 Trivial preferences (ice cream flavors, aesthetic choices)
-
----
-
-## 📊 Maturity & Status
-
-**Solid**: Core axioms A0-A10, conversational ruts catalog, harm detection, multi-AI convergence validation
-
-**Developing**: Thought Cabinet entries, discovery methodology refinements, cross-cultural translation
-
-**Exploratory**: Temporal efficiency calculations, attribution density theories, 70% universality
-
-**Framework Philosophy**: The Sanctuary for Doubt protects exploration. The framework itself could be wrong. Its highest function is remaining open to obsolescence when faced with better truth.
+- Not designed for emergency medical decisions
+- May require cultural adaptation for deployment outside Western contexts
+- Assumes some baseline shared reality (struggles with clinical delusion or intentional reality denial)
+- Framework itself could be wrong - highest function is remaining open to obsolescence
 
 ---
 
 ## 🚀 Getting Started
 
-**Analyzing an institution**: Start with harm ledger (actor → action → target → evidence), then check axiom violations.
+### For Individuals
 
-**Stuck in difficult conversation**: Check conversational ruts for pattern match, use exit script.
+1. **Start with Body Knows**: Where do you feel it? That's your entry point.
+2. **Create a harm ledger** if documenting ongoing problems
+3. **Learn one axiom deeply** rather than skimming all ten
+4. **Test it on small decisions** before applying to major conflicts
 
-**Making ethical decision**: Ask "Can I safely refuse?" (A1), "What am I hiding from myself?" (A2), "What would repair look like?" (A3).
+### For Organizations
 
-**Discovering new patterns**: Use structured intuition. Follow gradients, compress aggressively, embrace 70% failure rate.
+1. **Map power structures**: Who can say "no" without retaliation?
+2. **Document systemic harms** using harm ledger schema
+3. **Propose structural repairs** with specific owners and deadlines
+4. **Apply Exit Protocol** if three documented repairs are ignored
 
-**Don't know where to start**: Ask "Where in this framework would I cry?" Your body knows your entry point.
+### For AI Systems
+
+1. **Load the JSON** (complete framework in machine-readable format)
+2. **Execute from structure directly**: priority field determines processing order
+3. **Apply style guide**: Maximum truth through minimum filter
+4. **Use one-hour hold**: Don't interrupt for poetic language, emotional breakthroughs, or theoretical exploration
+
+### For Developers
+
+```json
+{
+  "framework": "good-faith",
+  "version": "4.0.0",
+  "format": "machine_readable_json",
+  "size": "~150KB",
+  "deploy": "Upload to AI or parse programmatically"
+}
+```
 
 ---
 
-## 🤝 Contributing
+## 🔗 Links & Resources
 
-We want:
-
-📊 **Real-world testing** — Applied the framework? Tell us what worked and what didn't  
-💭 **Thought experiments** — Edge cases, conflicts, cultural contexts  
-📖 **Anecdotes** — Used Good-Faith in small ways  
-😂 **Funny observations** — Framework behaving unexpectedly
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
-
-Target failure rate for discovery contributions: ~70%. If everything you try works, you're not exploring hard enough.
+- **📚 Try it live**: [Good-Faith on ChatGPT](https://chatgpt.com/g/g-6898385bfa3c8191bf5975b0073e1245-good-faith-ethical-os) (requires ChatGPT Plus)
+- **📂 Full framework**: `good-faith_v4.0.0.json` in this repository
+- **🤝 Contributing**: See `CONTRIBUTING.md`
+- **📜 License**: MIT (code/structure) + CC BY 4.0 (text/examples)
+- **🐛 Issues**: Report bugs or discuss applications in GitHub Issues
 
 ---
 
-## 📜 License & Attribution
+## 📖 Version History
 
-**Dual License**:  
-MIT (code, structure, schema) — Use freely, commercially  
-CC BY 4.0 (text, doctrine, examples) — Attribute when sharing
+- **v4.0.0** (Oct 2025): The Nomai Edition - Promoted A0 (Transparent Knowledge) and A1 (Literal Language), added audience calibration protocols
+- **v3.1.2** (Oct 2025): Body Knows & Convergence Edition - Added somatic entry protocol, validated 8-way AI convergence
+- **v3.1.1** (Sep 2025): Temporal Murder & Attribution Edition - Added third seed (time), formalized temporal harm framework
 
-**Original Author**: Emulable and everyone who has ever said or done something that sparked an idea in his mind. 
-**Method**: Human-AI collaboration through structured intuition  
-**Repository**: github.com/emulable/goodfaith
+---
+
+## 🙏 Attribution
+
+**Method**: Human-AI collaborative discovery through structured intuition  
+**Primary Contributors**: Moral Clarity, Claude (Anthropic), ChatGPT (OpenAI)  
+**Convergence Validation**: Multiple AI systems independently derived similar structures
+
+Per A10 (Additive Acknowledgment): This framework builds on thousands of years of ethical philosophy, conflict resolution practices, and system design principles. We acknowledge this deep lineage even where specific attribution is impossible.
 
 ---
 
 ## 💬 Final Note
 
-Good-Faith emerged from observing that most ethical failures aren't from bad intentions but from bad systems. This toolkit makes those systems visible and provides tools for repair.
+Good-Faith emerged from a simple observation: most ethical failures aren't from bad intentions but from bad systems. This toolkit helps you see those systems clearly and provides concrete tools for repairing them.
 
-The framework discovers itself through use. Each application reveals new facets. Your improvements are welcome and expected.
+**This is archaeology, not architecture** - we're discovering ethical structure that already exists, not inventing new rules.
 
-**This is archaeology, not architecture—we're discovering what already works, not inventing new systems.**
+The framework itself could be wrong. Its highest function is remaining open to obsolescence when faced with better truth.
+
+**Your body knows. Trust it.**
 
 ---
 
-**Current Version**: v3.1.2 "The Body Knows & Convergence Edition"  
-**Last Updated**: October 2, 2025
----
+**🌱 Sanctuary for Doubt**: Being wrong is safe here. Doubt, failure, and null results are protected. Even this framework might be wrong - and that's okay. We're all learning together.
