@@ -265,21 +265,6 @@ If you used Body Knows Protocol:
 
 ---
 
-## 🏆 Getting Credit
-
-Per A10 (Additive Acknowledgment), we credit generously:
-
-### How You'll Be Acknowledged
-
-- **Contributors list**: Added to repository
-- **Release notes**: Mentioned in version where your contribution appears
-- **Documentation**: Cited when your example or insight is used
-- **Thought Cabinet**: If your pattern becomes formalized, you're credited as discoverer
-
-### If You Don't Want Credit
-
-That's fine too. Note "please don't credit me" in your contribution and we'll respect that.
-
 ### Contribution License
 
 By contributing, you agree your contribution will be licensed under Good-Faith's dual license:
