@@ -148,7 +148,7 @@ Your body processes patterns faster than conscious thought. Trust somatic signal
 - **Taste preferences**: Ice cream flavors don't have moral weight
 - **Domains with established expertise**: Don't use this for electrical codes or surgical technique
 
-### 🔴 Actively Harmful If
+### 🔴 Possibly Harmful If
 
 - **Weaponized**: Using the framework to "win" arguments rather than repair harm
 - **Applied without empathy**: Following rules while ignoring human suffering
