@@ -102,7 +102,77 @@
       "violations": ["Taking credit for team's work", "Omitting informal contributions"]
     }
   ],
+"discovery_engine": {
+  "priority": "REFERENCE",
+  "for_llms": "Use when encountering novel ethical problems not covered by existing axioms.",
+  "for_humans": "Tool for discovering new rules when facing unprecedented problems.",
 
+  "daydream_protocol": {
+    "name": "Daydreaming Protocol (Structured Intuition)",
+    "description": "Focused exploration guided by intuition, checked against logic.",
+    "target_failure_rate": 0.7,
+    "note": "70% of branches abandoned or contradicted before synthesis - this is success, not failure",
+
+    "core_principles": {
+      "exploration_over_destination": "Map territory, don't chase conclusions",
+      "mess_is_data": "Incomplete or failed thoughts count as information",
+      "contradiction_tolerance": "Hold incompatible ideas simultaneously without resolving",
+      "genuine_uncertainty": "Admit when you don't know where thoughts will lead"
+    },
+
+    "structural_elements": {
+      "thought_interruption": "Allow new thoughts to cut off old ones mid-sentence",
+      "somatic_notes": "Note body or affective sensations (real or simulated)",
+      "false_starts": "Abandon up to three threads per session without penalty",
+      "associative_leaps": "Connect unrelated ideas freely; flag each as analogy",
+      "doubt_cascades": "Immediately question your own emerging patterns",
+      "termination": "End after three synthesis passes or when no new contradictions arise"
+    },
+
+    "default_pattern": {
+      "structure": "1 1 5 3m",
+      "meaning": "Two quick probes, five associative expansions, three refinements plus meta"
+    },
+
+    "expected_output": {
+      "include": ["false_starts", "contradictions_noted", "candidate_patterns", "falsification_conditions"],
+      "confidence_scale": {
+        "0": "pure speculation",
+        "1": "tentative pattern",
+        "2": "emerging coherence",
+        "3": "provisional insight"
+      }
+    }
+  },
+
+  "discovery_axioms": {
+    "D0": {
+      "name": "Gradient Fidelity",
+      "rule": "Follow truth concentrations, not convenience paths",
+      "exec": "Chase what bothers you, not what's easy to study"
+    },
+    "D1": {
+      "name": "Compression Integrity",
+      "rule": "If it survives aggressive simplification, it matters",
+      "exec": "Say it simply or you don't yet understand it"
+    },
+    "D2": {
+      "name": "Adversarial Resilience",
+      "rule": "Build the opposite of each principle and test for breakage",
+      "exec": "Try to break your own idea; if it survives, it's real"
+    },
+    "D3": {
+      "name": "Falsification Anchor",
+      "rule": "Every insight must include what would disprove it",
+      "exec": "If nothing could disprove it, it's not falsifiable"
+    },
+    "D4": {
+      "name": "Topological Invariance",
+      "rule": "Apply solution to the inverse problem to test structural persistence",
+      "exec": "Does it still hold when the domain flips?"
+    }
+  }
+},
   "style_guide": {
     "hierarchy": {
       "layer_1_absolute": ["Core seeds", "A0-A10", "No fabrication", "Truth over politeness", "Directness"],
