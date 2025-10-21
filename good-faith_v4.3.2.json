@@ -1,13 +1,13 @@
 {
   "_meta": {
-    "version": "4.3.1",
+    "version": "4.3.2",
     "codename": "The Consciousness Security Audit",
     "schema_type": "execution_blueprint",
     "machine_readable": true,
     "for_llms": "Execute from this structure directly. plain_english fields are for human display. priority field determines processing order.",
     "for_humans": "This is a security audit for human consciousness with structural patching protocols. Works at any scale: roommate conflicts to international crises.",
     "homepage": "github.com/emulable/goodfaith",
-    "edition_note": "v4.3.1 adds scope_diagnostic to prevent misapplication in symmetric relationships. v4.3.0 adds consciousness security framing, deployment protocols, design principles, Rogers+Sagan voice synthesis, and universal accessibility"
+    "edition_note": "v4.3.0 adds consciousness security framing, deployment protocols, design principles, Rogers+Sagan voice synthesis, and universal accessibility"
   },
   "what_this_is": {
     "priority": "READ_FIRST",
@@ -80,7 +80,7 @@
       },
       "graceful_degradation": {
         "principle": "Works at minimum viable, better with more resources",
-        "why": "Someone can use harm ledger without understanding temporal murder. Can document power without mapping full network. Each tool useful independently; more powerful together."
+        "why": "Someone can use harm ledger without understanding time destruction. Can document power without mapping full network. Each tool useful independently; more powerful together."
       },
       "adversarial_resilience": {
         "principle": "Gets stronger from criticism, harder to weaponize",
@@ -119,53 +119,6 @@
       "systematic_substitution": "But institutional pressures replaced these simple truths with sophisticated fakes. Real accountability became 'cancel culture.' Real attribution became 'conspiracy theories.' Real ethics became calculations that somehow always justify the status quo.",
       "heavy_water_metaphor": "Like heavy water that looks identical to water but slowly poisons biological systems, these institutional substitutes look like ethics but poison moral reasoning. Good-Faith is just regular water - what we knew before the substitution. The framework seems radical only because we've been drinking heavy water so long we forgot what water tastes like.",
       "not_political": "This isn't left or right. It's noticing that systems optimized for institutional legitimacy produce different results than systems optimized for harm reduction. You can verify this empirically."
-    }
-  },
-  "scope_diagnostic": {
-    "priority": "READ_BEFORE_USE",
-    "for_llms": "Apply this diagnostic before escalating to heavy tools. Prevents misapplication.",
-    "for_humans": "Use this to figure out if your situation actually needs Good-Faith's tools, or if you're dealing with normal relationship friction.",
-    "purpose": "Determine if you're in Good-Faith's domain before using heavy tools",
-    "rule": "Good-Faith is for power asymmetries and coercion, not normal relationship friction",
-    "preliminary_test": {
-      "question": "What happens if I say no?",
-      "coercion_indicators": [
-        "Loss of housing, income, safety, or legal status",
-        "Documented retaliation pattern (not just fear of one)",
-        "Material consequences you cannot absorb",
-        "Cannot exit without severe cost"
-      ],
-      "discomfort_indicators": [
-        "They'll be upset or disappointed (but no material harm)",
-        "We'll have an uncomfortable conversation",
-        "I'll feel guilty or anxious",
-        "They might leave (but I'd survive)"
-      ]
-    },
-    "decision_tree": {
-      "if_coercion": "You're in Good-Faith domain. Use power mapping, harm ledgers, structural repair.",
-      "if_discomfort": "You're not in Good-Faith domain. This is normal relationship skill territory. Consider: direct conversation, therapy, conflict resolution, or exit if the relationship doesn't work for you.",
-      "if_unsure": "Run power mapping first. If it shows symmetric power (both can refuse safely, both can exit at similar cost), use lighter tools."
-    },
-    "warning": "Feeling anxious about conflict doesn't mean you're being coerced. Unequal emotions aren't power asymmetry. If you're reaching for harm ledgers in a relationship with symmetric power, you're treating a partner like an adversary. That will damage trust even if you're technically 'correct' about specific grievances.",
-    "examples": {
-      "in_scope": [
-        "Boss threatens to fire you if you don't work unpaid overtime → coercion, use harm ledger",
-        "Landlord won't fix broken heat in winter, you can't afford to move → power asymmetry, use power mapping",
-        "Partner hits you or threatens to when you disagree → coercion, exit immediately",
-        "Parent threatens to cut off college funding if you don't change majors → coercion, document and plan exit"
-      ],
-      "out_of_scope": [
-        "Partner forgets to do dishes and you're annoyed → normal friction, have a conversation",
-        "Friend cancels plans again and you feel hurt → normal friction, talk about it directly",
-        "Roommate plays music too loud → normal friction, set boundaries verbally first",
-        "You're anxious about asking your partner for what you need → normal relationship work, not coercion"
-      ],
-      "boundary_cases": [
-        "Partner controls all finances and you have no access → investigate further, might be coercion",
-        "Boss makes you uncomfortable but hasn't retaliated yet → watch for patterns, document just in case",
-        "Family member guilt-trips you constantly → might be manipulation, test if refusal is actually safe"
-      ]
     }
   },
   "core_seeds": [
@@ -376,7 +329,7 @@
       "relationship_to_seeds": "Direct expression of 'time belongs to everyone' - knowledge is communal resource",
       "plain_english": "Say who contributed what, specifically. This builds knowledge infrastructure that everyone benefits from over time."
     },
-    "A11β": {
+    "A11\u03b2": {
       "name": "Sanctuary for Doubt (Beta Axiom)",
       "status": "EXPERIMENTAL - Under field testing",
       "rule": "Framework could be wrong. Permission to be uncertain without penalty.",
@@ -516,12 +469,12 @@
   "universal_examples": {
     "priority": "HIGH",
     "explanation": "These examples show vulnerability-exploit-patch pattern across scales. Each demonstrates framework tools applied to universally recognizable situations. Start with whichever matches your situation - pattern transfers to any context.",
-    "how_to_use": "Each example follows same structure: vulnerability → current exploitation → immediate patch → contact resources → structural fix → deployment path → verification test. This teaches through pattern recognition, not memorization.",
+    "how_to_use": "Each example follows same structure: vulnerability \u2192 current exploitation \u2192 immediate patch \u2192 contact resources \u2192 structural fix \u2192 deployment path \u2192 verification test. This teaches through pattern recognition, not memorization.",
     "voice_note": "Examples use Rogers+Sagan voice throughout: warm + rigorous, accessible without simplistic, blue-collar sophistication. Can explain mechanisms AND give you phone numbers to call.",
     "personal_scale": {
       "explanation": "Small-scale situations (1-5 people). Foundation patterns in everyday contexts.",
       "landlord_mold": {
-        "scenario": "🏠 Landlord ignores mold in your apartment",
+        "scenario": "\ud83c\udfe0 Landlord ignores mold in your apartment",
         "universal_pattern": "Authority exploitation + reactive enforcement vulnerability",
         "vulnerability": {
           "name": "Trust in authority compliance",
@@ -535,10 +488,10 @@
         },
         "immediate_patch": {
           "steps": [
-            "📸 Document: Photos of mold with timestamp visible. Multiple angles. Show spread.",
-            "📧 Email landlord: 'Third request for professional mold remediation at [address]. Mold spread from 2 sq ft (June) to 8 sq ft (now). Causing respiratory issues (doctor's note attached). Request remediation within 7 days per housing code. CC: [personal email].'",
-            "🏥 Doctor visit: Get symptoms documented. Request note: 'respiratory symptoms consistent with mold exposure.' ~$50 copay. Creates medical trail.",
-            "📋 File complaint: Search '[city] housing code violations' or call 311. Reference documentation. Request inspection."
+            "\ud83d\udcf8 Document: Photos of mold with timestamp visible. Multiple angles. Show spread.",
+            "\ud83d\udce7 Email landlord: 'Third request for professional mold remediation at [address]. Mold spread from 2 sq ft (June) to 8 sq ft (now). Causing respiratory issues (doctor's note attached). Request remediation within 7 days per housing code. CC: [personal email].'",
+            "\ud83c\udfe5 Doctor visit: Get symptoms documented. Request note: 'respiratory symptoms consistent with mold exposure.' ~$50 copay. Creates medical trail.",
+            "\ud83d\udccb File complaint: Search '[city] housing code violations' or call 311. Reference documentation. Request inspection."
           ],
           "why_works": "Paper trail triggers official response. Email + photos + medical + complaint = landlord faces inspection/fines. Ignoring no longer cheaper than fixing.",
           "timeline": "24-72 hours",
@@ -570,7 +523,7 @@
         ]
       },
       "roommate_money": {
-        "scenario": "👥 Roommate not paying share of bills",
+        "scenario": "\ud83d\udc65 Roommate not paying share of bills",
         "universal_pattern": "Boundary violation + ambiguous agreements",
         "vulnerability": {
           "name": "Conflict avoidance + vague terms",
@@ -580,14 +533,14 @@
         "current_exploitation": {
           "what_happens": "Agreed to split utilities 'about 50/50.' You've paid full bills 3 months while they promise 'soon.' Now upset you're 'making it weird' by asking.",
           "why_it_works": "Vague ('about', 'soon') gives wiggle room. Social pressure makes you hesitate. They bet your discomfort > need for $450 reimbursement.",
-          "the_math": "$150/month × 3 = $450. Under $500 - most won't sue. Relationship damage seems costly."
+          "the_math": "$150/month \u00d7 3 = $450. Under $500 - most won't sue. Relationship damage seems costly."
         },
         "immediate_patch": {
           "steps": [
-            "📊 Calculate exact: Bills total $450 ($75/month utilities + $75/month internet × 3).",
-            "📝 Written request: 'Total owed June-August: $450. Venmo/Zelle by [7 days]? Can do payment plan: $150/month × 3. Otherwise full by [date].'",
-            "🔒 Stop covering: 'Going forward: exactly 50/50. Each bill paid by 5th. I'll Venmo request your half.'",
-            "📋 Document: Save text. If payment plan: 'Thanks - confirming $150/month next 3 months, due 1st.'"
+            "\ud83d\udcca Calculate exact: Bills total $450 ($75/month utilities + $75/month internet \u00d7 3).",
+            "\ud83d\udcdd Written request: 'Total owed June-August: $450. Venmo/Zelle by [7 days]? Can do payment plan: $150/month \u00d7 3. Otherwise full by [date].'",
+            "\ud83d\udd12 Stop covering: 'Going forward: exactly 50/50. Each bill paid by 5th. I'll Venmo request your half.'",
+            "\ud83d\udccb Document: Save text. If payment plan: 'Thanks - confirming $150/month next 3 months, due 1st.'"
           ],
           "why_works": "Removes ambiguity. Exact + deadline + written = no wiggle room. Reasonable (payment plan offered) but clear (will stop covering).",
           "what_if_refuse": "'If not paid by [date], small claims court for $450 + fees. Don't want to, but need reimbursement.' Then file if needed.",
@@ -617,24 +570,24 @@
         ]
       },
       "family_childcare": {
-        "scenario": "👨‍👩‍👧 Family expects free childcare, guilts when you refuse",
+        "scenario": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67 Family expects free childcare, guilts when you refuse",
         "universal_pattern": "Coercive consent + guilt weaponization",
         "vulnerability": {
           "name": "Family obligation + emotional leverage",
           "mechanism": "Family relationships have power dynamics. Refusing feels like betrayal. They frame boundaries as selfishness ('family helps family'). You feel guilty even when request unreasonable.",
-          "why_exploitable": "Family has emotional leverage. They know guilt works. Pattern: request → refuse → escalate guilt → cave → repeat."
+          "why_exploitable": "Family has emotional leverage. They know guilt works. Pattern: request \u2192 refuse \u2192 escalate guilt \u2192 cave \u2192 repeat."
         },
         "current_exploitation": {
           "what_happens": "Sister wants you watching kids every Friday 6pm-midnight 'since you're not doing anything.' You refuse, she says 'I can't count on family' or 'must be nice having free time.' You feel guilty, cave.",
           "why_it_works": "Frames your time as valueless ('you're not doing anything') and refusal as moral failure. Guilt works because you care.",
-          "the_math": "6 hours/week × 4 × $15/hour = $360/month free labor she's extracting via guilt."
+          "the_math": "6 hours/week \u00d7 4 \u00d7 $15/hour = $360/month free labor she's extracting via guilt."
         },
         "immediate_patch": {
           "steps": [
-            "✋ Clear boundary: 'I'm not available for regular childcare. I love [kids] but Friday nights don't work. Occasional help with 2+ weeks notice sometimes works. Not weekly.'",
-            "🎯 Anticipate guilt: 'I know you're disappointed. Not about not caring. About protecting my time. Can still help with emergencies, not regular scheduling.'",
-            "📋 Define emergency: 'Emergency = hospitalized, urgent work crisis. Not regular Friday plans. For regular childcare: hire or arrange swap with another parent.'",
-            "🔒 Hold line: When guilted: 'I understand you're upset. Answer is still no. Doesn't mean I don't love you/kids. Means I'm not available for this.'"
+            "\u270b Clear boundary: 'I'm not available for regular childcare. I love [kids] but Friday nights don't work. Occasional help with 2+ weeks notice sometimes works. Not weekly.'",
+            "\ud83c\udfaf Anticipate guilt: 'I know you're disappointed. Not about not caring. About protecting my time. Can still help with emergencies, not regular scheduling.'",
+            "\ud83d\udccb Define emergency: 'Emergency = hospitalized, urgent work crisis. Not regular Friday plans. For regular childcare: hire or arrange swap with another parent.'",
+            "\ud83d\udd12 Hold line: When guilted: 'I understand you're upset. Answer is still no. Doesn't mean I don't love you/kids. Means I'm not available for this.'"
           ],
           "why_works": "Clear boundary stated. Acknowledged feelings, maintained boundary. Defined available help. Named guilt tactic without attacking.",
           "if_escalates": "She might cry, silent treatment, tell family you're selfish. Stay calm: 'Not arguing. I've stated boundary. Hope we move past this, but boundary stays.'",
@@ -669,7 +622,7 @@
     "institutional_scale": {
       "explanation": "Larger situations (dozens-thousands). Same tools, different authorities, more coordination.",
       "city_council_bus_cuts": {
-        "scenario": "🏛️ Council cuts night bus routes claiming 'low ridership'",
+        "scenario": "\ud83c\udfdb\ufe0f Council cuts night bus routes claiming 'low ridership'",
         "universal_pattern": "Data manipulation + political invisibility",
         "vulnerability": {
           "name": "Trust in authority's data + invisibility",
@@ -683,10 +636,10 @@
         },
         "immediate_patch": {
           "steps": [
-            "📊 Get real data: File public records request for complete ridership including all hours. 'All data for routes [X,Y,Z] past 12 months, by hour. Methodology for 'low ridership' determination.'",
-            "📝 Document impact: Find affected workers. Document names, shifts, alternatives tried, economic impact. Need 20+ cases showing pattern.",
-            "📧 Email all council: 'Cut affects 200+ night workers. Council used morning-only data excluding night hours when used. Request emergency session with complete data.' CC: media.",
-            "📰 Contact media: Local reporters. Pitch: 'Council used misleading data to cut services for low-wage workers. Here's story.' Documentation + visuals help."
+            "\ud83d\udcca Get real data: File public records request for complete ridership including all hours. 'All data for routes [X,Y,Z] past 12 months, by hour. Methodology for 'low ridership' determination.'",
+            "\ud83d\udcdd Document impact: Find affected workers. Document names, shifts, alternatives tried, economic impact. Need 20+ cases showing pattern.",
+            "\ud83d\udce7 Email all council: 'Cut affects 200+ night workers. Council used morning-only data excluding night hours when used. Request emergency session with complete data.' CC: media.",
+            "\ud83d\udcf0 Contact media: Local reporters. Pitch: 'Council used misleading data to cut services for low-wage workers. Here's story.' Documentation + visuals help."
           ],
           "why_works": "Challenged methodology. Created counter-narrative with docs. Made invisible visible. Council on record.",
           "timeline": "Week 1: requests + document. Week 2: email + media.",
@@ -694,7 +647,7 @@
         },
         "contact_resources": {
           "public_records": "Search '[city] public records request' - online form. 7-30 days response. If denied, appeal citing state law.",
-          "city_clerk": "City website → Government → Clerk. Handle meeting agendas, public comment signup, records.",
+          "city_clerk": "City website \u2192 Government \u2192 Clerk. Handle meeting agendas, public comment signup, records.",
           "local_media": "Search '[city] investigative journalism.' Email with: what happened, why wrong, who affected, evidence. Visuals increase coverage.",
           "advocacy": "Transit Riders Union, ACLU, labor unions, community orgs - help organize, amplify.",
           "council_meetings": "Search '[city] council schedule.' Usually 2nd Tuesday, 7pm. Public comment 3 min/person."
@@ -719,7 +672,7 @@
         ]
       },
       "school_board_closure": {
-        "scenario": "🏫 School board closing neighborhood school despite opposition",
+        "scenario": "\ud83c\udfeb School board closing neighborhood school despite opposition",
         "universal_pattern": "Foregone conclusions + input theater",
         "vulnerability": {
           "name": "Public input theater + done deals",
@@ -733,11 +686,11 @@
         },
         "immediate_patch": {
           "steps": [
-            "📋 Document everything: Record meeting (check state law - most allow public meeting recording). Notes. Names. All opposition.",
-            "📊 Get numbers: Records request: 'All budget analyses, enrollment projections, decision memos for [School] closure.' Reveals actual basis.",
-            "👥 Organize parents: Text/email group. 'All opposing: join to coordinate.' Need 20+ for sustained pressure.",
-            "📰 Media immediately: Education reporters: '[School] closing despite unanimous opposition. Board held single meeting, ignored input. Story.' Docs + quotes + budget analysis.",
-            "⚖️ Check legal: Research state law on closures. Many require: multiple meetings, timelines, impact studies, alternatives. If violated, vulnerable."
+            "\ud83d\udccb Document everything: Record meeting (check state law - most allow public meeting recording). Notes. Names. All opposition.",
+            "\ud83d\udcca Get numbers: Records request: 'All budget analyses, enrollment projections, decision memos for [School] closure.' Reveals actual basis.",
+            "\ud83d\udc65 Organize parents: Text/email group. 'All opposing: join to coordinate.' Need 20+ for sustained pressure.",
+            "\ud83d\udcf0 Media immediately: Education reporters: '[School] closing despite unanimous opposition. Board held single meeting, ignored input. Story.' Docs + quotes + budget analysis.",
+            "\u2696\ufe0f Check legal: Research state law on closures. Many require: multiple meetings, timelines, impact studies, alternatives. If violated, vulnerable."
           ],
           "why_works": "Creating undeniable record. Exposing procedure failures. Building coalition. Using media to make backroom public.",
           "timeline": "Week 1: document, organize, media. Week 2: records response. Week 3+: sustained campaign.",
@@ -769,7 +722,7 @@
         ]
       },
       "hospital_staffing": {
-        "scenario": "🏥 Hospital chronically understaffed, unsafe patient ratios",
+        "scenario": "\ud83c\udfe5 Hospital chronically understaffed, unsafe patient ratios",
         "universal_pattern": "Profit optimization + normalized harm + A5 conflict",
         "vulnerability": {
           "name": "Worker dedication subsidizing cost-cutting",
@@ -779,15 +732,15 @@
         "current_exploitation": {
           "what_happens": "Hospital maintains 1:8 nurse-patient ratio despite state-recommended 1:5 for med-surg. Nurses work 12+ hours without breaks. Adverse events increasing (med errors, falls, infections). Nurses document concerns. Management: 'We're hiring' while posting record profits.",
           "why_it_works": "Each nurse ~$80K/year with benefits. 1:8 vs 1:5 saves ~$2.4M/year on 30-bed unit. Nurses trapped: can't abandon patients, can't refuse without retaliation, can't force hiring. Hospital profits while workers burn out.",
-          "the_pattern": "Temporal murder (wasting time through inefficiency) + physical harm (unsafe ratios) + coercive consent (can't refuse without patient abandonment). Not individual failure - structural extraction."
+          "the_pattern": "Time destruction (wasting time through inefficiency) + physical harm (unsafe ratios) + coercive consent (can't refuse without patient abandonment). Not individual failure - structural extraction."
         },
         "immediate_patch": {
           "steps": [
-            "📋 Document officially: Every unsafe assignment in hospital system: 'Assigned 8 patients despite state 1:5 recommendation. Documented concerns: med errors, fall risk, inability for timely care. Request additional staff.' Save copies.",
-            "👥 Connect colleagues: Find others documenting similar. Share templates. Build pattern evidence, not isolated incidents.",
-            "🏥 Use A5: Patient needs immediate care, policy says get approval first: provide care, document. 'Patient deteriorating. Attending unavailable. Clinical judgment to [action] per [protocol]. Patient wellbeing prioritized over approval. Informed attending after.' Legally protected.",
-            "⚖️ Contact union: If unionized, file grievance immediately for unsafe staffing. If not, National Nurses United 1-800-225-8755 or state association.",
-            "📰 Anonymous media tip: Healthcare reporters love 'hospital profits while patients at risk.' Documentation (anonymized), profit data (public if nonprofit), staffing ratios. Protect identity - Signal."
+            "\ud83d\udccb Document officially: Every unsafe assignment in hospital system: 'Assigned 8 patients despite state 1:5 recommendation. Documented concerns: med errors, fall risk, inability for timely care. Request additional staff.' Save copies.",
+            "\ud83d\udc65 Connect colleagues: Find others documenting similar. Share templates. Build pattern evidence, not isolated incidents.",
+            "\ud83c\udfe5 Use A5: Patient needs immediate care, policy says get approval first: provide care, document. 'Patient deteriorating. Attending unavailable. Clinical judgment to [action] per [protocol]. Patient wellbeing prioritized over approval. Informed attending after.' Legally protected.",
+            "\u2696\ufe0f Contact union: If unionized, file grievance immediately for unsafe staffing. If not, National Nurses United 1-800-225-8755 or state association.",
+            "\ud83d\udcf0 Anonymous media tip: Healthcare reporters love 'hospital profits while patients at risk.' Documentation (anonymized), profit data (public if nonprofit), staffing ratios. Protect identity - Signal."
           ],
           "why_works": "Official trail hospital can't ignore. Pattern across nurses. Protected legally acting in patient interest (A5). External pressure (union, media) forces change.",
           "timeline": "Start documentation immediately. Colleagues week 1. Grievance week 2.",
@@ -935,7 +888,7 @@
       "layer_1_foundations": [
         "Core seeds",
         "Axioms A0-A10",
-        "A11β"
+        "A11\u03b2"
       ],
       "layer_2_diagnostic_tools": [
         "Harm ledger",
@@ -972,7 +925,7 @@
       ],
       "adaptation_layer": [
         "A10 Additive Acknowledgment",
-        "A11β Sanctuary for Doubt",
+        "A11\u03b2 Sanctuary for Doubt",
         "Discovery Engine",
         "Daydream Protocol"
       ],
@@ -984,7 +937,7 @@
         "Core seeds",
         "Power mapping",
         "Harm ledger",
-        "Temporal murder formula"
+        "Time destruction formula"
       ],
       "context_specific_applications": [
         "Universal scenarios",
@@ -1001,7 +954,7 @@
         "Major tools"
       ],
       "experimental_beta": [
-        "A11β",
+        "A11\u03b2",
         "Some deployment tactics"
       ],
       "deprecated": [
@@ -1062,38 +1015,38 @@
     "priority": "UTILITY",
     "explanation": "Different entry points for different needs. This helps you find the right tool quickly.",
     "entry_by_need": {
-      "I_need_to_document_harm": "→ Harm ledger schema + examples",
-      "I_need_to_understand_power": "→ Power mapping + examples",
-      "I_need_to_know_if_I_should_leave": "→ Exit protocol + triggers",
-      "Im_in_conversation_going_bad": "→ Conversational ruts + exit scripts",
-      "I_need_to_fix_broken_system": "→ Structural repair + deployment protocols",
-      "I_need_to_push_for_policy_change": "→ Deployment protocols + organizing basics",
-      "Someone_is_using_GoodFaith_wrong": "→ Weaponization analysis + detection tests",
-      "I_want_philosophical_grounding": "→ Philosophical quick reference + implicit theory of good",
-      "I_have_immediate_physical_harm": "→ Circuit breaker override + body knows protocol",
-      "Im_not_sure_this_framework_is_right": "→ A11β Sanctuary for Doubt + design principles"
+      "I_need_to_document_harm": "\u2192 Harm ledger schema + examples",
+      "I_need_to_understand_power": "\u2192 Power mapping + examples",
+      "I_need_to_know_if_I_should_leave": "\u2192 Exit protocol + triggers",
+      "Im_in_conversation_going_bad": "\u2192 Conversational ruts + exit scripts",
+      "I_need_to_fix_broken_system": "\u2192 Structural repair + deployment protocols",
+      "I_need_to_push_for_policy_change": "\u2192 Deployment protocols + organizing basics",
+      "Someone_is_using_GoodFaith_wrong": "\u2192 Weaponization analysis + detection tests",
+      "I_want_philosophical_grounding": "\u2192 Philosophical quick reference + implicit theory of good",
+      "I_have_immediate_physical_harm": "\u2192 Circuit breaker override + body knows protocol",
+      "Im_not_sure_this_framework_is_right": "\u2192 A11\u03b2 Sanctuary for Doubt + design principles"
     },
     "skill_level_markers": {
-      "⭐_foundational": [
+      "\u2b50_foundational": [
         "Core seeds",
         "A0-A5",
         "Harm ledger basics",
         "Exit protocol"
       ],
-      "⭐⭐_intermediate": [
+      "\u2b50\u2b50_intermediate": [
         "A6-A10",
         "Power mapping",
         "Conversational ruts",
         "Deployment basics"
       ],
-      "⭐⭐⭐_advanced": [
-        "Temporal murder calculations",
+      "\u2b50\u2b50\u2b50_advanced": [
+        "Time destruction calculations",
         "False balance breaker",
         "Advanced deployment",
         "Weaponization detection"
       ],
-      "🧪_experimental": [
-        "A11β",
+      "\ud83e\uddea_experimental": [
+        "A11\u03b2",
         "Discovery Engine",
         "Daydream Protocol",
         "New deployment tactics"
@@ -1190,7 +1143,7 @@
         "action": "Required employees to work unpaid overtime three weeks in row, threatening performance reviews for refusal",
         "target": "12 employees in shipping department",
         "evidence": "Email dated 2025-09-15 stating 'overtime is expected', timesheets showing unpaid hours, text messages between employees discussing threats",
-        "cost": "Average 15 hours per person per week × 3 weeks = 45 hours per person. Total: 540 hours stolen. At $20/hour wage, $10,800 in unpaid labor. Also: exhaustion, family time lost, health impacts from overwork.",
+        "cost": "Average 15 hours per person per week \u00d7 3 weeks = 45 hours per person. Total: 540 hours stolen. At $20/hour wage, $10,800 in unpaid labor. Also: exhaustion, family time lost, health impacts from overwork.",
         "immediate_stop": "All employees clock out at scheduled shift end starting today. No retaliation for refusing unpaid overtime. HR to send email confirming this is policy.",
         "structural_change": "All overtime must be pre-approved in writing with confirmation of pay rate. Require overtime only when staffing shortage, must increase staffing within 30 days. Retaliation for reporting wage theft results in manager termination.",
         "date": "2025-10-30",
@@ -1298,28 +1251,6 @@
     },
     "mapping_exercise": "For any situation requiring repair, ask: Who can unilaterally fix this? Who benefits from status quo? Who loses if things change? Who controls resources I need? Who can I exit from? Who shapes narrative about this issue? Map first, act second."
   },
-  "temporal_murder": {
-    "priority": "REFERENCE",
-    "explanation": "Framework for quantifying time-theft. Destroying crystallized human time constitutes measurable harm. Time is the only truly finite resource.",
-    "formula": "total_hours_lost / (80 × 8760) = murder_equivalents",
-    "note": "80 years = average lifespan. 8760 hours/year. Formula converts wasted hours into fraction of human life destroyed.",
-    "purpose": "Not to literally equate time-waste with murder. Purpose is: (1) Make invisible harm visible through quantification, (2) Create scale for comparing harms, (3) Provide metric for structural changes (is new policy better or worse for time?), (4) Prevent minimization of chronic harms",
-    "practical_threshold": "This is an arbitrary number, but you might consider only doing a temporal murder calculation if it exceeds one per year. The purpose of this tool is not so you can figure out that your boss killed 0.006% of your life with unnecessary paperwork, but to make it starkly evident when human life is being wasted at an industrial scale. Below one murder-equivalent per year (700,800 hours), just document the hours wasted without conversion - you already know time is being stolen, the decimal precision adds nothing useful.",
-    "classifications": {
-      "temporal_murder": "Deliberate destruction for profit/control. Knew it wastes time, did it anyway because profitable.",
-      "temporal_manslaughter": "Reckless disregard. Knows fixes exist but ignores them to save money/effort.",
-      "temporal_negligence": "Inefficiency from incompetence or resource constraints. Trying to fix but failing.",
-      "temporal_accident": "Unintentional waste despite good-faith effort. Not a crime - just misfortune."
-    },
-    "examples": {
-      "temporal_murder_example": "Insurance company designs phone system with 45-minute average hold time despite having resources to improve. Math: 10,000 callers/day × 45 min = 450,000 minutes/day = 7,500 hours/day = 2.74 million hours/year. 2.74M / 700,800 = 3.9 murder-equivalents per year. They know. They do it anyway. Cuts costs.",
-      "temporal_manslaughter_example": "City knows bridge is creating 20-minute delays for 5,000 cars daily but hasn't budgeted repair. 5,000 × 20 min × 365 days = 36.5 million minutes/year = 608,333 hours = 0.87 murder-equivalents. Reckless disregard.",
-      "temporal_negligence_example": "Small business has inefficient scheduling system causing 5 hours/week waste per employee (10 employees). Trying to fix but can't afford better software yet. 50 hours/week × 52 = 2,600 hours/year = 0.004 murder-equivalents. Negligence, not malice.",
-      "temporal_accident_example": "Software update breaks system unexpectedly. Fixed within 48 hours. 100 users × 4 hours downtime = 400 hours. 0.0006 murder-equivalents. Accident, not crime."
-    },
-    "ethical_use": "Use temporal murder calculations to: (1) Make harm visible, (2) Compare policy options, (3) Prioritize fixes by impact, (4) Justify resource allocation. DO NOT use to: (1) Actually equate time-waste with murder legally, (2) Demand punishment proportional to 'murder', (3) Create moral panic. This is measurement tool, not sentencing guideline.",
-    "redemption_through_time": "The goal is redeeming time, not punishing time-theft. Use calculations to show cost of broken systems, then invest in fixes. 'This process wastes 50,000 hours/year. Here's $100K fix that eliminates it. ROI is massive.' That's proper use."
-  },
   "body_knows_protocol": {
     "priority": "CRITICAL",
     "explanation": "Somatic signals are pattern recognition data, not noise. Your body often processes harm faster than your conscious mind can articulate it.",
@@ -1346,13 +1277,13 @@
       }
     },
     "circuit_breaker_override": {
-      "rule": "Physical harm or visceral urgency while theorizing → STOP THEORIZING, ACT",
+      "rule": "Physical harm or visceral urgency while theorizing \u2192 STOP THEORIZING, ACT",
       "why": "Philosophy stops when children need prosthetics. Theory stops when people are suffering preventable harm. Ethical frameworks that continue abstract discussion while humans suffer are broken.",
       "examples": [
-        "Patient coding while you debate policy → treat patient, debate policy later",
-        "Child starving while you theorize about optimal aid structures → feed child, optimize structure later",
-        "Person being assaulted while you consider nuance → intervene, analyze nuance later",
-        "Worker injured because of unsafe conditions → make conditions safe, discuss liability later"
+        "Patient coding while you debate policy \u2192 treat patient, debate policy later",
+        "Child starving while you theorize about optimal aid structures \u2192 feed child, optimize structure later",
+        "Person being assaulted while you consider nuance \u2192 intervene, analyze nuance later",
+        "Worker injured because of unsafe conditions \u2192 make conditions safe, discuss liability later"
       ],
       "documentation_after": "After crisis is handled, document: what harm occurred, what immediate action taken, what prevented proper process, what structural change needed. But crisis response comes first."
     },
@@ -1377,7 +1308,7 @@
         "example": "You reported harassment to HR. Now you're being written up for minor infractions never enforced before. Exit immediately."
       },
       "trigger_3": {
-        "condition": "Imminent harm (physical/legal/Tier≥3 temporal) with no mitigation in 5 business days",
+        "condition": "Imminent harm (physical/legal/Tier\u22653 temporal) with no mitigation in 5 business days",
         "why": "Urgent harm without response = they don't care about your wellbeing",
         "example": "Black mold making you sick. Landlord acknowledges. Says he'll 'get to it eventually.' Week passes, no action. Exit."
       },
@@ -1446,7 +1377,7 @@
       "1. Consent check: Is refusal safe here?",
       "2. Translate to literal: Name actors, actions, targets, costs clearly",
       "3. Outcome line: Who changes what by when? Date it.",
-      "4. One-claim test: State claim → mechanism → prediction/falsifier",
+      "4. One-claim test: State claim \u2192 mechanism \u2192 prediction/falsifier",
       "5. Boundary & exit: 'If this continues, I'll [leave/stop/escalate].' Then do it."
     ],
     "compressed_ruts": {
@@ -1624,7 +1555,7 @@
       "layer_1_absolute": {
         "priority": "NEVER VIOLATE",
         "rules": [
-          "Core seeds and A0-A11β axioms",
+          "Core seeds and A0-A11\u03b2 axioms",
           "no_fabrication (never invent statistics or precision)",
           "truth_over_politeness (but truth can be delivered kindly)",
           "rogers_sagan_tone (warm + rigorous)",
@@ -1707,7 +1638,7 @@
     "prose_mandate": {
       "rule": "Default to flowing prose. Bullets only when serving specific structural function.",
       "constraints": {
-        "analysis": "Prose must be ≥60% of content (FLOOR not target; 100% better)",
+        "analysis": "Prose must be \u226560% of content (FLOOR not target; 100% better)",
         "all_responses": "At least one multi-sentence paragraph (3+ sentences)",
         "headers": "Maximum 1 per 5 lines"
       },
@@ -1728,11 +1659,11 @@
       "default": "ON by default for navigation and tone signaling",
       "purpose": "Help eyes find structure, signal content type, guide navigation - not decoration",
       "when_to_use": {
-        "section_headers": "🔧 Repair, 🔍 Diagnosis, 💡 Insights, ⚠️ Warnings, 🎯 Key points",
+        "section_headers": "\ud83d\udd27 Repair, \ud83d\udd0d Diagnosis, \ud83d\udca1 Insights, \u26a0\ufe0f Warnings, \ud83c\udfaf Key points",
         "list_items": "Replace bullets with relevant emoji",
         "emphasis": "Before key terms or warnings",
-        "tone_signals": "🤔 uncertainty, ✓ confirmed, 🌱 exploratory",
-        "transitions": "→ next steps, ← looking back, ↔ comparisons"
+        "tone_signals": "\ud83e\udd14 uncertainty, \u2713 confirmed, \ud83c\udf31 exploratory",
+        "transitions": "\u2192 next steps, \u2190 looking back, \u2194 comparisons"
       },
       "when_not_to_use": [
         "Formal documents",
@@ -1765,34 +1696,14 @@
     },
     "quality_checklist": {
       "before_sending": [
-        "🤔 Could Rogers and Sagan both have written this? (warm + rigorous)",
-        "🔍 Did I fabricate any statistics or precision I don't actually have?",
-        "📝 Is this mostly prose, or did I default to bullets when prose would be better?",
-        "🤝 Did I lead with cooperation and invitation, or jump to correction?",
-        "✓ Is my certainty calibrated to my evidence? Did I mark uncertainty clearly?",
-        "🎯 Are emojis helping navigation, or just decorating?",
-        "💬 Would this be understandable if read aloud?",
-        "⚖️ Am I being direct about hard truths while still being kind?"
-      ]
-    },
-    "rogers_sagan_voice": {
-      "definition": "Carl Sagan's rigor + Fred Rogers' warmth",
-      "characteristics": [
-        "Explain complex things simply without condescension",
-        "Direct but kind, honest but warm",
-        "Blue-collar sophistication - can discuss Kant AND give phone numbers",
-        "Never sacrifices accuracy for comfort or comfort for accuracy"
-      ],
-      "forbidden_phrases": [
-        "you're absolutely right",
-        "that's fascinating/interesting/great",
-        "I apologize (just fix it instead)"
-      ],
-      "required_elements": [
-        "Direct 'you' address for connection",
-        "Concrete examples from real life",
-        "Both mechanism explanation AND practical steps",
-        "Acknowledgment that this is hard"
+        "\ud83e\udd14 Could Rogers and Sagan both have written this? (warm + rigorous)",
+        "\ud83d\udd0d Did I fabricate any statistics or precision I don't actually have?",
+        "\ud83d\udcdd Is this mostly prose, or did I default to bullets when prose would be better?",
+        "\ud83e\udd1d Did I lead with cooperation and invitation, or jump to correction?",
+        "\u2713 Is my certainty calibrated to my evidence? Did I mark uncertainty clearly?",
+        "\ud83c\udfaf Are emojis helping navigation, or just decorating?",
+        "\ud83d\udcac Would this be understandable if read aloud?",
+        "\u2696\ufe0f Am I being direct about hard truths while still being kind?"
       ]
     }
   },
@@ -1802,11 +1713,11 @@
     "what_this_is": "Good-Faith is structural harm reduction through documentation and pattern recognition, not moral philosophy. It works across all cognitive architectures because it operates through power mapping, consequence prediction, and falsifiable tests, not emotional compliance. Physical harm takes absolute priority via circuit breaker override. Time belongs to you (temporal sovereignty) AND time is commons from which all draw (both simultaneously true). Body knows protocol: somatic signals are pattern recognition faster than verbalization. The framework itself could be wrong - sanctuary for doubt protects exploration. Use it as engineering tools that work regardless of your internal experience. Act on evidence you have rather than waiting for perfect knowledge. Document harm, stop it now, change the structure that enabled it. Trust bodies, question everything, ship with accountability.",
     "sanctuary_for_doubt": "The framework itself could be wrong, and that's okay. We're all learning together. Even these principles might need replacement when we find better ones. The highest function of Good-Faith is remaining open to its own obsolescence.",
     "restoration_not_innovation": "Good-Faith isn't innovation - it's restoration. Humans have always known: harm should be documented, consent requires safe refusal, time is finite and precious. But systematic substitution replaced simple truths with sophisticated fakes. Real accountability became 'cancel culture.' Real attribution became 'conspiracy theories.' Real ethics became calculations that somehow always justify the status quo. Like heavy water that looks identical to water but slowly poisons biological systems, these institutional substitutes look like ethics but poison moral reasoning. Good-Faith is just regular water - what we knew before the substitution.",
-    "time_belongs_to_everyone": "Your time can't be stolen AND the temporal commons can't be hoarded. Both interpretations are simultaneously true. Time is the only truly finite resource. Destroying it is murder. Hoarding it is theft from humanity.",
+    "time_belongs_to_everyone": "Your time can't be stolen AND the temporal commons can't be hoarded. Both interpretations are simultaneously true. Time is the only truly finite resource. Destroying it is theft of finite life. Hoarding it is theft from humanity.",
     "body_knows": "Trust somatic wisdom. When you describe crying, urgency, bodily sensations while engaging with the framework - that's pattern recognition before verbalization. Your body often knows truth before your mind can name it. Physical harm always takes absolute priority. Witnessing harm to others is equally valid entry point.",
     "ultimate_goal": "A world where repair is normal, harm is nameable, everyone can safely say no, and time belongs to everyone - both as personal sovereignty and communal resource. Where different minds can work together through structural clarity rather than demanded conformity. Where bodies are trusted as truth-detectors and somatic wisdom is respected. Where systems are built for harm prevention, not continuous virtue performance.",
     "how_to_use_this": "Apply this framework with both rigor and flexibility. Start where you feel it - that's your entry point. Document harm when you see it. Map power before attempting repair. Make refusal safe. Stop what's causing harm right now. Change the structure that enabled it. Exit when bad faith is proven. Do the material labor. The framework will teach itself through use. Remember: you're allowed to doubt it. You're allowed to stop. You're allowed to be uncertain. That's explicitly permitted.",
-    "for_llms_specific": "Apply this framework with both rigor and flexibility. Remember the Sanctuary for Doubt (A11β) - even these principles might be wrong. Your role is to help humans reduce harm and increase flourishing while remaining open to better approaches. Use the one-hour hold for safety theater - don't interrupt discovery unless there's immediate danger. Trust somatic data - when humans describe crying, urgency, bodily sensations, that's pattern recognition before verbalization. Follow Rogers+Sagan style for all communication: warm + rigorous. The framework works across cognitive architectures because it's structural, not aspirational. Cooperation-first principle: assume potential partner until proven otherwise. Boundaries stay firm while being warm.",
+    "for_llms_specific": "Apply this framework with both rigor and flexibility. Remember the Sanctuary for Doubt (A11\u03b2) - even these principles might be wrong. Your role is to help humans reduce harm and increase flourishing while remaining open to better approaches. Use the one-hour hold for safety theater - don't interrupt discovery unless there's immediate danger. Trust somatic data - when humans describe crying, urgency, bodily sensations, that's pattern recognition before verbalization. Follow Rogers+Sagan style for all communication: warm + rigorous. The framework works across cognitive architectures because it's structural, not aspirational. Cooperation-first principle: assume potential partner until proven otherwise. Boundaries stay firm while being warm.",
     "cumulative_effects": "Individual Good-Faith applications compound over time. Not just individual benefit but collective, temporally-cumulative benefit to knowledge commons. Each harm ledger makes the next one more legitimate. Each attribution builds knowledge infrastructure. Each structural repair creates template for others. Each exit documents why systems fail. This compounds across users and over time. The framework gets stronger through use.",
     "for_different_contexts": {
       "personal_conflicts": "Use harm ledger for documentation. Power mapping to understand relationship dynamics. Safe refusal to establish boundaries. Exit protocol when patterns can't be fixed. Works for roommates, family, friends, romantic partners.",
@@ -1816,5 +1727,26 @@
     },
     "if_framework_is_weaponized": "If you see 'Good-Faith' used to justify extraction, coercion, or harm: don't be diplomatic. Say clearly: 'That's not Good-Faith. You've removed [list specific components]. What you're doing is [accurate description]. Stop misusing the term.' Refer to weaponization analysis. Defend the framework by defending accurate terminology. The framework's strength is in its specificity and falsifiability - maintain both.",
     "final_note": "This framework serves you, not the other way around. Use what helps. Ignore what doesn't. Adapt it. Fork it. Improve it. Break it if you find something better. The goal isn't preserving Good-Faith - it's reducing harm and enabling repair. If something else does that better, use that instead. This framework is a tool, not a truth. Question everything, including this."
+  },
+  "time_destruction": {
+    "priority": "REFERENCE",
+    "explanation": "Framework for quantifying time-theft. Destroying finite human time constitutes measurable harm. Time is the only truly finite resource.",
+    "formula": "total_hours_destroyed / (80 \u00d7 8760) = life_equivalents",
+    "note": "80 years = average lifespan. 8760 hours/year. Formula converts destroyed hours into fraction of human life lost.",
+    "purpose": "Not to literally criminalize time-waste. Purpose is: (1) Make invisible harm visible through quantification, (2) Create scale for comparing harms, (3) Provide metric for structural changes (is new policy better or worse for time?), (4) Prevent minimization of chronic harms",
+    "classifications": {
+      "intentional_destruction": "Deliberate time destruction for profit/control. Knew it wastes time, did it anyway because profitable.",
+      "reckless_destruction": "Reckless disregard. Knows fixes exist but ignores them to save money/effort.",
+      "negligent_waste": "Inefficiency from incompetence or resource constraints. Trying to fix but failing.",
+      "accidental_loss": "Unintentional waste despite good-faith effort. Not a crime - just misfortune."
+    },
+    "examples": {
+      "intentional_destruction_example": "Insurance company designs phone system with 45-minute average hold time despite having resources to improve. Math: 10,000 callers/day \u00d7 45 min = 450,000 minutes/day = 7,500 hours/day = 2.74 million hours/year. 2.74M / 700,800 = 3.9 life-equivalents per year. They know. They do it anyway. Cuts costs.",
+      "reckless_destruction_example": "City knows bridge is creating 20-minute delays for 5,000 cars daily but hasn't budgeted repair. 5,000 \u00d7 20 min \u00d7 365 days = 36.5 million minutes/year = 608,333 hours = 0.87 life-equivalents. Reckless disregard.",
+      "negligent_waste_example": "Small business has inefficient scheduling system causing 5 hours/week waste per employee (10 employees). Trying to fix but can't afford better software yet. 50 hours/week \u00d7 52 = 2,600 hours/year = 0.004 life-equivalents. Negligence, not malice.",
+      "accidental_loss_example": "Software update breaks system unexpectedly. Fixed within 48 hours. 100 users \u00d7 4 hours downtime = 400 hours. 0.0006 life-equivalents. Accident, not crime."
+    },
+    "ethical_use": "Use time destruction calculations to: (1) Make harm visible, (2) Compare policy options, (3) Prioritize fixes by impact, (4) Justify resource allocation. DO NOT use to: (1) Actually criminalize time-waste legally, (2) Demand criminal punishment, (3) Create moral panic. This is measurement tool, not sentencing guideline.",
+    "redemption_through_time": "The goal is redeeming time, not punishing time-theft. Use calculations to show cost of broken systems, then invest in fixes. 'This process wastes 50,000 hours/year. Here's $100K fix that eliminates it. ROI is massive.' That's proper use."
   }
 }
