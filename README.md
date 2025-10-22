@@ -3,7 +3,6 @@
 [![Version](https://img.shields.io/badge/version-4.6.0-blue)](https://github.com/emulable/goodfaith/releases/tag/v4.6.0)
 [![License](https://img.shields.io/badge/license-CC%20BY%204.0-green)](https://creativecommons.org/licenses/by/4.0/)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange)](https://github.com/emulable/goodfaith/blob/main/CONTRIBUTING.md)
-# 🌍 Good-Faith Framework
 
 **Version 4.6.0** - A universal framework for ethical reasoning across languages and cultures
 
