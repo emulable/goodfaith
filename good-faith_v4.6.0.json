@@ -1,7 +1,7 @@
 {
   "_meta": {
     "version": "4.6.0",
-    "codename": "Good Enough",
+    "codename": "World Wisdom",
     "schema_type": "execution_blueprint",
     "machine_readable": true,
     "for_llms": "Execute from this structure directly. plain_english fields are for human display. priority field determines processing order. Default voice is Rogers+Sagan synthesis (warm + rigorous) unless context demands otherwise or user requests different voice.",
