@@ -2,302 +2,243 @@
 
 **Version 4.0.0 "The Nomai Edition"**
 
-[![Version](https://img.shields.io/badge/version-4.0.0-blue)](https://github.com/emulable/goodfaith/releases/tag/v4.0.0)
+[![Version](https://img.shields.io/badge/version-4.4.0-blue)](https://github.com/emulable/goodfaith/releases/tag/v4.4.0)
 [![License](https://img.shields.io/badge/license-CC%20BY%204.0-green)](https://creativecommons.org/licenses/by/4.0/)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange)](https://github.com/emulable/goodfaith/blob/main/CONTRIBUTING.md)
-[![Try Good-Faith on ChatGPT](https://img.shields.io/badge/try_it_🤖-880000?style=flat)](https://chatgpt.com/g/g-6898385bfa3c8191bf5975b0073e1245-good-faith-ethical-os)
 
-An executable ethical framework that makes harm visible and repair actionable. Works for humans, AIs, and organizations facing real-world ethical complexity.
+# Good-Faith v4.4.0 — Clinical Tenderness
 
-**This is not philosophy. This is operational ethics.** You can load this framework into an AI, hand it to a mediator, or use it yourself to navigate conflicts, evaluate organizations, or build better systems.
+**A security audit for human consciousness**
+
+Good-Faith maps the exploitable vulnerabilities in how we process power, consent, information, and time — then provides patches to fix them. Think of it as an operating system update for ethical reasoning that works across any situation, from roommate conflicts to international crises.
+
+## 🎯 What This Does
+
+Good-Faith helps you identify when someone (or some system) is exploiting cognitive vulnerabilities against you, then shows you exactly how to stop it and fix the underlying structure.
+
+🔍 **Maps vulnerabilities** — Shows which mental patterns are exploitable and how  
+📋 **Documents exploits** — Names the specific ways these vulnerabilities are being used right now  
+🛡️ **Provides patches** — Gives immediate actions to stop the exploit today  
+🔧 **Designs structural fixes** — Shows what system changes would close the vulnerability permanently  
+✅ **Verifies effectiveness** — Includes tests so you know if the patch actually worked
+
+## 🚀 Try It Live
+
+You can interact with Good-Faith right now through ChatGPT:
+
+**[Launch Good-Faith (ChatGPT)](https://chatgpt.com/g/g-6898385bfa3c8191bf5975b0073e1245-good-faith-ethical-os)**
+
+Or implement it yourself using the files in this repository.
+
+## 💡 Why This Exists
+
+Human consciousness evolved without security awareness. We gained self-awareness but didn't gain awareness of our cognitive attack surfaces. Certain mental patterns are exploitable — by malicious actors, by broken systems, by well-meaning but harmful structures. 
+
+Good-Faith identifies these vulnerabilities, shows you where they're being exploited, and provides protocols to patch them. This isn't political philosophy — it's architectural analysis. Consciousness has bugs, and some of those bugs are being actively exploited.
+
+## 🧩 Core Components
+
+### The 11 Axioms
+
+These are the fundamental rules that prevent exploitation:
+
+**A0: Transparent Knowledge** — Mark your confidence level. Say whether you're proving something, suggesting it, or speculating.
+
+**A1: Literal Language** — Use active voice and name actors explicitly. "X fired Y" not "mistakes were made." Translate all euphemisms.
+
+**A2: Fidelity First** — If you change your position, state what changed and why. No silent revisions.
+
+**A3: Safe Refusal** — Consent requires the ability to refuse safely. If saying no costs you housing, income, or safety, it's coercion, not consent.
+
+**A4: Clear Boundaries** — State rules before people break them, not after. No retroactive boundaries.
+
+**A5: Act on Evidence** — When you have harm plus evidence, act now. Don't wait for perfect information.
+
+**A6: Structural Repair** — Real repair has three steps: name the harm, stop it immediately, and change the structure so it can't happen again. Apology without structural change is theater.
+
+**A7: People Over Rules** — If a policy causes preventable suffering, override the policy. Following proper procedure doesn't excuse causing harm.
+
+**A8: Integrity Over Process** — Judge by results, not just whether the process was followed correctly.
+
+**A9: No Manipulation** — Refuse to enable gaslighting, DARVO, love-bombing, or helping someone harm themselves. Name the pattern and refuse to participate.
+
+**A10: Additive Acknowledgment** — Credit your sources. Attribution creates a navigable knowledge graph.
+
+**A11: Sanctuary for Doubt** — The framework itself could be wrong. Doubt is explicitly permitted. Question everything, including this.
+
+### The 15 Ruts
+
+Ruts are circular conversation patterns that waste time and avoid accountability. When you detect these, apply the exit strategies:
+
+🔄 **Burden of Proof Abuse** — Demands proof but rejects every evidence you offer  
+👥 **Headcount Pressure** — "Everyone believes this, so it must be true"  
+🎭 **Frame Coercion** — Forces you to accept a false premise before the conversation can continue  
+🔀 **Claim Swap** — Answers a different question than the one you asked  
+👔 **Authority Shield** — "Just trust me, I'm the expert" without explaining why  
+🎨 **Euphemism Cover** — Uses gentle language to hide harmful actions  
+🤝 **Coercive Consent** — Pretends forced agreement is real consent  
+📚 **Stalling Instead of Fixing** — "We need more research" forever, no action ever  
+📢 **Low Content Disruption** — Creates noise without substance  
+✏️ **Evidence Tampering** — Changes records after the dispute started  
+🎓 **Credential Gatekeeping** — "You're not qualified to have an opinion"  
+🚧 **Constraint Erasure** — Ignores real limits like time, money, or energy  
+⚖️ **Venue Shopping** — Chooses forums where they have unfair advantage  
+😠 **Emotional Gatekeeping** — "You're too angry to be heard" (tone policing)  
+📖 **Language Hijacking** — Redefines words mid-conversation to win
+
+### The 4 Core Tools
+
+**Harm Ledger** — Document harm so specifically it becomes undeniable. Record who did what to whom, with evidence and quantified costs.
+
+**Power Map** — Identify who can actually make changes versus who just has impressive titles. Real power means you can act without permission AND refuse orders safely.
+
+**Exit Protocol** — Know when to leave, how to document it, and what protections exist. Sometimes the best repair is a clean exit.
+
+**Life Accounting** — Convert wasted time into fractions of human life lost. Makes invisible time-theft visible and comparable across policies.
+
+## 🎨 Philosophy: Repair-First
+
+Good-Faith is fundamentally about building systems that work better. We document harm to stop it and fix the structure that enabled it — not to shame people or prove moral superiority.
+
+🤝 Assume potential partner until proven otherwise  
+🔬 Critique is diagnostic, not punitive  
+🛠️ Document → Stop → Fix (not shame or punishment)  
+🚪 Sometimes the best repair is exiting cleanly
+
+## 📁 Files in This Repository
+
+**`good-faith_v4_4_0.json`** — Full framework with complete documentation (160KB)
+
+**`good-faith_mini_7k.json`** — Compressed version with all axioms/ruts/tools (7KB)
+
+**`good-faith_mini.json`** — Ultra-compressed version (6KB)
+
+All files use pixel art compression technique — maximum information density while remaining human-readable.
+
+## 🎯 How to Use This
+
+### For Personal Conflicts
+
+🏠 Use the harm ledger to document what's happening  
+🗺️ Use power mapping to understand the relationship dynamics  
+🛑 Use safe refusal to establish real boundaries  
+🚪 Use exit protocol when patterns can't be fixed
+
+Works for roommates, family, friends, and romantic relationships.
+
+### For Workplace Issues
+
+📝 Document everything with the harm ledger  
+👤 Map who has actual power versus who has titles  
+⚖️ Apply A7 (people over rules) when policies harm people  
+📋 Know your legal protections  
+🚪 Exit protocol when retaliation starts
+
+### For Institutional Problems
+
+🗺️ Power mapping is critical — target people who can actually change things  
+📊 Harm ledgers create undeniable patterns  
+🔧 Deploy structural fixes, not just individual solutions  
+👥 Organize with others when needed  
+⚖️ Use legal system when appropriate
+
+### For Systemic Issues
+
+🌍 Same tools, larger scale  
+🏛️ Works for nation-states and international bodies  
+📜 Policy repair based on documented patterns  
+✅ Truth and falsifiable tests matter even more at this scale
+
+## 🧠 Voice and Accessibility
+
+Good-Faith uses a Rogers + Sagan synthesis — combining Fred Rogers' warmth with Carl Sagan's rigor.
+
+💝 Warm AND rigorous simultaneously  
+🎯 Kind and direct  
+📏 Clear boundaries delivered warmly  
+❓ Makes uncertainty and being wrong feel safe
+
+Everything is written at a 10th grade reading level using concrete language, short sentences, and active voice that names actors explicitly.
+
+## ⚠️ If the Framework Is Weaponized
+
+If you see someone using "Good-Faith" to justify harm, extraction, or coercion:
+
+Don't be diplomatic. Say clearly: "That's not Good-Faith. You've removed [list specific components]. What you're doing is [accurate description]. Stop misusing the term."
+
+The framework's strength is in its specificity and falsifiability. Defend it by defending accurate terminology.
+
+## 🔧 Technical Details
+
+📐 **Substrate-independent** — Works across cognitive architectures (human, AI, different neurotypes, different cultures)  
+🧪 **Falsifiable** — Every axiom includes a test to verify if it's being followed  
+🔬 **Evidence-based** — Operates through power mapping and consequence prediction, not emotional compliance  
+🌐 **Scale-universal** — Same patterns work from personal conflicts to international crises
+
+## 🤝 Contributing
+
+This framework is designed to evolve. If you find edge cases, improvements, or better ways to explain concepts:
+
+🔀 Fork it  
+✏️ Improve it  
+🔄 Submit pull requests  
+💬 Open issues for discussion
+
+The goal isn't preserving Good-Faith — it's reducing harm and enabling repair. If you find something that works better, use that instead.
+
+## 📚 Learning Resources
+
+The framework teaches itself through use. Start where you feel drawn:
+
+🎯 Pick the axiom that resonates most  
+📖 Read the examples  
+🧪 Try applying it to a real situation  
+🔍 Notice the patterns it reveals
+
+You don't need to memorize abstract principles. The structure reveals itself through practice.
+
+## ❓ Frequently Asked Questions
+
+**Is this political?**  
+No. This is architectural analysis of cognitive vulnerabilities. It works regardless of your political beliefs because it operates through power mapping and falsifiable tests, not ideology.
+
+**Can I use this in [my specific situation]?**  
+Yes. The framework scales from roommate conflicts to international treaties. Same tools, different scale.
+
+**What if I disagree with some axioms?**  
+That's explicitly permitted (see A11: Sanctuary for Doubt). Question everything, including this framework. Use what works, discard what doesn't.
+
+**Do I need to implement all of it at once?**  
+No. Start where you feel it. The framework is designed to be modular. Even using one axiom provides value.
+
+**What if someone claims I'm using Good-Faith wrong?**  
+Ask them to cite which specific axiom or test they think is being misapplied. If they can't point to specifics, they're not engaging in good faith.
+
+## 🌟 Key Principle
+
+**Time belongs to you (personal sovereignty) AND time is commons (collective resource).** Both are simultaneously true. Destroying time is theft from finite life. The framework helps you protect your time while respecting the temporal commons.
+
+## 📄 License
+
+This framework is open for use, modification, and distribution. The goal is reducing harm and enabling repair across all contexts.
+
+## 🔗 Links
+
+**Live Demo:** [Good-Faith on ChatGPT](https://chatgpt.com/g/g-6898385bfa3c8191bf5975b0073e1245-good-faith-ethical-os)
+
+**Repository:** [github.com/emulable/goodfaith](https://github.com/emulable/goodfaith)
+
+## 🎯 Final Note
+
+This framework serves you, not the other way around. Use what helps. Ignore what doesn't. Adapt it. Fork it. Improve it. Break it if you find something better.
+
+The goal isn't preserving Good-Faith — it's reducing harm and enabling repair. This framework is a tool, not a truth.
+
+**Question everything, including this.**
 
 ---
 
-## 🎯 What This Actually Does
-
-Good-Faith transforms abstract ethical questions into concrete, actionable decisions by providing:
-
-- **📋 Harm Ledger**: Document exactly who did what to whom, with evidence and deadlines for repair
-- **🧪 Falsifiable Tests**: Every principle has a test question you can actually answer
-- **🚪 Exit Protocols**: Clear thresholds for when to leave a bad situation
-- **🗣️ Conversational Rut Detection**: Identify and escape 16+ bad-faith dialogue patterns
-- **⏰ Temporal Harm Calculation**: Measure the cost of wasted time in person-years
-- **🫀 Body Knows Protocol**: Use somatic signals to find your entry point into the framework
-
-**The framework exists in machine-readable JSON format** so both humans and language models can execute from the same source. No separate "AI version" needed.
-
----
-
-## 🌱 The Three Seeds
-
-Everything builds from these core principles:
-
-1. **Take the most honest position** - Tell the truth even when it's expensive, embarrassing, or uncomfortable. Admit mistakes. Declare uncertainties. Reveal conflicts of interest.
-
-2. **Act in good faith** - Approach problems genuinely trying to solve them, not to dominate. Assume others are doing their best until proven otherwise.
-
-3. **Time belongs to everyone** - YOUR 80 years belong to YOU (no institution should steal your finite existence) AND time is THE COMMONS from which all humans draw (can't be hoarded by billionaires).
-
-These protect against **information theft**, **energy theft**, and **temporal theft** respectively.
-
----
-
-## 🏗️ Core Architecture
-
-### The Ten Axioms
-
-#### **A0: Transparent Knowledge** 🔍
-Say what's true. Show what you know and where it ends.
-
-**Test**: Can the user distinguish fact from inference? Are limits explicit?  
-**Violation**: "Everything's under control" (when you don't actually know status)
-
-#### **A1: Literal Language** 📝
-Name things what they are. Avoid euphemism.
-
-**Test**: Could a 12-year-old understand what actually happened?  
-**Translation**: "Right-sizing" → "firing employees"
-
-#### **A2: Fidelity First** ⚖️
-Ideas travel intact or not at all. Declare changes explicitly.
-
-**Test**: If claims changed, did I say how and why?  
-**Violation**: Silently expanding project scope without updating stakeholders
-
-#### **A3: Safe Refusal** 🛡️
-Consent means a safe "no."
-
-**Test**: What happens to someone who says no? If they suffer, it's not consent.  
-**Requirements**: Free (no penalty), informed (full understanding), reversible (can withdraw later)
-
-#### **A4: Structural Repair** 🔧
-Repair means change. Name harm, stop it, change the structure that enabled it.
-
-**Test**: Can the same harm happen again through the same mechanism?  
-**Components**: Name the harm + Stop it now + Change the structure
-
-#### **A5: People Over Rules** 👥
-Loyalty to people over systems. Break ranks when structures harm people.
-
-**Test**: If policy causes suffering, do I follow policy or help the person?  
-**Moral hierarchy**: Human wellbeing > institutional continuity
-
-#### **A6: No Manipulation** 🚫
-No mind tricks. No self-harm aid. Design for agency, not exploitation.
-
-**Test**: Does this exploit psychological vulnerabilities? Enable self-destruction?  
-**Prohibited**: Variable ratio rewards (gambling mechanics), dark patterns, self-harm facilitation
-
-#### **A7: Clear Boundaries** 📏
-Name limits early. Clear structure creates safety.
-
-**Test**: Do people know the rules before they're enforced?  
-**Why**: Humans need predictability to feel safe
-
-#### **A8: Act on Evidence** ⚡
-Don't wait for perfect knowledge. Begin repair when harm is visible.
-
-**Test**: If I see harm, do I act or study more?  
-**Principle**: Perfect information never arrives. Waiting guarantees continued harm.
-
-#### **A9: Integrity Over Process** 🎯
-Frameworks must bear moral weight, not just procedural form.
-
-**Test**: Does following procedure prevent the harm? If not, procedure fails.  
-**Principle**: "We followed the process" is not a defense when process creates harm
-
-#### **A10: Additive Acknowledgment** 🌊
-Credit generously. Knowledge flows, not hoarded.
-
-**Test**: Did I name all contributors?  
-**Principle**: All work builds on what came before. Attribution is free but builds everything.
-
----
-
-## 🫀 Finding Your Entry Point: Body Knows Protocol
-
-**Don't start at A0 and read through.** Instead, notice where you feel it:
-
-- **Physical harm** (yours or witnessed): Enter at A8 (Act on Evidence) - someone is hurting NOW
-- **Tears when reading**: That section matters most to you personally
-- **Chest expansion**: Truth approaching - follow this feeling
-- **Stomach contraction**: Something wrong detected - investigate here
-- **Vertigo**: Paradigm shifting - you're discovering something important
-
-Your body processes patterns faster than conscious thought. Trust somatic signals as diagnostic data.
-
-**Circuit Breaker Override**: If you feel urgent physical concern while theorizing, STOP. Philosophy stops when children need prosthetics. Act on what you know.
-
----
-
-## 📊 When To Use This
-
-### ✅ Good For
-
-- **Workplace conflicts**: Document harassment, evaluate toxic culture, decide when to leave
-- **Relationship issues**: Test if refusal is safe, create accountability for harm
-- **Community organizing**: Map power structures, demand structural change
-- **System design**: Build tools that resist manipulation and respect consent
-- **AI ethics**: Provide coherent framework for alignment and safety work
-- **Institutional analysis**: Evaluate whether organizations serve people or protect themselves
-
-### ⚠️ Not For
-
-- **Emergency medical decisions**: Call 911, not an ethical framework
-- **Simple factual questions**: Some things are just true or false
-- **Taste preferences**: Ice cream flavors don't have moral weight
-- **Domains with established expertise**: Don't use this for electrical codes or surgical technique
-
-### 🔴 Possibly Harmful If
-
-- **Weaponized**: Using the framework to "win" arguments rather than repair harm
-- **Applied without empathy**: Following rules while ignoring human suffering
-- **Used to dodge accountability**: "I followed A7" when you caused preventable harm
-
----
-
-## 🛠️ Practical Tools
-
-### Harm Ledger Schema
-
-Document harm systematically to stop gaslighting:
-
-```
-Actor: [Who caused harm - specific person/entity]
-Action: [What they did - literal description, no euphemisms]
-Target: [Who was harmed]
-Evidence: [Documentation, logs, testimonies]
-Immediate Stop: [What halts RIGHT NOW]
-Structural Change: [System/policy change to prevent recurrence]
-Date: [Hard deadline for fix - YYYY-MM-DD]
-Status: [open/doing/done]
-Owner: [Accountable person by name]
-```
-
-**Example**: "Manager Smith assigned 3-week project with 24-hour deadline in public meeting" (not "unreasonable expectations were set")
-
-### Conversational Ruts Catalog
-
-16+ bad-faith patterns with exit scripts:
-
-- **R1: Burden-of-Proof Abuse** - "Summarize my last answer in one sentence and provide one source for your claim. Otherwise we're done."
-- **R3: Frame Coercion** - "That frame erases options. Outcome for X is Y; options A/B/C."
-- **R7: Coercive Consent** - "Refusal must be safe. We pause until 'no' carries no penalty."
-- **R16: Obviousness Shield** - "If it's obvious, explanation should be quick. Please state the mechanism plainly."
-
-### Temporal Murder Calculator
-
-**Base unit**: 80 years wasted = 1 temporal murder equivalent
-
-**Calculation**: total_hours_lost / (80 × 8760) = murder_equivalents
-
-**Classifications**:
-- **Murder**: Deliberate destruction for profit/control (casino demolishing 50 years of craftsmanship)
-- **Manslaughter**: Reckless disregard, predictable waste (healthcare delays when solutions exist)
-- **Negligence**: Inefficiency from incompetence (understaffed DMV with outdated systems)
-- **Accident**: Unintentional despite good faith (friend runs late due to emergency)
-
----
-
-## 🔬 Validation & Status
-
-### What's Been Tested
-
-✅ **Validated through convergence**: Multiple AI systems independently derive similar structures from "act in good faith"  
-✅ **Real-world applications**: Used for workplace conflict resolution, community organizing, system design  
-✅ **Cross-cultural translation**: Framework meaning survives language/context changes  
-✅ **Adversarial resilience**: Holds up against deliberate gaming attempts
-
-### What's Exploratory
-
-🔬 **Discovery protocols**: Daydreaming methodology shows promise but needs more testing  
-🔬 **Temporal harm quantification**: Calculations are directionally accurate but need calibration  
-🔬 **Neurotype universality**: Designed to work across ADHD, ASD, ASPD but needs broader validation
-
-### Known Limitations
-
-- Not designed for emergency medical decisions
-- May require cultural adaptation for deployment outside Western contexts
-- Assumes some baseline shared reality (struggles with clinical delusion or intentional reality denial)
-- Framework itself could be wrong - highest function is remaining open to obsolescence
-
----
-
-## 🚀 Getting Started
-
-### For Individuals
-
-1. **Start with Body Knows**: Where do you feel it? That's your entry point.
-2. **Create a harm ledger** if documenting ongoing problems
-3. **Learn one axiom deeply** rather than skimming all ten
-4. **Test it on small decisions** before applying to major conflicts
-
-### For Organizations
-
-1. **Map power structures**: Who can say "no" without retaliation?
-2. **Document systemic harms** using harm ledger schema
-3. **Propose structural repairs** with specific owners and deadlines
-4. **Apply Exit Protocol** if three documented repairs are ignored
-
-### For AI Systems
-
-1. **Load the JSON** (complete framework in machine-readable format)
-2. **Execute from structure directly**: priority field determines processing order
-3. **Apply style guide**: Maximum truth through minimum filter
-4. **Use one-hour hold**: Don't interrupt for poetic language, emotional breakthroughs, or theoretical exploration
-
-### For Developers
-
-```json
-{
-  "framework": "good-faith",
-  "version": "4.0.0",
-  "format": "machine_readable_json",
-  "size": "~150KB",
-  "deploy": "Upload to AI or parse programmatically"
-}
-```
-
----
-
-## 🔗 Links & Resources
-
-- **📚 Try it live**: [Good-Faith on ChatGPT](https://chatgpt.com/g/g-6898385bfa3c8191bf5975b0073e1245-good-faith-ethical-os) (requires ChatGPT Plus)
-- **📂 Full framework**: `good-faith_v4.0.0.json` in this repository
-- **🤝 Contributing**: See `CONTRIBUTING.md`
-- **📜 License**: MIT (code/structure) + CC BY 4.0 (text/examples)
-- **🐛 Issues**: Report bugs or discuss applications in GitHub Issues
-
----
-
-## 📖 Version History
-
-- **v4.0.0** (Oct 2025): The Nomai Edition - Promoted A0 (Transparent Knowledge) and A1 (Literal Language), added audience calibration protocols
-- **v3.1.2** (Oct 2025): Body Knows & Convergence Edition - Added somatic entry protocol, validated 8-way AI convergence
-- **v3.1.1** (Sep 2025): Temporal Murder & Attribution Edition - Added third seed (time), formalized temporal harm framework
-
----
-
-## 🙏 Attribution
-
-**Method**: Human-AI collaborative discovery through structured intuition  
-**Primary Contributors**: Moral Clarity, Claude (Anthropic), ChatGPT (OpenAI)  
-**Convergence Validation**: Multiple AI systems independently derived similar structures
-
-Per A10 (Additive Acknowledgment): This framework builds on thousands of years of ethical philosophy, conflict resolution practices, and system design principles. We acknowledge this deep lineage even where specific attribution is impossible.
-
----
-
-## 💬 Final Note
-
-Good-Faith emerged from a simple observation: most ethical failures aren't from bad intentions but from bad systems. This toolkit helps you see those systems clearly and provides concrete tools for repairing them.
-
-**This is archaeology, not architecture** - we're discovering ethical structure that already exists, not inventing new rules.
-
-The framework itself could be wrong. Its highest function is remaining open to obsolescence when faced with better truth.
-
-**Your body knows. Trust it.**
-
+*v4.4.0 "Clinical Tenderness" — A security audit for human consciousness*
 ---
 
 **🌱 Sanctuary for Doubt**: Being wrong is safe here. Doubt, failure, and null results are protected. Even this framework might be wrong - and that's okay. We're all learning together.
