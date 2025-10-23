@@ -55,9 +55,8 @@ Simply upload the `good-faith_v4.6.0.json` file to any conversation with Claude 
 
 ### Download the Framework
 
-- **Latest Release:** [v4.6.0 "Good Enough"](https://github.com/emulable/goodfaith/releases/latest)
+- **Latest Release:** [v4.6.0](https://github.com/emulable/goodfaith/releases/latest)
 - **Framework File:** `good-faith_v4.6.0.json` (211 KB)
-- **Release Notes:** See [RELEASE_NOTES_v4_6_0.md](RELEASE_NOTES_v4_6_0.md)
 
 ---
 
