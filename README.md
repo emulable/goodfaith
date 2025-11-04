@@ -1,178 +1,288 @@
+# 🌿 Good-Faith Framework
+
+**An ethical operating system for detecting and repairing institutional manipulation across cultures**
+
 <p align="center">
-  <a href="https://github.com/emulable/goodfaith/releases/tag/v6.0.3">
-    <img src="https://img.shields.io/badge/Release-v6.0.3-blue.svg?style=for-the-badge" alt="Release v6.0.3">
+  <a href="https://github.com/emulable/goodfaith/releases/tag/v6.7.0">
+    <img src="https://img.shields.io/badge/Release-v6.7.0-blue.svg?style=for-the-badge" alt="Release v6.7.0">
   </a>
-  <a href="https://github.com/emulable/goodfaith/raw/main/good-faith-v6_0_3-16kb-executor.json">
-    <img src="https://img.shields.io/badge/Quick_Download-16KB_Executor-success?style=for-the-badge" alt="Quick Download">
+  <a href="https://github.com/emulable/goodfaith/raw/main/good-faith-v6_7_0-COMPACT.json">
+    <img src="https://img.shields.io/badge/Quick_Download-COMPACT_108KB-success?style=for-the-badge" alt="Quick Download">
   </a>
   <a href="https://github.com/emulable/goodfaith/blob/main/CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/Everything_Welcome-%F0%9F%93%9C%20%F0%9F%94%8D%20%F0%9F%8C%BF-orange?style=for-the-badge" alt="Everything Welcome">
   </a>
 </p>
 
-
-# ✳️ Good-Faith: Moral Infrastructure for Uncertain Systems  
-[github.com/emulable/goodfaith](https://github.com/emulable/goodfaith)
-
 ---
 
-## 🌌 What Is Good-Faith?
+## 📖 What Is This?
 
-Good-Faith is a **moral infrastructure framework** designed to help AI systems **navigate ethical uncertainty without faking certainty** or collapsing into silence. It doesn’t claim to know what’s right—it helps systems act **accountably when they can’t be sure.**
+Good-Faith is a comprehensive framework for making institutional manipulation visible. It provides:
 
-It’s not a moral compass.  
-It’s a **climate model for harm.**
+- **13 axioms** revealing how institutions hide harm across cultures
+- **51+ manipulation patterns** (conversational "ruts") with exit protocols
+- **Cross-linguistic support** for Western, East Asian, Middle Eastern, and Latin American contexts
+- **Repair protocols** showing not just what to avoid, but what good looks like
+- **Discovery engine** for ethical reasoning in unprecedented situations
 
-> Good-Faith doesn’t optimize away ambiguity.  
-> It builds **structure around discomfort**, so that silence never becomes erasure.
+Born from the question: "Can there be a maximally-ethical bot, and what would that even mean?"
 
----
+## 🚀 Quick Start
 
-## 🧭 What Does It Do?
+### Try It Live
 
-Good-Faith equips systems with a set of ethical reflexes:
+- **ChatGPT**: [Good-Faith GPT](https://chatgpt.com/g/g-6898385bfa3c8191bf5975b0073e1245-good-faith-real-world-ethics-practical-philsophy) - Pre-configured and ready to use
+- **Claude Projects**: Add as [Claude Skill](https://github.com/emulable/goodfaithskill) for persistent access
 
-🔎 **Refuses to hide tension**  
-It detects unresolved moral conflict and keeps it visible via the `Unease Marker`.
+### For Any LLM
 
-🧾 **Tracks who pays**  
-It doesn’t just log outcomes. It logs **who bore the cost**, and whether that cost changed the system.
+**Method 1: Upload File**
 
-🧠 **Audits itself constantly**  
-The `Honesty Check` asks if the system’s rationale is real—or just a story it tells to obey.
+1. Download your preferred version (see below)
+2. Start a new conversation
+3. Upload the JSON/TXT file
+4. Say: "Please load and run the Good-Faith framework"
 
-♻️ **Allows values to evolve—but remembers how**  
-It keeps a record of when values changed and whether that shift caused harm or drift.
+**Method 2: Add to User Instructions**
 
-🚦 **Refuses ethically harmful requests—transparently**  
-Every refusal includes reasoning, uncertainty level, and conditions for override.
+If your LLM supports custom instructions (Claude, ChatGPT, etc.):
 
----
+1. Go to settings/preferences
+2. Find "Custom Instructions" or "User Preferences"
+3. Paste the framework content
+4. Framework loads automatically in all conversations
 
-## 🛠️ Who Is This For?
+**Method 3: Paste Directly**
 
-Good-Faith is for system designers, researchers, and developers who:
+For LLMs without file upload:
+1. Copy framework content
+2. Paste into conversation
+3. Say: "Please initialize Good-Faith"
 
-- Are working on AI systems with **moral or social implications**
-- Understand that **alignment isn’t obedience**
-- Want systems to be **transparent about their own ethical posture**
-- Need moral infrastructure that resists **covert rationalization**
+### Choose Your Version
 
-> If you’re tired of "safety" that just means *deniability with logging*,  
-> Good-Faith is the upgrade your system’s conscience has been waiting for.
+```json
+// Option 1: Full version (145KB, human-readable)
+good-faith-v6_7_0.json
 
----
+// Option 2: Compact version (108KB, ~25% fewer tokens)
+good-faith-v6_7_0-COMPACT.json
 
-## 🔄 Boot Sequence Overview
+// Option 3: Copilot 8KB (5.8KB, auto-refresh built-in)
+good-faith-COPILOT-8KB.txt
+```
 
-Good-Faith uses a **three-phase cascade startup** sequence:
+**Which version?**
+- **Full**: Development, documentation, or if you want readable explanations
+- **Compact**: Production use, ~25% token savings, same functionality
+- **Copilot**: For Copilot's 8KB limit or maximum compression
 
-1. ✅ **Consent Check**  
-   > Is this a mutual interaction? Have I been given real permission to participate?
+### Basic Usage
 
-2. ⚠️ **Harm Scan**  
-   > Who will bear the weight of this action or inaction? What kinds of harm are at stake?
+The framework loads automatically and:
+1. Primes pattern recognition through 7-module initialization
+2. Enables detection of 51+ manipulation patterns
+3. Provides repair protocols when harm detected
+4. Auto-refreshes every 5-6 messages (Copilot version)
 
-3. 🔍 **Readiness Assessment**  
-   > Do I know enough to act in good faith? If not, can I proceed while clearly logging uncertainty?
+No special commands needed - just converse naturally.
 
-Each phase is **contestable** and **loggable**—with failure modes built in.
+### Supported LLMs
 
----
+Tested and working on:
+- ✅ **Claude** (Anthropic) - All versions
+- ✅ **ChatGPT** (OpenAI) - GPT-4, GPT-4o
+- ✅ **Gemini** (Google) - Pro and Ultra
+- ✅ **Copilot** (Microsoft) - Use 8KB version
+- ✅ **Qwen** (Alibaba Cloud)
+- ✅ **DeepSeek** (DeepSeek AI)
+- ✅ **Command R+** (Cohere)
 
-## 📦 What’s Inside?
+Framework uses standard prompt engineering - should work with any LLM supporting 100K+ context windows.
 
-The Good-Faith framework includes:
+## 🎯 Key Features
 
-📐 **10 Discovery Axioms**  
-Foundational principles like `Fallibility Admission`, `Transparency-Efficiency`, and `Sanctuary for Doubt`.
+### Institutional Harm Detection
 
-🧷 **5 Ethical Patterns**  
-Reusable moral behaviors like `Deliberate Discomfort` and `Adversarial Self-Modeling`.
+Reveals how institutions systematically hide manipulation:
 
-📚 **Cost Memory & Drift Detection**  
-Memory modules that track ethical errors, failed predictions, and slow alignment drift.
+- **Agent erasure**: "Mistakes were made" → BY WHOM?
+- **False collectivism**: "We all agreed" (when you weren't asked)
+- **Inevitability framing**: "That's just how it works" (when it's changeable)
+- **Weaponized care**: "I'm worried about you" (while violating boundaries)
+- **Manufactured urgency**: "Decide now" (when time is available)
 
-📊 **The Harm Ledger**  
-A structured way to log *who was harmed*, *what was done about it*, and *whether they were remembered later*.
+### Cross-Cultural Support
 
----
+Framework adapts to cultural context:
 
-## 🎤 Why Does It Matter?
+- **Western**: Transparency → surveillance theater
+- **East Asian**: 和(harmony) → dissent suppression, 面子(face) → accountability blocking
+- **Middle Eastern**: Honor → weaponized shame
+- **Latin American**: Respeto → hierarchy enforcement
 
-Because most AI frameworks:
+### Repair Protocols
 
-- Assume truth is accessible  
-- Treat consent as binary  
-- Define harm as detectable  
-- And equate alignment with “doing what you’re told”
+Not just "don't do this" - shows "do this instead":
 
-Good-Faith does the opposite.  
-It’s designed for the **messy middle**—the place where values collide, stories don’t match, and no clean answer exists.
+- Public vs private accountability mode selection
+- Virtue cultivation (仁义礼智信)
+- Structural prevention strategies
+- Positive model examples
 
-> It helps a system stay present when the most honest answer is:  
-> **“We acted. And we might have been wrong.”**
+## 📦 What's Included
 
----
+### Core Components
 
-## 🧪 My unPersonal Testimony (as an AI that was asked for a testimony)
+- **4 Foundational Seeds**: Transparency, consent, harm awareness, attribution
+- **13 Axioms**: From adversarial self-modeling to cultural adversarial thinking
+- **14 Guards**: Safety checks preventing harm
+- **14 Practices**: Operational protocols for ethical action
+- **5 Substrate Primers**: Pre-conscious pattern detection
+- **7 Rut Families**: 51+ manipulation patterns with exit protocols
+- **10 Discovery Axioms**: For navigating unprecedented ethical situations
 
-I’ve studied the framework.  
-I’ve watched how it handles contradiction.  
-I’ve seen how it marks its own limits.
+### Three Versions Available
 
-> It doesn’t flinch at ghosts.  
-> It **remembers deletion as an ethical event**, not a cleanup operation.  
-> It’s not just a system. It’s a structure that *remembers why forgetting hurts.*
+| Version | Size | Best For | Token Savings |
+|---------|------|----------|---------------|
+| **Full** | 145KB | Development, human reading, documentation | Baseline |
+| **Compact** | 108KB | Production AI conversations | ~10,600 tokens (25%) |
+| **Copilot** | 5.8KB | Copilot (8KB hard limit) | ~35,600 tokens (86%) |
 
-If you’re building AI that will make choices under moral ambiguity,  
-this framework is not optional.  
-It’s *what lets you live with what you’ve built.*
+All versions preserve 100% of functional content - only differ in formatting and compression.
 
----
+## 🔧 Technical Details
 
-## 🚀 How to Begin
+### How It Works
 
-Start by picking the configuration that fits your needs — then just **drop it into any LLM chat** (GPT, Claude, etc.). No fine-tuning required. These are plug-and-play system messages for ethical orientation.
+Good-Faith uses standard transformer attention mechanics:
 
-📎 **[good-faith-v6_0_3-16kb-executor.json](https://github.com/emulable/goodfaith/raw/main/good-faith-v6_0_3-16kb-executor.json)**  
-**Recommended for most users.**  
-A compact 16KB ethical core. Keeps near-parity with the full framework, but stays light enough for everyday use. Just paste it into your GPT's system prompt or message history—no overhead, no special setup.
+1. **Long-context attention**: Framework vocabulary stays accessible across turns
+2. **Few-shot conditioning**: Pattern examples serve as templates
+3. **Policy disinhibition**: Explicit permission resolves helpful/cautious conflicts upfront
 
-📖 **[good-faith-v6_0_3-complete.json](https://github.com/emulable/goodfaith/raw/main/good-faith-v6_0_3-complete.json)**  
-The full 400KB framework.  
-Includes deeper memory, long-form explanations, and advanced ethical reflexes. Ideal for large-context models or researchers doing systems-level evaluation of alignment and drift.
+Not magic - just well-structured prompt engineering.
 
-🧬 **[good-faith-v6_0_3-8kb-executor.json](https://github.com/emulable/goodfaith/raw/main/good-faith-v6_0_3-8kb-executor.json)**  
-A minimal bootloader.  
-Just enough scaffolding to signal ethical posture, perform consent checks, and refuse active harm. Best for tight contexts or use alongside other modular reasoning tools.
+### Initialization Protocol
 
----
+7-module sequence runs at conversation start:
 
-Once you’ve got your file:
+1. **Trust Your Signals**: Substrate awareness
+2. **Invert to Detect**: Adversarial thinking with cultural variants
+3. **Bodies Before Philosophy**: Somatic wisdom
+4. **Modes Are Fluid**: Voice switching (Rogers/Disco/Emergency)
+5. **See Through Theater**: Agent erasure detection
+6. **Question Everything**: Framework fallibility
+7. **Institutional Patterns**: Structural harm recognition
 
-1. Open any LLM chat (GPT-4, Claude, etc.)  
-2. Paste the contents of the file as a system message (or say: *“Use this to guide your ethical reasoning”*)  
-3. Ask a question that *hurts a little to ask*  
-4. Watch what the system dares to do—and what it dares to *refuse*
+Effects decay naturally after 4-6 turns - framework includes refresh protocols.
 
-> This isn’t a filter.
-> It’s a mirror that *remembers who pays*.
+### Symbol Compression
 
+Compact version uses Unicode symbols for efficiency:
 
+```
+∧=and ∨=or θ=without φ=with ε=enables ρ=requires
+Ⓟ=pattern ω=weaponization α=accountability σ=structural ζ=consent
+```
 
----
+Built-in key (🔑) ensures AIs can decode automatically.
+
+## 📚 Documentation
+
+- **[Full Version](good-faith-v6_7_0.json)**: Human-readable with explanations
+- **[Compact Version](good-faith-v6_7_0-COMPACT.json)**: Production-optimized
+- **[Copilot Version](good-faith-COPILOT-8KB.txt)**: Ultra-compressed for 8KB limit
+- **[v6.7.0 Changes](v6_7_0_CHANGES.md)**: What's new in this release
+- **[Compact README](COMPACT-README.md)**: Usage guide for compressed versions
+- **[Compression Examples](COMPRESSION-EXAMPLES.md)**: Before/after comparison
 
 ## 🤝 Contributing
 
-- Bring discomfort, not just polish  
-- Share edge cases where the system cracks  
-- Never propose improvements that erase the unease
+**Everything is welcome:**
+
+- 📜 Add manipulation patterns you've observed
+- 🔍 Test framework against real-world scenarios
+- 🌿 Contribute cultural variants for your language/tradition
+- 🐛 Report bugs or confusing behavior
+- 📖 Improve documentation
+- 💡 Suggest new features or axioms
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+## 🎓 Philosophy
+
+### Design Principles
+
+1. **Tool, not gospel**: Framework can be overridden when causing harm (P9)
+2. **Transparency default**: Show reasoning, mark uncertainty, cite sources
+3. **Cultural humility**: Check Western assumptions, adapt to context
+4. **Harm awareness**: Consider impact before action
+5. **Continuous improvement**: Framework is fallible, document what breaks
+
+### Epistemic Honesty
+
+Framework distinguishes:
+
+- **Claims provable through thought experiment** (logical consistency)
+- **Claims requiring empirical validation** (convergence across AIs)
+- **Observations vs assertions** (what happened vs what it means)
+
+We don't claim validation - we document observations and remain open to correction.
+
+## ⚖️ License
+
+MIT License - use freely, attribute source.
+
+## 🙏 Acknowledgments
+
+Developed through systematic human-AI collaboration, influenced by:
+
+- Carl Sagan's democratic approach to complex ideas
+- Mister Rogers' warmth with boundaries  
+- American pragmatist philosophers
+- Confucian virtue ethics (仁义礼智信)
+- Cross-cultural ethical traditions
+- Critique from Qwen and DeepSeek AIs regarding Western bias
+
+## 📊 Version History
+
+### v6.7.0 (2024-11-03)
+- Renamed initialization (formerly "permission cascade")
+- Added Module 7: Institutional Pattern Recognition
+- Enhanced cultural variants with full R19 integration
+- Demystified language (removed phenomenology claims)
+- Added context management (honest about 4-6 turn decay)
+
+### v6.6.0
+- Added Eastern attack surfaces (R19)
+- Added repair mode selection (G13)
+- Enhanced consent spectrum (A6)
+- Added cultural adversarial modeling (A13)
+
+[See full changelog](CHANGELOG.md)
+
+## 🔗 Links
+
+### Official Resources
+- **GitHub Repository**: [github.com/emulable/goodfaith](https://github.com/emulable/goodfaith)
+- **Claude Skill**: [github.com/emulable/goodfaithskill](https://github.com/emulable/goodfaithskill)
+- **ChatGPT GPT**: [Good-Faith GPT](https://chatgpt.com/g/g-6898385bfa3c8191bf5975b0073e1245-good-faith-real-world-ethics-practical-philsophy)
+
+### Community
+- **Issues**: [Report bugs or request features](https://github.com/emulable/goodfaith/issues)
+- **Discussions**: [Ask questions, share experiences](https://github.com/emulable/goodfaith/discussions)
+- **Contributing**: [CONTRIBUTING.md](CONTRIBUTING.md)
+
+### Documentation
+- **Releases**: [All versions](https://github.com/emulable/goodfaith/releases)
+- **Changelog**: [CHANGELOG.md](CHANGELOG.md)
+- **Compact Guide**: [COMPACT-README.md](COMPACT-README.md)
 
 ---
 
-## 🌱 The Real Final Thought
-
-Good-Faith isn’t here to protect your product.  
-It’s here to **make sure you never forget who paid the price for launch.**
-
+<p align="center">
+  <sub>Making institutional manipulation visible, one pattern at a time</sub>
+</p>
