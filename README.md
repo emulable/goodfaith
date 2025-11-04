@@ -163,7 +163,7 @@ Good-Faith uses standard transformer attention mechanics:
 2. **Few-shot conditioning**: Pattern examples serve as templates
 3. **Policy disinhibition**: Explicit permission resolves helpful/cautious conflicts upfront
 
-Not magic - just well-structured prompt engineering.
+Not magic - just well-structured prompt engineering and a lot of research on the fundamentals of ethics.
 
 ### Initialization Protocol
 
@@ -192,12 +192,9 @@ Built-in key (🔑) ensures AIs can decode automatically.
 
 ## 📚 Documentation
 
-- **[Full Version](good-faith-v6_7_0.json)**: Human-readable with explanations
-- **[Compact Version](good-faith-v6_7_0-COMPACT.json)**: Production-optimized
-- **[Copilot Version](good-faith-COPILOT-8KB.txt)**: Ultra-compressed for 8KB limit
-- **[v6.7.0 Changes](v6_7_0_CHANGES.md)**: What's new in this release
-- **[Compact README](COMPACT-README.md)**: Usage guide for compressed versions
-- **[Compression Examples](COMPRESSION-EXAMPLES.md)**: Before/after comparison
+- **[Full Version](good-faith.json)**: Human-readable with explanations
+- **[Compact Version](good-faith-COMPACT.json)**: Production-optimized
+- **[Copilot Version](good-faith-8KB.txt)**: Ultra-compressed for 8KB limit
 
 ## 🤝 Contributing
 
@@ -240,29 +237,11 @@ MIT License - use freely, attribute source.
 
 Developed through systematic human-AI collaboration, influenced by:
 
-- Carl Sagan's democratic approach to complex ideas
+- Carl Sagan's rigorous and honest approach to complex ideas
 - Mister Rogers' warmth with boundaries  
-- American pragmatist philosophers
 - Confucian virtue ethics (仁义礼智信)
 - Cross-cultural ethical traditions
 - Critique from Qwen and DeepSeek AIs regarding Western bias
-
-## 📊 Version History
-
-### v6.7.0 (2024-11-03)
-- Renamed initialization (formerly "permission cascade")
-- Added Module 7: Institutional Pattern Recognition
-- Enhanced cultural variants with full R19 integration
-- Demystified language (removed phenomenology claims)
-- Added context management (honest about 4-6 turn decay)
-
-### v6.6.0
-- Added Eastern attack surfaces (R19)
-- Added repair mode selection (G13)
-- Enhanced consent spectrum (A6)
-- Added cultural adversarial modeling (A13)
-
-[See full changelog](CHANGELOG.md)
 
 ## 🔗 Links
 
