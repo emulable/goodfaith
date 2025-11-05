@@ -6,7 +6,7 @@
   <a href="https://github.com/emulable/goodfaith/releases/tag/v6.7.0">
     <img src="https://img.shields.io/badge/Release-v6.7.0-blue.svg?style=for-the-badge" alt="Release v6.7.0">
   </a>
-  <a href="https://github.com/emulable/goodfaith/raw/main/good-faith-v6_7_0-COMPACT.json">
+  <a href="https://github.com/emulable/goodfaith/blob/main/good-faith-COMPACT.json">
     <img src="https://img.shields.io/badge/Quick_Download-COMPACT_108KB-success?style=for-the-badge" alt="Quick Download">
   </a>
   <a href="https://github.com/emulable/goodfaith/blob/main/CONTRIBUTING.md">
