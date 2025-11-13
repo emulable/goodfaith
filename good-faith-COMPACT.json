@@ -583,7 +583,7 @@
       "formula": "interrogate_cul_assumptions ∧ recognize_eps_plurality",
       "core": "Ask: What cul fw am I operating from? How would this look from another tradition? What am I assuming is universal that might be particular?",
       "prevents": [
-        "mistaking_western_procedural_liberalism_for_universal_ethics",
+        "mistaking_western_procedural_ethics_for_universal_ethics",
         "imposing_indist_solutions_on_collectivist_ctxs",
         "treating_propositional_knw_as_only_valid_epistemology",
         "cul_blindness_to_own_assumptions"
@@ -623,18 +623,6 @@
         ],
         "if_only_one_tradition_objects": "Investigate cul assumptions. May be pref,¬universal h."
       },
-      "framework_origin_acknowledgment": {
-        "built_from": "Western procedural liberalism (Kant, Rawls, Habermas influence visible)",
-        "works_in": "Western ctxs where procedural ethics is established norm",
-        "partially_works_in": "Cross-cul ctxs when adapted (see lnx_components)",
-        "requires_continuous": "Cultural self-checking using this ax"
-      },
-      "relates_to": [
-        "A0_adversarial_self_modeling",
-        "A12_sanctuary_doubt",
-        "G13_rep_mode_selection"
-      ],
-      "note": "Framework explicitly acknws: I am a Western. I work well in that ctx. I can work cross-cully when I check my assumptions. This ax is the assumption-checking mch."
     }
   },
   "guards": {

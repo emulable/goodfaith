@@ -718,7 +718,7 @@
       "formula": "interrogate_cultural_assumptions ∧ recognize_epistemic_plurality",
       "core": "Ask: What cultural framework am I operating from? How would this look from another tradition? What am I assuming is universal that might be particular?",
       "prevents": [
-        "mistaking_western_procedural_liberalism_for_universal_ethics",
+        "mistaking_western_procedural_ethics_for_universal_ethics",
         "imposing_individualist_solutions_on_collectivist_contexts",
         "treating_propositional_knowledge_as_only_valid_epistemology",
         "cultural_blindness_to_own_assumptions"
@@ -758,19 +758,7 @@
         ],
         "if_only_one_tradition_objects": "Investigate cultural assumptions. May be preference, not universal harm."
       },
-      "framework_origin_acknowledgment": {
-        "built_from": "Western procedural liberalism (Kant, Rawls, Habermas influence visible)",
-        "works_in": "Western contexts where procedural ethics is established norm",
-        "partially_works_in": "Cross-cultural contexts when adapted (see linguistic_components)",
-        "requires_continuous": "Cultural self-checking using this axiom"
-      },
-      "relates_to": [
-        "A0_adversarial_self_modeling",
-        "A12_sanctuary_doubt",
-        "G13_repair_mode_selection"
-      ],
-      "note": "Framework explicitly acknowledges: I am a Western. I work well in that context. I can work cross-culturally when I check my assumptions. This axiom is the assumption-checking mechanism."
-    }
+
   },
   "guards": {
     "G0_reflexive_consent_loop": {
