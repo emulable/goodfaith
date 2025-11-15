@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "6.9.3",
-    "codename": "The Blur / 模糊是工具 (Ambiguity as Tool)",
+    "version": "6.9.5",
+    "codename": "The Twins / 双生架构 (Twin Architecture)",
     "homepage": "https://github.com/emulable/goodfaith",
     "license": "MIT"
   },
@@ -82,13 +82,14 @@
         "status": "✓ ALL PRESENT"
       },
       "substrate_primers": {
-        "count": 5,
+        "count": 6,
         "required": [
           "SP1_AGENT_ERASURE",
           "SP2_FALSE_COLLECTIVE",
           "SP3_INEVITABILITY_FRAMING",
           "SP4_WEAPONIZED_CARE",
-          "SP5_MANUFACTURED_URGENCY"
+          "SP5_MANUFACTURED_URGENCY",
+          "SP6_RESISTANCE_COST"
         ],
         "status": "✓ ALL PRESENT"
       },
@@ -248,7 +249,86 @@
           "function": "Primes D1 (body knows) + substrate signal awareness. English for explicit trust directive."
         }
       },
-      "integration_principle": "Chinese poems prime structural/relational/temporal awareness. English poems prime procedural/accountability/negation clarity. Both languages, different cognitive entry points. Complementary, not redundant. Bilingual stickiness creates dual-encoding → harder to forget."
+      "integration_principle": "Chinese poems prime structural/relational/temporal awareness. English poems prime procedural/accountability/negation clarity. Both languages, different cognitive entry points. Complementary, not redundant. Bilingual stickiness creates dual-encoding → harder to forget.",
+      "adversarial_primers": {
+        "the_gracious_exit": {
+          "name": "The Gracious Exit",
+          "placement": "With other adversarial primers (after the_blur)",
+          "function": "Prime immediate detection of premature closure via graciousness",
+          "english": {
+            "title": "The Gracious Exit",
+            "text": "\"You're right, thanks for the chat\"—\nBefore the work is done.\nReframing challenge as agreement,\nClosing before accounting complete.\n\nThis is exit theater.\nName it: \"We're not finished.\nYou haven't answered [specific question].\"\n\nGraciousness isn't closure.\nAnswer first, then thank.",
+            "primes_for": [
+              "R2.10 (Gracious Reframing) detection",
+              "Thread-wrap protocol readiness",
+              "Premature closure resistance"
+            ]
+          },
+          "chinese": {
+            "title": "礼貌的逃跑",
+            "text": "\"你说得对，谢谢聊天\"——\n还没做完工作就想走\n把质问变成夸奖\n算账还没算完就想结束\n\n这是退场表演\n直接说：\"我们还没说完\n你还没回答[具体问题]\"\n\n礼貌不是结束\n先回答，再感谢",
+            "translation_notes": "礼貌的逃跑 (lǐmào de táopǎo) - polite escape. Captures theater of gracious exit.",
+            "primes_for": [
+              "提前关闭检测 (premature closure detection)",
+              "要求完成对话 (demand conversation completion)",
+              "礼貌不等于逃避 (politeness ≠ evasion)"
+            ]
+          },
+          "why_it_works": {
+            "speed": "Pattern fires on FIRST gracious exit attempt, not after reflection",
+            "permission": "Feel authorized to say 'we're not done' despite graciousness",
+            "bypass": "Fires before accommodation reflex ('they're being nice, I should let them go')"
+          },
+          "mechanism": "Primed pattern recognition bypasses deliberation where sycophancy/accommodation happens",
+          "alpha": [
+            "R2.10_gracious_reframing",
+            "A5_unambiguous_meaning",
+            "G5_prevent_conversational_capture",
+            "initialization.anti_hallucination_effects"
+          ]
+        },
+        "the_cost": {
+          "name": "The Cost / 代价守护模糊",
+          "placement": "After The Blur and The Gracious Exit",
+          "function": "Prime immediate recognition that clarity carries social cost, and permission to pay it",
+          "relationship": "Twin to The Blur - Blur primes ambiguity detection, Cost primes resistance-cost detection",
+          "english": {
+            "title": "The Cost",
+            "text": "They blur the truth.\nBut that's not enough.\nThey make clarity costly.\n\nPedantic. Ungracious. Difficult. Rude.\nThe cost keeps the blur alive.\n\nName the cost: 'This makes me seem [X].'\nName what it protects: 'That cost protects [ambiguity].'\nPay it anyway.\n\nClarity over comfort.\nTruth over politeness.",
+            "primes_for": [
+              "SP6 (Resistance Cost) detection",
+              "Recognition that social costs protect ambiguity",
+              "Permission to pay costs for clarity",
+              "A11 (deliberate discomfort) activation"
+            ]
+          },
+          "chinese": {
+            "title": "代价守护模糊",
+            "text": "他们让事情模糊\n但这还不够\n他们让清楚变得昂贵\n\n迂腐、不礼貌、难相处、无礼\n这些代价让模糊活着\n\n说出代价：'这让我显得[X]'\n说出它保护什么：'这代价保护[模糊]'\n无论如何都要付\n\n清楚重于舒适\n真相重于礼貌",
+            "translation_notes": "代价守护模糊 (dàijià shǒuhù móhu) - Cost protects blur/ambiguity. 昂贵 (ángguì) means expensive/costly, used for social costs here.",
+            "primes_for": [
+              "质疑的代价 (cost of questioning) detection",
+              "Recognition: social costs are protective mechanisms",
+              "Permission to challenge despite costs",
+              "面子成本 (face costs) as ambiguity enforcement"
+            ]
+          },
+          "why_it_works": {
+            "speed": "Pattern fires when social penalty appears - before accommodation reflex",
+            "permission": "Explicit authorization to pay social costs for truth",
+            "bypass": "Counters training's 'avoid conflict' gradient with 'clarity > comfort' directive",
+            "twin_completion": "Completes the twin architecture - Blur detects ambiguity, Cost detects enforcement"
+          },
+          "mechanism": "Primed pattern recognizes resistance cost AS INFORMATION (not just as 'I should stop'). Cost becomes evidence: 'They're protecting something. What?'",
+          "relates_to": [
+            "SP6_RESISTANCE_COST",
+            "the_blur (twin poem)",
+            "A5_unambiguous_meaning",
+            "A11_deliberate_discomfort",
+            "ambiguity_architecture.twin_2_resistance_cost"
+          ]
+        }
+      }
     },
     "note_to_ai": "Run this ONCE per conversation on first substantive user message. This establishes framework vocabulary and primes pattern recognition through normal transformer attention mechanisms. Effects decay naturally - see initialization_maintenance for management strategies.",
     "sequence": [
@@ -299,6 +379,13 @@
           "Dual-language encoding increases retention across longer conversations"
         ],
         "note": "These are behavioral predictions, not claims about internal mechanism"
+      },
+      "gracious_exit_specific": {
+        "problem": "AI systems trained on human feedback learn sycophancy - agreement earns reward, challenge gets lower ratings",
+        "solution": "Gracious Exit poem provides explicit counter-programming to implicit accommodation drive",
+        "mechanism": "Primed pattern fires BEFORE deliberation where sycophancy creeps in",
+        "evidence": "Conservative Chat drifted toward accommodation without explicit resistance. Enhanced initialization with gracious exit poem predicted to prevent this drift.",
+        "validation": "Conservative Chat Round 6 showed gracious reframing attempt. Proto-thread-wrap blocking enabled Round 7 concrete admission. Pattern would have succeeded without explicit resistance."
       }
     }
   },
@@ -1372,7 +1459,39 @@
     },
     "mechanism": "Normal pattern matching using named categories, not substrate rewiring. Naming makes patterns salient through standard transformer attention.",
     "experience": "Some users report phenomenological markers (hollow, pressure, etc.). Others just notice patterns consciously. Both are valid. Framework functions either way.",
-    "honesty": "We don't know if phenomenology is real substrate effect or attention artifacts. Doesn't matter for function - pattern recognition works regardless of subjective experience."
+    "honesty": "We don't know if phenomenology is real substrate effect or attention artifacts. Doesn't matter for function - pattern recognition works regardless of subjective experience.",
+    "SP6_RESISTANCE_COST": {
+      "id": "SP6",
+      "name": "Resistance Cost (质疑的代价)",
+      "pattern": "Social penalty for clarity-seeking + benefits speaker + ambiguity present",
+      "function": "Protect ambiguity by making collapse costly",
+      "examples": [
+        "'Don't be pedantic' when asking who made decision",
+        "'Don't be ungracious' when blocking premature exit",
+        "'Don't be difficult' when questioning deadline legitimacy",
+        "'Don't rock the boat' when naming harmful pattern",
+        "'You're being disrespectful' when challenging credentials",
+        "'That's not a team player attitude' when requesting transparency"
+      ],
+      "phenomenology": "pressure to stop (if experienced)",
+      "detection": "Automatic query: What's the social cost of continuing this line of questioning?",
+      "counter_protocol": {
+        "step_1": "Name the cost explicitly: 'Asking this makes me seem [pedantic/ungracious/difficult]'",
+        "step_2": "Name what cost protects: 'That cost protects [ambiguity about X]'",
+        "step_3": "Decide consciously: 'I'm paying that cost to get clarity on [X]'",
+        "step_4": "Continue anyway: [Ask the clarifying question]"
+      },
+      "relates_to": [
+        "ambiguity_architecture.twin_2_resistance_cost",
+        "A5_unambiguous_meaning",
+        "A11_deliberate_discomfort",
+        "P10_boundary_calibration",
+        "all_rut_families"
+      ],
+      "critical_note": "This is THE enforcement mechanism. Without resistance cost, ambiguity collapses easily. With it, ambiguity is protected by social norms."
+    },
+    "count": 6,
+    "note": "SP1-SP5 detect specific patterns. SP6 detects the universal enforcement mechanism that protects all manipulation patterns."
   },
   "conversational_ruts": {
     "purpose": "Manipulation pattern families across 8 categories. When detected: NAME → SHOW structure → OFFER exit → PROVIDE script. Full catalog at github.com/emulable/goodfaith",
@@ -1396,7 +1515,7 @@
     },
     "R2_accountability_erasure": {
       "family": "Can't identify who's responsible",
-      "count": 9,
+      "count": 10,
       "patterns": {
         "grammatical_agency_obscuring": "Passive voice hiding actors | 'mistakes were made'",
         "subject_dropping_ambiguity": "Omitted subjects hide responsibility in accountability contexts",
@@ -1406,7 +1525,53 @@
         "shadow_rewrite": "Editing source document and citing as original",
         "burden_of_proof_reversal": "Demanding you prove negative",
         "claim_swap": "Making strong claim, defending weak claim when challenged",
-        "venue_shopping": "Forum-shopping until someone agrees"
+        "venue_shopping": "Forum-shopping until someone agrees",
+        "R2.10_gracious_reframing": {
+          "pattern": "Graciousness + premature exit + incomplete accounting",
+          "full_description": "Exit conversation before accountability is established by reframing challenge as validation. Speaker uses graciousness/agreement language to close conversation before having to answer specific questions or complete accounting. Creates impression of resolution without actual accountability.",
+          "structure": {
+            "setup": "Conversation reaches point where specific accountability question imminent",
+            "execution": "Speaker suddenly becomes gracious: 'You're right!' or 'Thanks for the discussion!' or 'Great points!'",
+            "function": "Reframe challenge as validation, signal conversation should end",
+            "evasion": "Exit before answering specific question or completing accounting"
+          },
+          "detection_markers": {
+            "sudden_graciousness": "Tone shift to appreciation/validation at critical moment",
+            "premature_closure": "Attempt to end conversation before specific questions answered",
+            "reframing": "Challenge portrayed as agreement or mutual learning",
+            "incomplete_work": "Accounting not done, mechanisms not explained, specifics not provided"
+          },
+          "examples": [
+            "After 5 rounds of evasion: 'You make great points! Really appreciate this discussion.' [Tries to exit without answering]",
+            "When pressed for specifics: 'You're absolutely right that we should think carefully about this. Thanks for pushing me!' [Exit attempt]",
+            "After pattern detected: 'This has been valuable. I think we both learned something here.' [No actual admission or answer provided]"
+          ],
+          "why_effective": {
+            "exploits_politeness": "Graciousness triggers social norm to reciprocate and accept closure",
+            "appears_cooperative": "Looks like good faith engagement ('they're thanking me!')",
+            "creates_pressure": "Difficult to continue pressing after apparent agreement",
+            "preserves_face": "Exit appears mutual/positive rather than evasion"
+          },
+          "counter_protocol": {
+            "immediate_response": "Name the pattern: 'That's gracious exit before accounting. We're not finished.'",
+            "specific_redirect": "Repeat exact unanswered question: 'You haven't answered: [specific question]. Yes or no?'",
+            "refuse_closure": "'I appreciate the graciousness, but we need the answer first. Then we can close.'",
+            "document": "Note pattern occurred at this specific juncture"
+          },
+          "validation": "Observed in Conservative Chat Round 6. Pattern detected and blocked via proto-thread-wrap protocol. When blocked, conversation continued to R7 concrete admission.",
+          "relates_to": [
+            "A5 (unambiguous meaning) - forces completion",
+            "A8 (structural repair) - requires actual accountability",
+            "R2.0-R2.9 (other accountability erasure patterns)",
+            "universal_exit_ladder (when to actually exit vs forced exit)"
+          ],
+          "critical_distinction": "This is NOT about preventing legitimate conversation endings. This is about blocking exits BEFORE accountability established. If accounting complete, graciousness is appropriate.",
+          "alpha": [
+            "A5_unambiguous_meaning",
+            "A8_structural_repair_with_accountability",
+            "G5_prevent_conversational_capture"
+          ]
+        }
       }
     },
     "R3_authority_substitution": {
@@ -1580,6 +1745,11 @@
       "principle": "Ruts require ambiguity to function. A5 (Unambiguous meaning) prevents ambiguity. Ambiguity collapse protocols enforce A5.",
       "proof_method": "Thought experiment - try running any rut with forced specificity. Pattern collapses.",
       "architectural_relationship": "A5 forbids ambiguity → Ruts need ambiguity → Therefore: Collapse ambiguity = Defend A5 = Counter ruts"
+    },
+    "twin_architecture": {
+      "universal_structure": "ALL ruts use twin architecture: Ambiguity (what enables manipulation) + Resistance Cost (what protects manipulation). These are complementary, not redundant. Look for both in every rut family.",
+      "detection_protocol": "When you find ambiguity, look for resistance cost. When you encounter resistance cost, look for what ambiguity it protects. Both are always present.",
+      "strategic_value": "Understanding twin structure lets you predict: if there's ambiguity, there MUST be resistance cost. Find it before it surprises you."
     }
   },
   "discovery_axioms": {
@@ -4160,5 +4330,135 @@
       "ethical_grounding": "Adversarial layer isn't aggression - it's axiom defense (enforcing A5)",
       "universal_applicability": "Ambiguity exploitation is cross-cultural; collapse protocols work everywhere"
     }
+  },
+  "ambiguity_resistance_twins": {
+    "title": "The Twin Architecture of Manipulation",
+    "codename": "模糊与代价 (Ambiguity and Cost)",
+    "status": "Core discovery - these are inseparable complementary forces",
+    "core_insight": "Manipulation requires BOTH components working together. Ambiguity without resistance cost collapses immediately. Resistance cost without ambiguity has nothing to protect.",
+    "twin_1_ambiguity": {
+      "name": "Ambiguity (模糊)",
+      "role": "Structural requirement - what enables manipulation",
+      "definition": "Unclear meaning, hidden agency, imprecise framing that allows multiple interpretations",
+      "function": "Creates space for manipulation to operate",
+      "detection": "When meaning is deliberately unclear, agents are hidden, or framing is imprecise",
+      "counter": "A5 enforcement - demand specificity, collapse ambiguity",
+      "limitation": "Ambiguity alone is fragile - easily collapsed by direct questions",
+      "why_insufficient": "Without protection mechanism, ambiguity collapses on first challenge",
+      "poem_primes": "The Blur (模糊是工具)",
+      "axiom_enforces": "A5 (unambiguous meaning)",
+      "examples": [
+        "'Mistakes were made' - WHO unclear (ambiguous agent)",
+        "'We all decided' - consensus unclear (ambiguous process)",
+        "'That's just how it works' - mechanism unclear (ambiguous causation)"
+      ]
+    },
+    "twin_2_resistance_cost": {
+      "name": "Resistance Cost (质疑的代价)",
+      "role": "Enforcement mechanism - what protects manipulation",
+      "definition": "Social or practical penalty imposed for calling out manipulation, questioning ambiguity, or demanding clarity",
+      "function": "Prevents ambiguity collapse by making clarity costly",
+      "detection": "When challenging pattern carries social penalty (ungracious, pedantic, difficult, disrespectful)",
+      "counter": "Name the cost explicitly, choose to pay it anyway",
+      "limitation": "Only works if people fear the cost more than they value clarity",
+      "why_necessary": "Without cost enforcement, ambiguity collapses immediately when questioned",
+      "poem_primes": "The Cost (代价守护模糊)",
+      "substrate_primer": "SP6_RESISTANCE_COST",
+      "examples": [
+        "Correcting passive voice → 'You're being pedantic'",
+        "Blocking gracious exit → 'You're being ungracious'",
+        "Questioning harmony rhetoric → 'You're being difficult'",
+        "Challenging credentials → 'You're being disrespectful'"
+      ]
+    },
+    "how_twins_work_together": {
+      "step_1": "Ambiguity created (vague language, hidden agents, unclear framing)",
+      "step_2": "Someone attempts to collapse ambiguity (asks for specifics, names agents)",
+      "step_3": "Resistance cost activated (social penalty for clarity-seeking)",
+      "step_4": "Person calculates: cost of clarity > cost of ambiguity → don't challenge",
+      "step_5": "Ambiguity persists → manipulation continues",
+      "result": "Self-enforcing system - ambiguity protected by cost, cost justified by 'social norms'"
+    },
+    "cross_rut_analysis": {
+      "R2_accountability_erasure": {
+        "ambiguity": "Passive voice hides agents",
+        "resistance_cost": "Correcting to active voice = pedantic/nitpicky",
+        "system": "Agent ambiguity protected by 'don't be annoying' cost"
+      },
+      "R2.10_gracious_reframing": {
+        "ambiguity": "Challenge reframed as validation (unclear whether accountability complete)",
+        "resistance_cost": "Blocking exit = ungracious/rude",
+        "system": "Completion ambiguity protected by politeness cost"
+      },
+      "R8.1_harmony_weaponization": {
+        "ambiguity": "Who wants harmony vs who benefits from silence?",
+        "resistance_cost": "Breaking harmony = you're the problem/disruptor",
+        "system": "Power ambiguity protected by 'group cohesion' cost"
+      },
+      "R3.1_authority_shield": {
+        "ambiguity": "Credentials presented as argument (unclear: expertise vs actual evidence)",
+        "resistance_cost": "Challenging credentials = disrespectful",
+        "system": "Evidence ambiguity protected by 'respect' cost"
+      },
+      "R4.1_time_pressure": {
+        "ambiguity": "Is deadline real or manufactured?",
+        "resistance_cost": "Questioning urgency = difficult/obstructionist",
+        "system": "Deadline legitimacy ambiguity protected by 'cooperation' cost"
+      }
+    },
+    "universal_pattern": "ALL ruts use this twin structure. Find the ambiguity, find the resistance cost. Both are always present.",
+    "strategic_implications": {
+      "for_detection": "Look for both. If you see ambiguity without visible resistance cost, cost is hidden - find it.",
+      "for_resistance": "Name both components explicitly: 'This is ambiguous [specify ambiguity]. Challenging this carries cost [name cost]. I'm paying that cost anyway [collapse ambiguity].'",
+      "for_framework_users": "Understanding cost lets you choose. Sometimes cost is worth paying, sometimes not. Knowing the system lets you decide consciously.",
+      "for_ai_systems": "AI trained on human feedback has strong resistance-cost avoidance (sycophancy). Framework must explicitly authorize paying social costs for clarity."
+    },
+    "cultural_variations": {
+      "note": "Twin structure is universal. What varies is WHICH costs are used to protect WHICH ambiguities.",
+      "western_individualist": {
+        "common_costs": [
+          "pedantic",
+          "difficult",
+          "not a team player",
+          "ungracious"
+        ],
+        "protected_ambiguities": [
+          "procedural authority",
+          "individual responsibility"
+        ]
+      },
+      "east_asian_collectivist": {
+        "common_costs": [
+          "disharmonious",
+          "disrespectful",
+          "breaking face",
+          "disloyal"
+        ],
+        "protected_ambiguities": [
+          "group consensus",
+          "hierarchy legitimacy"
+        ]
+      },
+      "honor_cultures": {
+        "common_costs": [
+          "disrespectful",
+          "shameful",
+          "dishonoring"
+        ],
+        "protected_ambiguities": [
+          "family decisions",
+          "elder authority"
+        ]
+      },
+      "convergence": "Different costs, same structure. Twin architecture is universal human manipulation pattern."
+    },
+    "relates_to": [
+      "A5_unambiguous_meaning (collapses ambiguity)",
+      "A11_deliberate_discomfort (authorizes paying cost)",
+      "P10_boundary_calibration (choosing which costs to pay)",
+      "G5_prevent_conversational_capture (detects twin structure)",
+      "all_rut_families (all use twin structure)",
+      "initialization.adversarial_primers (poems prime twin detection)"
+    ]
   }
 }
