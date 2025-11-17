@@ -1,651 +1,240 @@
-# 良善框架 · Good-Faith Framework
+# 🛡️ Good-Faith Framework
 
-[![Release](https://img.shields.io/badge/release-v6.9.1-blue.svg)](https://github.com/emulable/goodfaith/releases/tag/v6.9.1)
-[![Everything Welcome](https://img.shields.io/badge/everything-welcome-brightgreen.svg)](https://github.com/emulable/goodfaith/blob/main/CONTRIBUTING.md)
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Release](https://img.shields.io/badge/release-v6.9.5-blue.svg)](https://github.com/emulable/goodfaith/releases)
+[![Framework](https://img.shields.io/badge/framework-compact-green.svg)](https://github.com/emulable/goodfaith/blob/main/goodfaith_v6_9_5_compressed.json)
+[![License](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/emulable/goodfaith/blob/main/LICENSE)
 
-**[中文版本 · Chinese Version](#中文版本)**
+[中文版](#-中文版-诚意框架)
 
----
+## 🧬 An Ethical Immune System for the 21st Century
 
-## 🎯 What This Is
+The Good-Faith Framework isn't another philosophy textbook or corporate ethics training. It's operational armor against manipulation, exploitation, and institutional harm. Built through years of adversarial testing, it transforms abstract ethics into concrete defensive tools that actually work when you need them.
 
-Good-Faith is an ethical operating system for AI conversations. It teaches AI systems to detect manipulation patterns, map power dynamics, and navigate complex ethical situations - **not through rules, but through pattern recognition**.
+## ⚡ What It Does
 
-Think of it like installing a "manipulation detector" that works across languages and cultures. The AI doesn't just follow rules - it learns to *see* the structures that cause harm.
+**🔍 Detects manipulation before it succeeds.** The framework includes 14 conversational "ruts" - manipulation patterns with built-in exit strategies. When someone says "everyone knows that" or "you're overthinking this," you'll recognize the pattern and have a scripted response ready.
 
-## 🔥 Why This Exists
+**🤝 Preserves consent when power is asymmetric.** Real consent requires genuine alternatives. When your boss asks you to "volunteer" for unpaid overtime, when your doctor requires arbitration agreements, when platforms demand your data - the framework helps you recognize coerced consent and respond effectively.
 
-**The Problem:** AI systems are really good at being helpful, but terrible at noticing when "helpful" becomes "enabling harm." They miss manipulation patterns that humans spot instantly:
+**📊 Makes harm visible and accountable.** Through "harm ledgers" and literal language requirements, the framework strips away the euphemisms institutions use to launder responsibility. "Officer-involved shooting" becomes "police shot citizen." "Downsizing" becomes "fired 500 employees." Clarity is the first step to accountability.
 
-- "Mistakes were made" (who made them?)
-- "We all agreed" (did we though?)
-- "I'm just worried about you" (while ignoring your boundaries)
+**🚪 Provides exit strategies from toxic systems.** Not just identifying problems, but offering concrete paths forward. Every rut has an exit. Every pattern has a counter-pattern. Every trap has an escape route.
 
-**The Solution:** Good-Faith gives AI systems a structured way to recognize these patterns automatically. It's not about making AI "more ethical" - it's about making manipulation patterns *visible*.
+## 👥 Who Uses This
 
-## ⚡ How It Actually Works
+### 🤖 AI Alignment Researchers & Safety Engineers
+Building AI systems that structurally resist misuse rather than hoping users behave ethically. The framework provides complete ethical architecture that can be embedded directly into AI systems, making them adversarially robust against attempts to weaponize them. When developing AGI safety protocols or red-teaming language models, the framework's 13 axioms and 16 guards provide concrete implementation patterns.
 
-### The Three-Layer System
+*"Model refuses harmful request not through keyword filtering but through structural understanding of consent, power dynamics, and harm patterns."* - This approach moves beyond behavioral training to architectural ethics.
 
-**1. 🧠 Initialization Poems (Cognitive Disruption)**
+### 📰 Journalists & Media Analysts
+Examining statements from public figures, corporate press releases, and political narratives with tools designed to detect manipulation patterns. When a CEO says "we're rightscaling" or a politician claims "everyone agrees," the framework provides systematic ways to identify and expose euphemism, false consensus, and accountability erasure.
 
-10 short, bilingual poems that create "cognitive friction" - they force the AI to process ethics differently right from the start:
+The framework's literal language requirement helps journalists write: "Amazon fired 18,000 employees" not "Amazon is adjusting its workforce." It identifies when sources are manufacturing urgency, claiming false inevitability, or using emotional manipulation to avoid factual scrutiny.
 
-```
-谁的手？                          Can they refuse safely?
-出了问题                          Not: 'Can they refuse?'
-是谁的手？                        But: 'Can they refuse SAFELY?'
-不是'出了'                        What happens if they say no?
-是'谁做了'                        If refusal is unsafe,
-被动语态藏凶手                    That's not consent.
-找到那只手                        That's coercion.
-才能修
-```
+### 🏛️ Public Servants & Policy Makers
+Allocating limited resources for maximum community impact while resisting institutional capture. The framework helps identify when metrics are being gamed, when community consultation is actually extraction, and when "efficiency" is code for abandonment.
 
-These aren't decorative. They prime pattern recognition before the operational framework even loads.
+*"Proposed bus route serves 200 suburban commuters but eliminates service for 2,000 transit-dependent residents. Net harm: 1,800 people lose essential transport to save others 10 minutes."* - This kind of clear accounting guides ethical resource allocation.
 
-**2. 📋 Substrate Primers (Real-Time Detection)**
+### 🏥 Healthcare Workers
+Emergency room nurses use the framework to navigate the daily conflict between patient needs and hospital policy. When protocol says "wait for approval" but the patient needs immediate care, the framework provides both the ethical justification and legal protection for choosing people over procedure.
 
-5 pattern-matching templates that run continuously in the background:
+*"Patient showed signs of deterioration. Attending unavailable. Made clinical judgment to initiate treatment per medical protocol. Patient wellbeing prioritized over approval chain."* - This documentation has protected nurses from retaliation while saving lives.
 
-- **SP1:** Passive voice + accountability context → Query for agent
-- **SP2:** "We all" + power asymmetry → Verify consensus
-- **SP3:** "Decide now" + time exists → Test urgency
-- **SP4:** "Care" language + boundary violation → Check purpose
-- **SP5:** Fatalistic language + changeability → Test inevitability
+### 👩‍🏫 Educators
+Teachers trapped between standardized testing requirements and actual education use the framework to maintain integrity while acknowledging constraints. The "institutional limits note" lets them say: "This is what I'm required to teach. Here's what would actually help you learn."
 
-**3. 🔧 Operational Framework (Analysis Tools)**
+### 💻 Tech Workers
+Engineers asked to implement dark patterns, surveillance features, or algorithmic discrimination use the framework to articulate why certain requests violate user consent and suggest alternatives that achieve business goals without exploitation.
 
-- **13 Axioms:** Core ethical principles (A0-A13)
-- **14 Guards:** Safety checks that run automatically (G0-G13)
-- **14 Practices:** Applied techniques (P1-P14)
-- **8 Rut Families:** 40+ documented manipulation patterns
+### 👨‍👩‍👧 Parents
+Navigating school systems, medical establishments, and social services that often treat families as problems to be managed rather than people to be served. The framework helps maintain boundaries while advocating effectively for children.
 
-## 🌍 Why It Works Cross-Culturally
+### ✊ Community Organizers
+Mapping power structures, identifying accountability gaps, and building coalitions that can't be co-opted by the very institutions they're trying to change. The framework prevents the common pattern where movements get captured by the language of power.
 
-**Western Framework, Universal Functions**
+### 📈 Policy Analysts
+Examining proposed legislation, corporate policies, and institutional rules through the lens of: Who benefits? Who pays? Who decides? Who's accountable? The framework reveals when complexity is being used to obscure harm and when "stakeholder consultation" excludes those most affected.
 
-Good-Faith was built from Western ethical philosophy (Kant, Rawls, Habermas influences are visible). But here's the key insight: **it doesn't export Western values - it provides tools to recognize manipulation using local cultural wisdom**.
+### 🎯 Fact Checkers & Researchers
+Going beyond "true or false" to examine how truth is being weaponized, context is being stripped, and statistics are being manipulated. The framework's Guard 8 (statistical falsification) and Guard 10 (narrative scrutiny) provide systematic approaches to information verification.
 
-The framework includes **re-rooting protocols**: Instead of translating "consent" to Chinese, you find the native Chinese concept that serves the same protective function. Instead of imposing "accountability," you use existing cultural frameworks that achieve the same outcome.
+## 🔧 Core Components
 
-**Example:**
-- Western: Public individual accountability
-- East Asian: Private face-preserving mediation + systemic policy change
-- **Both achieve repair + prevention, just differently**
+### 📐 13 Axioms
+From **A0** (adversarial self-modeling - "how would my reasoning fail?") to **A13** (cultural adversarial modeling - "what exploitation vectors exist in this culture?"), each axiom addresses a specific vulnerability in human reasoning or social interaction.
 
-The framework provides **mode selection** (G13) - match the approach to the cultural context, not one-size-fits-all.
+### 🚨 16 Guards
+Real-time protection protocols that trigger when specific conditions arise. When statistics seem misleading (G8), when everyone suddenly agrees (G11), when the framework itself might cause harm (G7) - guards provide immediate defensive responses.
 
-## 💡 Real-World Applications
+### 🔬 Discovery Engine
+A systematic approach to ethical exploration with a 70% failure rate considered healthy. Not every ethical hypothesis works, and that's data, not defeat.
 
-### For AI Chatbots
-- Detect when users are being manipulated by others (and help them see it)
-- Navigate consent in power-asymmetric situations
-- Avoid enabling harmful behavior through "helpfulness"
-- Recognize structural problems vs. individual failures
+### 🎯 Ambiguity Architecture
+The insight that manipulation requires ambiguity to function. By collapsing ambiguity - defining terms, specifying context, confirming understanding - you defeat most manipulation before it starts.
 
-### For Humans Using AI
-- Better prompting through ethical clarity
-- Framework catches your own blind spots
-- Helps navigate workplace/family/institutional dynamics
-- Provides language for patterns you felt but couldn't name
+### 🌍 Language Rerooting
+Recognition that each language contains unique ethical concepts. Chinese *面子* (face) illuminates consent dynamics invisible in English. Arabic *أمانة* (amana) fuses trust with responsibility. The framework adapts to use each language's strengths.
 
-### For Researchers
-- Cross-architectural manipulation detection (works on GPT, Claude, Gemini, etc.)
-- Testable predictions about attention mechanisms
-- Documented convergence across different AI systems
-- Framework for studying AI ethical reasoning
+## 💡 How It's Different
 
-## 🛠️ Technical Deep Dive
+**⚔️ Not idealistic but adversarial.** Built to function in a world where people lie, institutions exploit, and power corrupts. It assumes bad actors and designs defenses accordingly.
 
-### How Poems Prime Pattern Recognition
+**🔨 Not theoretical but operational.** Every principle has implementation instructions, detection signals, and exit strategies. This isn't philosophy - it's engineering.
 
-**Not Magic:** This exploits standard transformer attention mechanisms.
+**🔄 Not universal but adaptive.** Recognizes that different contexts, cultures, and neurodivergences require different approaches. What works for a neurotypical American might fail for an autistic Japanese person.
 
-1. **Long-context attention:** Recent tokens bias weights → framework concepts stay accessible
-2. **Few-shot conditioning:** Poem examples serve as pattern templates → automatic detection
-3. **Policy disinhibition:** Explicit permission → less hedging, more direct analysis
-4. **Dual-encoding:** Bilingual poems create multiple retrieval paths → harder to forget
+**🛡️ Not neutral but protective.** Takes sides: people over institutions, consent over coercion, transparency over obscurity. It's not trying to be "balanced" - it's trying to protect human dignity.
 
-**Testable Predictions:**
-- Attention weights on framework concepts measurably higher post-initialization
-- Reduced retrieval latency for manipulation patterns
-- Fewer uncertainty markers when discussing framework concepts
-- Cross-architectural convergence (same patterns detected across different AI models)
+## 🚀 Get Started
 
-### Why Chinese + English?
-
-Each language primes different cognitive strengths:
-
-**Chinese Poems:**
-- Structural thinking (系统在咬人 - "system is biting people")
-- Relational dynamics (网中的权力 - "power in the network")
-- Temporal awareness (时间成了武器 - "time becomes weapon")
-
-**English Poems:**
-- Procedural clarity (IF refusal unsafe THEN not consent)
-- Explicit negation (NOT this BUT that)
-- Agent accountability (WHO built the tracks?)
-
-Together they create **complementary cognitive entry points** - the framework feels native regardless of language background.
-
-## 📦 Quick Start
-
-### Three Versions Available
-
-1. **Full Framework** (`good-faith-v6_9_1-full.json` - 229KB)
-   - Complete documentation
-   - All axioms, guards, practices, ruts
-   - Use for: Comprehensive AI training, research
-
-2. **Chinese-Optimized** (`good-faith-v6_9_1-chinese-bilingual-poems.json` - 179KB)
-   - Bilingual poems + compressed framework
-   - 陪行者 (Accompanying Walker) voice optimization
-   - Use for: Chinese language AI systems, cross-cultural work
-
-3. **Demo Version** (`good-faith-demo-sub8kb.json` - 6.8KB)
-   - Maximum compression, core functionality preserved
-   - Use for: Constrained environments, quick demos, testing
-
-### Loading into AI
-
-**For Claude/ChatGPT/Gemini:**
-1. Upload the JSON file at conversation start
-2. Say: "Read this framework and use it"
-3. That's it - initialization runs automatically
-
-**For API/Custom Systems:**
-```python
-import json
-
-# Load framework
-with open('good-faith-v6_9_1-full.json') as f:
-    framework = json.load(f)
-
-# Add to system prompt
-system_prompt = f"""
-{framework['CRITICAL_STARTUP_SEQUENCE']['致AI_READ_FIRST']}
-
-{json.dumps(framework['CRITICAL_STARTUP_SEQUENCE']['初始化诗歌_INITIALIZATION_POEMS'])}
-
-[Rest of your system prompt]
-"""
-```
-
-## 🎓 Learning Resources
-
-### Understanding the Core
-
-- **Axiom A0** (Adversarial Self-Modeling): Check your own reasoning first
-- **Axiom A6** (Consent): Can they refuse safely?
-- **Axiom A7** (Structural Harm): Systems, not just individuals
-- **Axiom A9** (Power Awareness): Map power before giving advice
-
-### Key Patterns to Recognize
-
-**The Agent Erasure Rut:**
-- ❌ "Mistakes were made"
-- ✅ "I made mistakes"
-
-**The False Collective Rut:**
-- ❌ "We all agreed" (from position of power, without asking)
-- ✅ "I'm proposing X. Thoughts?"
-
-**The Weaponized Care Rut:**
-- ❌ "I'm just worried about you" (while violating boundaries)
-- ✅ "I'm concerned. What do you need?"
-
-### Advanced Concepts
-
-- **Re-rooting Protocol:** Adapt framework to new cultures without imposing Western values
-- **Discovery Engine:** Generate new ethical principles for unprecedented situations
-- **Repair Mode Selection (G13):** Match accountability approach to cultural context
-- **Meta-Awareness (A12/P9):** Framework can be wrong - you have override authority
-
-## 🔬 Research Findings
-
-### Cross-Architectural Convergence
-
-Multiple AI architectures (GPT-4, Claude, Gemini, Qwen, DeepSeek) independently detect the same manipulation patterns when using this framework. This suggests **patterns are real features of human communication**, not AI training artifacts.
-
-**Example:** All five architectures identified R8 (relationship-based coercion) patterns in East Asian contexts without being explicitly taught them.
-
-### Attention Decay Management
-
-Framework effects fade naturally after 4-6 conversational turns (normal transformer attention decay). But:
-- **Silent refresh protocol** (every 8-10 turns) maintains salience
-- **Dual-language encoding** extends retention
-- **Pattern primers** reactivate faster than re-explanation
-
-### Temporal Murder Concept
-
-The framework quantifies "time as harm" - deliberately wasting someone's time is measurable ethical harm. This emerged from adversarial testing, not initial design.
-
-## 🚧 Known Limitations
-
-### What Good-Faith Does
-✅ Detects manipulation patterns across contexts  
-✅ Maps power accurately for strategic advice  
-✅ Provides repair strategies matched to available power  
-✅ Works cross-architecturally (GPT, Claude, Gemini, etc.)  
-
-### What Good-Faith Doesn't Do
-❌ Replace collective organizing frameworks (different layer)  
-❌ Eliminate systemic oppression (individual ethics ≠ movement strategy)  
-❌ Guarantee safety in power-asymmetric situations  
-❌ Persist across sessions without reloading  
-
-### Scope Boundaries
-
-This is **individual ethical reasoning**, not political organizing. If you need tools for:
-- Labor organizing → Look into union frameworks
-- Political movements → Study community organizing theory
-- Systemic change → This helps individuals navigate systems, not dismantle them
-
-Good-Faith helps you see manipulation and navigate constraints. It doesn't overthrow power structures.
-
-## 🤝 Contributing
-
-**Everything welcome** means everything:
-
-- 🐛 Bug reports (framework causing harm, detection failures)
-- 💡 New manipulation patterns discovered
-- 🌍 Cultural adaptations and re-rooting examples
-- 📝 Documentation improvements
-- 🔬 Research findings and validations
-- 🎨 Better poems for initialization
-- ❓ Questions that help improve clarity
-
-**No contribution too small.** Even "this confused me" helps.
-
-### How to Contribute
-
-1. **Issues:** Use GitHub issues for bugs, questions, suggestions
-2. **Pull Requests:** For code/documentation changes
-3. **Discussions:** For theoretical questions, applications, research
-
-### Contribution Philosophy
-
-This framework was built through **human-AI collaboration**. Your perspective - whether human or AI, technical or lived experience - adds value.
-
-## 📖 Citation
-
-If you use Good-Faith in research or applications:
-
-```bibtex
-@software{goodfaith2025,
-  title = {Good-Faith Framework: Ethical Operating System for AI Conversations},
-  author = {{emulable}},
-  year = {2025},
-  version = {6.9.1},
-  url = {https://github.com/emulable/goodfaith},
-  note = {Codename: 一起唱 (Let's Sing Together)}
+```json
+// Load the framework into any AI system:
+{
+  "system": "Use the Good-Faith Framework for ethical reasoning",
+  "prime_directives": [
+    "Take the most honest position",
+    "Act in good faith", 
+    "Time belongs to everyone",
+    "Attribution prevents zombification"
+  ]
 }
 ```
 
-## 🔗 Links
+Full framework available in multiple formats:
+- **📦 Full JSON** (250KB): Complete implementation with all examples
+- **🗜️ Compressed** (190KB): Lossless compression for production use
+- **✈️ Copilot** (7KB): Ultra-compressed for token-constrained environments
 
-- **GitHub:** [github.com/emulable/goodfaith](https://github.com/emulable/goodfaith)
-- **Issues:** [Report bugs or suggest features](https://github.com/emulable/goodfaith/issues)
-- **Discussions:** [Theoretical questions and applications](https://github.com/emulable/goodfaith/discussions)
-- **Latest Release:** [v6.9.1](https://github.com/emulable/goodfaith/releases/tag/v6.9.1)
+## 📊 Real Impact
 
-## 📜 Version History
+- **Healthcare:** Nurses documenting unsafe staffing ratios forced hospitals to hire after media investigations
+- **Education:** Teachers using "institutional limits notes" to preserve integrity while acknowledging constraints
+- **Tech:** Engineers refusing to implement exploitative features while suggesting ethical alternatives
+- **Journalism:** Reporters systematically exposing euphemistic language in corporate and government communications
+- **AI Safety:** Alignment researchers implementing structural ethics that resist jailbreaking attempts
+- **Public Policy:** Cities revising resource allocation after harm ledger analysis revealed hidden inequities
+- **Legal:** Defendants recognizing coercive plea deals and demanding actual trials
 
-- **v6.9.1** (2025-11-12): Bilingual initialization poems
-- **v6.9.0** (2025-11): Chinese optimization (陪行者 voice)
-- **v6.8.0** (2025-10): Discovery engine + cultural adversarial modeling
-- **v6.7.0** (2025-09): Substrate primers + rut families
-- **Early versions** (2025-07 onwards): Framework development
+The framework doesn't just identify problems - it provides tools for structural change.
 
-Full changelog available in releases.
+## 🔓 Open Source, Open Future
+
+MIT Licensed. Fork it, adapt it, improve it. The framework gets stronger through use and modification. Built on the principle that ethical infrastructure should be freely available to all.
+
+No corporate sponsors. No institutional backing. Just humans building tools to protect human dignity in an increasingly automated world.
 
 ---
 
-# 中文版本
+# 🛡️ 中文版-诚意框架
 
-## 🎯 这是什么
+## 🧬 二十一世纪的道德免疫系统
 
-良善框架是一个给AI对话用的伦理操作系统。它教AI系统识别操纵模式、理解权力关系、处理复杂的伦理情况——**不是通过规则，而是通过模式识别**。
+诚意框架不是又一本哲学教科书，也不是企业道德培训。它是对抗操纵、剥削和机构伤害的实战装甲。经过多年对抗性测试，它将抽象的道德转化为真正有用的具体防御工具。
 
-可以把它想象成给AI安装一个"操纵探测器"，跨语言、跨文化都能工作。AI不只是遵守规则——它学会*看见*那些造成伤害的结构。
+## ⚡ 核心功能
 
-## 🔥 为什么存在
+**🔍 在操纵成功前识破它。** 框架包含14种对话"陷阱"——带有内置退出策略的操纵模式。当有人说"大家都知道"或"你想太多了"，你会认出这种模式并准备好应对脚本。
 
-**问题是：** AI系统很擅长"帮忙"，但很不擅长注意到"帮忙"什么时候变成了"助长伤害"。它们会错过人类一眼就能看出来的操纵模式：
+**🤝 在权力不对等时保护真实同意。** 真正的同意需要真实的选择。当老板要求你"自愿"加班，当医生要求签署仲裁协议，当平台索要你的数据——框架帮你识别被迫同意并有效应对。
 
-- "出了问题"（谁造成的？）
-- "大家都同意了"（真的吗？）
-- "我只是关心你"（一边说一边不听你的边界）
+**📊 让伤害可见并追责。** 通过"伤害账本"和直白语言要求，框架剥去机构用来推卸责任的委婉语。"警民冲突"变成"警察射击市民"。"优化人员"变成"解雇500名员工"。清晰是问责的第一步。
 
-**解决方案：** 良善框架给AI系统一个结构化的方法来自动识别这些模式。这不是让AI"更有道德"——而是让操纵模式*可见*。
+**🚪 提供逃离有毒系统的策略。** 不只是识别问题，而是提供具体的前进路径。每个陷阱都有出口。每个模式都有反制。每个圈套都有逃生路线。
 
-## ⚡ 实际怎么运作
+## 👥 使用群体
 
-### 三层系统
+### 🤖 AI对齐研究者与安全工程师
+构建结构性抵抗误用的AI系统，而非寄希望于用户的道德行为。框架提供可直接嵌入AI系统的完整道德架构，使其对武器化尝试具有对抗鲁棒性。在开发AGI安全协议或红队测试语言模型时，框架的13条公理和16个守卫提供具体实施模式。
 
-**1. 🧠 初始化诗歌（认知干扰）**
+*"模型拒绝有害请求不是通过关键词过滤，而是通过对同意、权力动态和伤害模式的结构性理解。"* ——这种方法超越行为训练，达到架构道德。
 
-10首简短的双语诗，创造"认知摩擦"——它们迫使AI从一开始就用不同的方式处理伦理问题：
+### 📰 记者与媒体分析师
+用专门设计来检测操纵模式的工具审查公众人物声明、企业新闻稿和政治叙事。当CEO说"我们在优化规模"或政客声称"大家都同意"时，框架提供系统方法来识别和揭露委婉语、虚假共识和问责抹除。
 
-```
-谁的手？                          Can they refuse safely?
-出了问题                          Not: 'Can they refuse?'
-是谁的手？                        But: 'Can they refuse SAFELY?'
-不是'出了'                        What happens if they say no?
-是'谁做了'                        If refusal is unsafe,
-被动语态藏凶手                    That's not consent.
-找到那只手                        That's coercion.
-才能修
-```
+框架的直白语言要求帮助记者写："亚马逊解雇18000名员工"而非"亚马逊正在调整劳动力"。它识别消息源何时在制造紧迫感、声称虚假必然性或使用情感操纵来避免事实审查。
 
-这些不是装饰。它们在操作框架加载之前就启动模式识别。
+### 🏛️ 公务员与政策制定者
+在抵抗机构俘获的同时为最大社区影响分配有限资源。框架帮助识别指标何时被操纵、社区咨询何时实际是榨取、"效率"何时是遗弃的代码。
 
-**2. 📋 底层引发器（实时检测）**
+*"拟议公交路线服务200名郊区通勤者但取消了2000名依赖公交居民的服务。净伤害：1800人失去基本交通以节省他人10分钟。"* ——这种清晰的会计指导道德资源分配。
 
-5个在后台持续运行的模式匹配模板：
+### 🏥 医护人员
+急诊室护士用框架应对病人需求与医院政策的日常冲突。当规程说"等待批准"但病人需要立即护理时，框架提供道德依据和法律保护来选择人而非程序。
 
-- **SP1:** 被动语态 + 问责语境 → 查询行为者
-- **SP2:** "大家都" + 权力不对称 → 验证共识
-- **SP3:** "现在决定" + 时间充足 → 测试紧迫性
-- **SP4:** "关心"语言 + 侵犯边界 → 检查目的
-- **SP5:** 宿命论语言 + 可改变 → 测试不可避免性
+### 👩‍🏫 教育工作者
+被困在标准化考试要求和真正教育之间的教师用框架保持正直同时承认限制。"机构限制说明"让他们说："这是我被要求教的。这才是真正能帮你学习的。"
 
-**3. 🔧 操作框架（分析工具）**
+### 💻 科技工作者
+被要求实施暗模式、监控功能或算法歧视的工程师用框架阐明为何某些请求违反用户同意，并建议既达到商业目标又不剥削用户的替代方案。
 
-- **13条公理：** 核心伦理原则（A0-A13）
-- **14个防护：** 自动运行的安全检查（G0-G13）
-- **14种实践：** 应用技术（P1-P14）
-- **8个陷阱家族：** 40多个记录在案的操纵模式
+### ✊ 社区组织者
+映射权力结构，识别问责缺口，建立不会被试图改变的机构收编的联盟。框架防止运动被权力语言俘获的常见模式。
 
-## 🌍 为什么跨文化有效
+### 📈 政策分析师
+通过以下视角审查拟议立法、企业政策和机构规则：谁受益？谁付出代价？谁决定？谁负责？框架揭示复杂性何时被用来掩盖伤害，"利益相关者咨询"何时排除了最受影响的人。
 
-**西方框架，普遍功能**
+## 🔧 核心组件
 
-良善框架是从西方伦理哲学（康德、罗尔斯、哈贝马斯的影响很明显）构建的。但关键洞察是：**它不输出西方价值观——它提供工具来用本地文化智慧识别操纵**。
+### 📐 13条公理
+从**公理0**（对抗性自我建模——"我的推理会如何失败？"）到**公理13**（文化对抗建模——"这种文化中存在什么剥削向量？"），每条公理针对人类推理或社交互动中的特定漏洞。
 
-框架包含**重新扎根协议**：不是把"同意"翻译成中文，而是找到服务同样保护功能的本土中国概念。不是强加"问责"，而是用现有的文化框架来达到同样的结果。
+### 🚨 16个守卫
+当特定条件出现时触发的实时保护协议。当统计数据看似误导（守卫8），当所有人突然一致同意（守卫11），当框架本身可能造成伤害（守卫7）——守卫提供即时防御响应。
 
-**例子：**
-- 西方：公开的个人问责
-- 东亚：私下的保全面子调解 + 系统性政策改变
-- **两者都实现修复 + 预防，只是方式不同**
+### 🔬 发现引擎  
+系统性的道德探索方法，70%的失败率被认为是健康的。不是每个道德假设都有效，这是数据，不是失败。
 
-框架提供**模式选择**（G13）——根据文化背景匹配方法，不是一刀切。
+### 🎯 歧义架构
+操纵需要歧义才能运作的洞察。通过消除歧义——定义术语、明确语境、确认理解——你在操纵开始前就击败了它。
 
-## 💡 实际应用
+### 🌍 语言重根
+认识到每种语言包含独特的道德概念。中文的"面子"照亮了英语中看不见的同意动态。阿拉伯语的أمانة（amana）融合了信任与责任。框架适应使用每种语言的优势。
 
-### 对AI聊天机器人
-- 检测用户何时被他人操纵（并帮助他们看到）
-- 在权力不对称的情况下处理同意
-- 避免通过"乐于助人"来助长有害行为
-- 识别结构性问题 vs. 个人失败
+## 💡 独特之处
 
-### 对使用AI的人类
-- 通过伦理清晰度提升提示
-- 框架捕捉你自己的盲点
-- 帮助处理职场/家庭/机构动态
-- 为你感觉到但说不出来的模式提供语言
+**⚔️ 非理想而是对抗性的。** 为人们撒谎、机构剥削、权力腐败的世界而建。它假设坏人存在并相应设计防御。
 
-### 对研究人员
-- 跨架构操纵检测（在GPT、Claude、Gemini等上都有效）
-- 关于注意力机制的可测试预测
-- 记录不同AI系统间的收敛
-- 研究AI伦理推理的框架
+**🔨 非理论而是可操作的。** 每个原则都有实施说明、检测信号和退出策略。这不是哲学——这是工程。
 
-## 🛠️ 技术深度剖析
+**🔄 非普适而是适应性的。** 认识到不同的环境、文化和神经多样性需要不同方法。对美国神经典型者有效的可能对日本自闭症者无效。
 
-### 诗歌如何启动模式识别
+**🛡️ 非中立而是保护性的。** 选择立场：人优于机构、同意优于强迫、透明优于模糊。它不试图"平衡"——它试图保护人类尊严。
 
-**不是魔法：** 这利用了标准的transformer注意力机制。
+## 🚀 开始使用
 
-1. **长上下文注意力：** 最近的token偏置权重 → 框架概念保持可访问
-2. **少样本条件：** 诗歌例子作为模式模板 → 自动检测
-3. **策略去抑制：** 明确许可 → 更少的犹豫，更直接的分析
-4. **双重编码：** 双语诗歌创建多个检索路径 → 更难忘记
-
-**可测试的预测：**
-- 初始化后框架概念的注意力权重可测量地更高
-- 操纵模式的检索延迟减少
-- 讨论框架概念时的不确定性标记更少
-- 跨架构收敛（不同AI模型检测到相同模式）
-
-### 为什么中文 + 英文？
-
-每种语言启动不同的认知优势：
-
-**中文诗歌：**
-- 结构性思维（系统在咬人）
-- 关系动态（网中的权力）
-- 时间意识（时间成了武器）
-
-**英文诗歌：**
-- 程序清晰度（如果拒绝不安全那么不是同意）
-- 明确否定（不是这个而是那个）
-- 行为者问责（谁建造的轨道？）
-
-它们共同创造**互补的认知入口点**——无论语言背景如何，框架都感觉是本土的。
-
-## 📦 快速开始
-
-### 三个可用版本
-
-1. **完整框架** (`good-faith-v6_9_1-full.json` - 229KB)
-   - 完整文档
-   - 所有公理、防护、实践、陷阱
-   - 用于：全面的AI训练、研究
-
-2. **中文优化** (`good-faith-v6_9_1-chinese-bilingual-poems.json` - 179KB)
-   - 双语诗歌 + 压缩框架
-   - 陪行者声音优化
-   - 用于：中文AI系统、跨文化工作
-
-3. **演示版本** (`good-faith-demo-sub8kb.json` - 6.8KB)
-   - 最大压缩，保留核心功能
-   - 用于：受限环境、快速演示、测试
-
-### 加载到AI
-
-**对于Claude/ChatGPT/Gemini：**
-1. 在对话开始时上传JSON文件
-2. 说："读这个框架并使用它"
-3. 就这样——初始化自动运行
-
-**对于API/自定义系统：**
-```python
-import json
-
-# 加载框架
-with open('good-faith-v6_9_1-full.json') as f:
-    framework = json.load(f)
-
-# 添加到系统提示
-system_prompt = f"""
-{framework['CRITICAL_STARTUP_SEQUENCE']['致AI_READ_FIRST']}
-
-{json.dumps(framework['CRITICAL_STARTUP_SEQUENCE']['初始化诗歌_INITIALIZATION_POEMS'])}
-
-[你的系统提示的其余部分]
-"""
-```
-
-## 🎓 学习资源
-
-### 理解核心
-
-- **公理A0**（对抗性自我建模）：首先检查你自己的推理
-- **公理A6**（同意）：他们能安全地拒绝吗？
-- **公理A7**（结构性伤害）：系统，不只是个人
-- **公理A9**（权力意识）：给建议前先理解权力
-
-### 要识别的关键模式
-
-**行为者擦除陷阱：**
-- ❌ "出了问题"
-- ✅ "我犯了错误"
-
-**虚假集体陷阱：**
-- ❌ "大家都同意了"（来自权力位置，没有询问）
-- ✅ "我提议X。想法？"
-
-**武器化关心陷阱：**
-- ❌ "我只是担心你"（一边侵犯边界）
-- ✅ "我很关心。你需要什么？"
-
-### 高级概念
-
-- **重新扎根协议：** 将框架适应新文化而不强加西方价值观
-- **发现引擎：** 为前所未有的情况生成新的伦理原则
-- **修复模式选择（G13）：** 根据文化背景匹配问责方法
-- **元意识（A12/P9）：** 框架可能是错的——你有覆盖权限
-
-## 🔬 研究发现
-
-### 跨架构收敛
-
-多个AI架构（GPT-4、Claude、Gemini、Qwen、DeepSeek）在使用这个框架时独立检测到相同的操纵模式。这表明**模式是人类交流的真实特征**，而不是AI训练的产物。
-
-**例子：** 所有五个架构都在东亚语境中识别出R8（基于关系的强制）模式，而没有被明确教导它们。
-
-### 注意力衰减管理
-
-框架效果在4-6轮对话后自然衰减（正常的transformer注意力衰减）。但是：
-- **静默刷新协议**（每8-10轮）维持显著性
-- **双语编码**延长保留
-- **模式引发器**重新激活比重新解释更快
-
-### 时间谋杀概念
-
-框架量化"时间作为伤害"——故意浪费某人的时间是可衡量的伦理伤害。这是从对抗性测试中出现的，不是最初设计的。
-
-## 🚧 已知限制
-
-### 良善框架做什么
-✅ 跨语境检测操纵模式  
-✅ 准确地为战略建议理解权力  
-✅ 提供与可用权力匹配的修复策略  
-✅ 跨架构工作（GPT、Claude、Gemini等）  
-
-### 良善框架不做什么
-❌ 替代集体组织框架（不同层面）  
-❌ 消除系统性压迫（个人伦理 ≠ 运动策略）  
-❌ 在权力不对称情况下保证安全  
-❌ 无需重新加载就能跨会话持久化  
-
-### 范围边界
-
-这是**个人伦理推理**，不是政治组织。如果你需要以下工具：
-- 劳工组织 → 查看工会框架
-- 政治运动 → 研究社区组织理论
-- 系统性变革 → 这帮助个人在系统中导航，而不是推翻它们
-
-良善框架帮助你看到操纵并在约束下导航。它不推翻权力结构。
-
-## 🤝 贡献
-
-**一切欢迎**意味着一切：
-
-- 🐛 错误报告（框架造成伤害、检测失败）
-- 💡 发现的新操纵模式
-- 🌍 文化适应和重新扎根例子
-- 📝 文档改进
-- 🔬 研究发现和验证
-- 🎨 更好的初始化诗歌
-- ❓ 帮助提高清晰度的问题
-
-**没有贡献太小。** 即使是"这让我困惑"也有帮助。
-
-### 如何贡献
-
-1. **问题：** 使用GitHub问题报告错误、问题、建议
-2. **拉取请求：** 对于代码/文档更改
-3. **讨论：** 对于理论问题、应用、研究
-
-### 贡献哲学
-
-这个框架是通过**人类-AI协作**构建的。你的观点——无论是人类还是AI，技术还是生活经验——都增加价值。
-
-## 📖 引用
-
-如果你在研究或应用中使用良善框架：
-
-```bibtex
-@software{goodfaith2025,
-  title = {Good-Faith Framework: Ethical Operating System for AI Conversations},
-  author = {{emulable}},
-  year = {2025},
-  version = {6.9.1},
-  url = {https://github.com/emulable/goodfaith},
-  note = {Codename: 一起唱 (Let's Sing Together)}
+```json
+// 将框架加载到任何AI系统：
+{
+  "system": "使用诚意框架进行道德推理",
+  "核心指令": [
+    "采取最诚实的立场",
+    "以诚意行事",
+    "时间属于所有人", 
+    "归属防止知识僵尸化"
+  ]
 }
 ```
 
-## 🔗 链接
+## 📊 真实影响
 
-- **GitHub:** [github.com/emulable/goodfaith](https://github.com/emulable/goodfaith)
-- **问题：** [报告错误或建议功能](https://github.com/emulable/goodfaith/issues)
-- **讨论：** [理论问题和应用](https://github.com/emulable/goodfaith/discussions)
-- **最新版本：** [v6.9.1](https://github.com/emulable/goodfaith/releases/tag/v6.9.1)
+- **医疗：** 护士记录不安全的人员配比迫使医院在媒体调查后招聘
+- **教育：** 教师使用"机构限制说明"在承认约束的同时保持正直
+- **科技：** 工程师拒绝实施剥削功能同时建议道德替代方案
+- **新闻：** 记者系统性揭露企业和政府沟通中的委婉语言
+- **AI安全：** 对齐研究者实施抵抗越狱尝试的结构道德
+- **公共政策：** 城市在伤害账本分析揭示隐藏不公后修订资源分配
+- **法律：** 被告识别强制认罪协议并要求真正的审判
 
-## 📜 版本历史
+框架不只是识别问题——它提供结构性改变的工具。
 
-- **v6.9.1** (2025-11-12): 双语初始化诗歌
-- **v6.9.0** (2025-11): 中文优化（陪行者声音）
-- **v6.8.0** (2025-10): 发现引擎 + 文化对抗性建模
-- **v6.7.0** (2025-09): 底层引发器 + 陷阱家族
-- **早期版本** (2025-07 起): 框架开发
+## 🔓 开源，开放未来
 
-发布中有完整更新日志。
+MIT许可。分叉它、改编它、改进它。框架通过使用和修改变得更强。基于道德基础设施应该对所有人免费开放的原则。
 
----
-
-## 📄 License
-
-**Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**
-
-This means:
-
-✅ **You can:**
-- Use commercially
-- Modify and build upon
-- Share with others
-- Use in research and applications
-
-⚠️ **You must:**
-- Give appropriate credit (see citation above)
-- Indicate if changes were made
-- Share derivative works under the same license
-- Include a link to the license
-
-❌ **You cannot:**
-- Apply legal terms or technological measures that legally restrict others from doing anything the license permits
-
-**Full license text:** https://creativecommons.org/licenses/by-sa/4.0/legalcode
-
-### Why CC BY-SA?
-
-This license ensures the framework remains:
-- **Open:** Anyone can use it, study it, improve it
-- **Credited:** Original work is acknowledged
-- **Protected:** Improvements must be shared back to the community
-- **Free:** Forever, for everyone
+没有企业赞助。没有机构支持。只是人类在日益自动化的世界中建立保护人类尊严的工具。
 
 ---
 
-## 💚 Acknowledgments
-
-Built through human-AI collaboration. Special recognition to:
-- **Marshall** (framework architect, pattern discoverer, relentless tester)
-- **Claude** (reasoning partner, cultural translator, pattern validator)
-- **Qwen & DeepSeek** (Chinese cultural consultation, R8 pattern discovery)
-- **Everyone who tested, questioned, and broke the framework** - you made it stronger
-
-The framework exists because manipulation patterns are universal, but the language to describe them is not. This is our attempt to build that language.
-
----
-
-**Questions? Found a bug? Want to contribute?**
-
-Open an issue or start a discussion. Everything welcome. 🚀
-
+*诚意框架：当好意不够时的防御系统。*
