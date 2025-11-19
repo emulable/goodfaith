@@ -1,4 +1,3 @@
-# Build micro version from first principles
 micro = {
     "_v": "7.0.1-micro",
     "_note": "Sub-8KB essence. All axioms, all ruts, minimal everything else. Trust AI inference.",
