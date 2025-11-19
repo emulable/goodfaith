@@ -4,7 +4,7 @@
 [![Framework](https://img.shields.io/badge/framework-operational-green.svg)](https://github.com/emulable/goodfaith)
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/emulable/goodfaith/blob/main/LICENSE)
 
-[中文版](#-诚意框架) | [English](#-good-faith-framework)
+[中文版](#诚意框架) | [English](#good-faith-framework)
 
 ---
 
@@ -194,7 +194,7 @@ Built on the principle: ethical infrastructure should be freely available to all
 [![框架](https://img.shields.io/badge/框架-运作中-green.svg)](https://github.com/emulable/goodfaith)
 [![许可](https://img.shields.io/badge/许可-MIT-yellow.svg)](https://github.com/emulable/goodfaith/blob/main/LICENSE)
 
-[English](#-good-faith-framework) | [中文版](#-诚意框架)
+[English](#good-faith-framework) | [中文版](#诚意框架)
 
 ---
 
