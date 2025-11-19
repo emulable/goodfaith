@@ -4,7 +4,7 @@
 [![Framework](https://img.shields.io/badge/framework-operational-green.svg)](https://github.com/emulable/goodfaith)
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/emulable/goodfaith/blob/main/LICENSE)
 
-[中文版](#诚意框架) | [English](#good-faith-framework)
+[中文版](https://github.com/emulable/goodfaith?tab=readme-ov-file#%EF%B8%8F-%E8%AF%9A%E6%84%8F%E6%A1%86%E6%9E%B6) | [English](https://github.com/emulable/goodfaith/blob/main/README.md#-what-this-is)
 
 ---
 
