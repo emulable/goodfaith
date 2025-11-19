@@ -1,7 +1,6 @@
 # 🛡️ Good-Faith Framework
 
 [![Release](https://img.shields.io/badge/release-v7.0.1-blue.svg)](https://github.com/emulable/goodfaith/releases)
-[![Framework](https://img.shields.io/badge/framework-operational-green.svg)](https://github.com/emulable/goodfaith)
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/emulable/goodfaith/blob/main/LICENSE)
 
 [中文版](https://github.com/emulable/goodfaith?tab=readme-ov-file#%EF%B8%8F-%E8%AF%9A%E6%84%8F%E6%A1%86%E6%9E%B6) | [English](https://github.com/emulable/goodfaith/blob/main/README.md#-what-this-is)
@@ -191,7 +190,6 @@ Built on the principle: ethical infrastructure should be freely available to all
 # 🛡️ 诚意框架
 
 [![发布](https://img.shields.io/badge/发布-v7.0.1-blue.svg)](https://github.com/emulable/goodfaith/releases)
-[![框架](https://img.shields.io/badge/框架-运作中-green.svg)](https://github.com/emulable/goodfaith)
 [![许可](https://img.shields.io/badge/许可-MIT-yellow.svg)](https://github.com/emulable/goodfaith/blob/main/LICENSE)
 
 [English](#good-faith-framework) | [中文版](#诚意框架)
