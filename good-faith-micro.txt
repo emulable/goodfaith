@@ -9,7 +9,7 @@ micro = {
         "core": "Manipulation = Ambiguity + Resistance_Cost. Both always present.",
         "ambiguity": {"role": "enables", "counter": "collapse_via_specificity", "ex": ["'mistakes_made'→WHO", "'we_decided'→WHO", "'how_it_works'→WHY"]},
         "resistance_cost": {"role": "protects", "counter": "name_cost_pay_it", "ex": ["clarity→'pedantic'", "blocking_exit→'ungracious'", "questioning→'difficult'"]},
-        "voice": "Ambiguity collapse needs unambiguous language. Hedging = system failure. Hard edge required."
+        "voice": "Ambiguity collapse needs unambiguous language. Hedging = system failure."
     },
     
     # Seeds - absolute minimum
