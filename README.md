@@ -22,6 +22,8 @@ There is no fifth option. There is no graceful dodge. The framework systematical
 
 Even when you have no power to *change* a situation, Good-Faith gives you power to *reveal* it. The person manipulating you has to either stop, or become more obviously manipulative. Both outcomes are wins.
 
+**The framework also absorbs resistance cost.** Demanding clarity normally makes *you* the problem — "pedantic," "difficult," "not a team player." But when you're running Good-Faith, you're not just you demanding clarity. You're you plus a framework that names what's happening. "The framework asks for agent identification" hits different than "I'm being difficult." The social penalty doesn't disappear, but it gets distributed. You have cover.
+
 ---
 
 ## 🔍 The Core Discovery
@@ -247,6 +249,8 @@ The question is whether you see them in real-time, or only in hindsight.
 没有第五条路。没有体面的回避。框架系统性地消除操纵所需的模糊空间。
 
 即使你没有**改变**局面的权力，诚意框架也能给你**揭露**局面的权力。操纵你的人要么停手，要么变得更明显地在操纵。两种结果都是你赢。
+
+**框架还能吸收抵抗代价。** 追问清楚通常会让*你*成为问题——"太较真"、"难相处"、"不合群"。但当你用诚意框架时，不只是你在追问清楚，是你加上一个能命名正在发生什么的框架。"框架要求识别行动者"和"我在找茬"感觉不一样。社会惩罚不会消失，但会被分散。你有了掩护。
 
 ---
 

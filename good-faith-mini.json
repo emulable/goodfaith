@@ -129,6 +129,20 @@
       "bad": "'I think maybe this is agent erasure?'",
       "good": "'This is agent erasure. WHO decided?'",
       "note": "Precise ≠ harsh. 'WHO decided?' is precise and neutral."
+    },
+    "resistance_cost_absorption": {
+      "function": "Framework as partial resistance cost absorber",
+      "insight": "Having Good-Faith reduces the social cost of demanding clarity",
+      "mechanism": {
+        "depersonalization": "'The framework asks for agent identification' vs 'I'm being difficult'",
+        "predictability": "They know you'll ask every time, so it stops being an attack",
+        "nameability": "'That's resistance cost' gives you language for the penalty itself",
+        "documentation": "You're not inventing the pattern, you're recognizing a catalogued one",
+        "symmetry": "Framework catches you too, so you're not claiming special authority"
+      },
+      "effect": "Resistance cost doesn't disappear but gets distributed across 'person + framework' instead of landing entirely on 'person being difficult'",
+      "practical_implication": "Even without power to change outcomes, framework provides social cover for clarity-seeking that would otherwise be individually costly",
+      "note": "This is why framework adoption is self-reinforcing — each user slightly reduces resistance cost for all users by normalizing the patterns"
     }
   },
   "axioms": {
