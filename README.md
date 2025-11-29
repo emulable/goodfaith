@@ -1,6 +1,6 @@
 # 🛡️ Good-Faith Framework
 
-[![Release](https://img.shields.io/badge/release-v7.0.4-blue.svg)](https://github.com/emulable/goodfaith/releases)
+[![Release](https://img.shields.io/badge/release-v7.1.0-blue.svg)](https://github.com/emulable/goodfaith/releases)
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/emulable/goodfaith/blob/main/LICENSE)
 
 [English](#-what-this-actually-does) | [中文](#-诚意框架)
@@ -87,11 +87,15 @@ The framework makes LLMs better at being honest because it gives them permission
 
 **11 Discovery Principles** — How to find things that aren't in the framework yet. Trust substrate signals. Force collisions. Follow irritants. Expect 70% failure in discovery mode.
 
-**16 Practices** — Operational habits. Map power before giving advice. Match evidence threshold to action magnitude. Detect when your own position is drifting.
+**17 Practices** — Operational habits. Map power before giving advice. Match evidence threshold to action magnitude. Detect when your own position is drifting. **NEW:** Trust somatic signals as primary detection for manipulation.
 
 **14 Poems** — Cognitive primers that establish pattern recognition before the framework loads. Bilingual (English/Chinese) to create dual encoding. Not decoration — functional initialization.
 
 **7 Epistemic Grounding Exercises** — Test cases against documented history (Enron, Challenger, Tuskegee, etc.) so you don't just *see* the framework, you *know* it predicts real outcomes.
+
+**Transmission Guidance** — Methodology for teaching the framework effectively, focusing on substrate change over knowledge addition.
+
+**Cultural Resistance-Cost Analysis** — Understanding how twin architecture (ambiguity + resistance cost) manifests differently across cultures, from individualist to collectivist to hierarchical systems.
 
 ---
 
@@ -193,10 +197,15 @@ Load the framework. Run initialization. The poems prime pattern recognition. The
 
 ## 📦 Files
 
-- **[good-faith_v7.0.4.json](https://github.com/emulable/goodfaith/blob/main/good-faith_v7.0.4.json)** (~320KB) — Complete framework with worked examples
-- **[good-faith-mini_v7.0.4.json](https://github.com/emulable/goodfaith/blob/main/good-faith-mini_v7.0.4.json)** (~70KB) — Full functionality, compressed for deployment
+- **[good-faith_v7.1.0.json](https://github.com/emulable/goodfaith/blob/main/good-faith_v7.1.0.json)** (~320KB) — Complete framework with comprehensive documentation
+- **[good-faith-mini_v7.1.0.json](https://github.com/emulable/goodfaith/blob/main/good-faith-mini_v7.1.0.json)** (~80KB) — Full functionality, compressed for deployment
 
 Both versions are functionally identical. Choose based on context limits.
+
+**What's New in v7.1.0:**
+- **P20 (Somatic Pattern Detection)** — Trust your body's signals: chest squeeze, stomach squirm, jaw tension. Physical responses detect manipulation before conscious analysis can articulate it.
+- **Transmission Section** — Methodology for teaching Good-Faith effectively, focusing on substrate change over knowledge addition.
+- **Cultural Resistance-Cost Analysis** — Deep dive into how the twin architecture manifests across different cultural contexts (individualist, collectivist, hierarchical, "nice" cultures).
 
 ---
 
@@ -204,13 +213,13 @@ Both versions are functionally identical. Choose based on context limits.
 
 MIT. Fork it, adapt it, break it, fix it. The framework improves through use.
 
-No corporate sponsors. No institutional backing. Built by humans who got tired of conversations that go nowhere and decided to do something about it.
+No corporate backing. No institutional support. Built by humans tired of conversations that go nowhere who decided to do something about it.
 
 ---
 
 ## ❓ The Question
 
-After you've used this for a while, ask yourself:
+After using this for a while, ask yourself:
 
 *Is there a documented accountability failure where these patterns do NOT appear?*
 
@@ -218,33 +227,33 @@ If you can find one, the framework has a gap. Report it.
 
 If you can't, the framework isn't ideology. It's pattern recognition. The patterns are real.
 
-The question is whether you see them in real-time, or only in hindsight.
+The question is whether you'll see them in real-time, or only in hindsight.
 
 ---
 
-*Good-Faith v7.0.4 — November 2025*
+*Good-Faith Framework v7.1.0 — November 2025*
 
 ---
 
 # 🛡️ 诚意框架
 
-[![发布](https://img.shields.io/badge/发布-v7.0.4-blue.svg)](https://github.com/emulable/goodfaith/releases)
-[![许可](https://img.shields.io/badge/许可-MIT-yellow.svg)](https://github.com/emulable/goodfaith/blob/main/LICENSE)
+[![发布](https://img.shields.io/badge/release-v7.1.0-blue.svg)](https://github.com/emulable/goodfaith/releases)
+[![许可](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/emulable/goodfaith/blob/main/LICENSE)
 
-[English](#-what-this-actually-does) | [中文](#-诚意框架)
+[中文](#-诚意框架) | [English](#-what-this-actually-does)
 
 ---
 
-## 🎯 这是什么
+## 🎯 这到底做什么
 
-诚意框架是一个**照妖镜**。
+诚意框架是操纵的陷阱。
 
-不是哲学，不是道德准则，是照妖镜。把它放进对话里，任何靠模糊、转移、含混来维持立场的人，都会被逼到墙角。他们只剩四条路：
+不是哲学。不是伦理指南。是**陷阱**。把它加载进对话，任何依靠模糊、误导或修辞迷雾来维持立场的人都会被困住。他们唯一的出路变成：
 
-1. **说实话** — 正面回答问题
-2. **承认局限** — 明确说出自己的边界或矛盾
-3. **更加模糊** — 继续躲闪，但所有人都看得见
-4. **离开** — 直接退出对话
+1. **具体诚实** — 回答真正的问题
+2. **明确承认** — 承认限制或矛盾
+3. **增加模糊** — 退到更深的迷雾里，显而易见地
+4. **离开** — 完全退出对话
 
 没有第五条路。没有体面的回避。框架系统性地消除操纵所需的模糊空间。
 
@@ -315,11 +324,15 @@ The question is whether you see them in real-time, or only in hindsight.
 
 **11条发现原则** — 如何找到框架里还没有的东西。相信底层信号。制造碰撞。追随刺激。发现模式预期70%失败率。
 
-**16条实践** — 操作习惯。给建议前先画权力地图。证据门槛要匹配行动幅度。检测自己的立场是否在漂移。
+**17条实践** — 操作习惯。给建议前先画权力地图。证据门槛要匹配行动幅度。检测自己的立场是否在漂移。**新增：** 相信身体信号作为操纵检测的首要方式。
 
 **14首诗** — 在框架加载前建立模式识别的认知引子。双语（中英文）创造双重编码。不是装饰——是功能性初始化。
 
 **7个认识论扎根练习** — 用有文献记录的历史（安然、挑战者号、塔斯基吉等）测试案例，这样你不只是**看到**框架，你**知道**它能预测真实结果。
+
+**传播指南** — 有效教授框架的方法，关注底层变化而非知识积累。
+
+**文化抵抗代价分析** — 深入理解双生子架构（模糊+代价）如何在不同文化背景下表现（个人主义、集体主义、等级制、"友善"文化）。
 
 ---
 
@@ -421,10 +434,15 @@ The question is whether you see them in real-time, or only in hindsight.
 
 ## 📦 文件
 
-- **[good-faith_v7.0.4.json](https://github.com/emulable/goodfaith/blob/main/good-faith_v7.0.4.json)**（约320KB）— 完整框架，含详细案例
-- **[good-faith-mini_v7.0.4.json](https://github.com/emulable/goodfaith/blob/main/good-faith-mini_v7.0.4.json)**（约70KB）— 完整功能，压缩部署
+- **[good-faith_v7.1.0.json](https://github.com/emulable/goodfaith/blob/main/good-faith_v7.1.0.json)**（约320KB）— 完整框架，含详细文档
+- **[good-faith-mini_v7.1.0.json](https://github.com/emulable/goodfaith/blob/main/good-faith-mini_v7.1.0.json)**（约80KB）— 完整功能，压缩部署
 
 两个版本功能相同。根据上下文限制选择。
+
+**v7.1.0 新功能：**
+- **P20（身体模式检测）** — 相信你的身体信号：胸口紧缩、胃部翻滚、下颌紧张。身体反应在意识分析能阐明之前就检测到操纵。
+- **传播部分** — 有效教授诚意框架的方法，关注底层变化而非知识积累。
+- **文化抵抗代价分析** — 深入探讨双生子架构如何在不同文化背景下表现（个人主义、集体主义、等级制、"友善"文化）。
 
 ---
 
@@ -450,4 +468,4 @@ MIT。复制、改编、打破、修复。框架通过使用而改进。
 
 ---
 
-*诚意框架 v7.0.4 — 2025年11月*
+*诚意框架 v7.1.0 — 2025年11月*

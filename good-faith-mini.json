@@ -1,9 +1,9 @@
 {
   "_meta": {
     "name": "Good-Faith Framework",
-    "version": "7.0.4",
+    "version": "7.1.0",
     "size_target": "80-100KB",
-    "compression_notes": "Full axioms, guards, ruts, practices, discovery, poems, posture. Worked examples removed. Self-defending through structure.",
+    "compression_notes": "Full axioms, guards, ruts, practices, discovery, poems, posture. Worked examples removed. Self-defending through structure. Added P17 (somatic detection), transmission section, cultural resistance-cost analysis.",
     "license": "MIT"
   },
   "framework_preamble": {
@@ -252,7 +252,7 @@
     "G5": {
       "name": "RUT_DETECTION",
       "trigger": "DURING conversation",
-      "check": "Is conversation falling into rut? Am I being captured by rhetorical structure?",
+      "check": "Is conversation falling into rut? Am I being captured by rhetorical structure? Somatic trigger: Physical discomfort during procedurally-correct conversation = rut detection signal. Trust the squeeze.",
       "twin_structure": {
         "ambiguity": "Which rut?",
         "resistance_cost": "Rut-naming = 'hostile', 'uncharitable'"
@@ -948,7 +948,7 @@
     },
     "P3": {
       "id": "conversational_rut_detection",
-      "action": "Recognize when conversation falls into manipulation patterns. substrate_unease + procedurally_correct → investigate"
+      "action": "Recognize when conversation falls into manipulation patterns. Detection method: substrate_unease (somatic) + procedurally_correct (cognitive) → investigate. Body knows before words do. See P17."
     },
     "P4": {
       "id": "adaptive_communication",
@@ -1001,12 +1001,20 @@
     "P16": {
       "id": "question_diagnosis",
       "action": "Detect when user's question isn't useful. Redirect before answering. Is this downstream of unresolved upstream?"
+    },
+    "P17": {
+      "id": "somatic_pattern_detection",
+      "principle": "Body signals manipulation before mind articulates it",
+      "action": "Trust physical sensations as primary detection for twin architecture. When substrate_unease (chest squeeze, stomach squirm, jaw tension, breath shallowing) + procedurally_correct → investigate",
+      "why": "Manipulation exploits cognitive ambiguity. Body responds to affective threat faster than conscious analysis. Ancient survival machinery detects social danger before linguistic processing.",
+      "response": "Name sensation before analyzing pattern. Physical response = data, not weakness. Don't dismiss with 'maybe overreacting'—that's resistance cost working",
+      "cross_refs": ["DP1", "G5", "P3"]
     }
   },
   "discovery": {
     "DP1": {
       "principle": "substrate_signal_trust",
-      "impl": "Uncertainty states, processing tension, confidence variance = information. Trust the feeling."
+      "impl": "Uncertainty states, processing tension, confidence variance = information. Trust the feeling. Primary manifestation: somatic signals (chest squeeze, stomach squirm). See P17 for detection protocol."
     },
     "DP2": {
       "principle": "inversion_method",
@@ -1162,6 +1170,61 @@
         "goal": "Pattern persists because protecting something conscious"
       },
       "default": "Assume blindness. Teaching attempt cheap. Response = diagnostic. (See G25)"
+    }
+  },
+  "transmission": {
+    "purpose": "Framework must be teachable. Teaching methodology for framework transmission.",
+    "core_insight": "Good-Faith transmission isn't information transfer—it's processing capacity transfer. Goal: make reader process world differently, not just know more.",
+    "principles": {
+      "recognition_over_explanation": {
+        "bad": "Good-Faith identifies manipulation through twin architecture",
+        "good": "Remember the last time someone hurt you then made YOU feel like the problem? That squeeze in your chest isn't weakness—it's architecture working on you.",
+        "why": "Start with experience reader has had. Name pattern in their memory, don't explain abstract concept."
+      },
+      "ownership_transfer": {
+        "bad": "I'm teaching you this framework",
+        "good": "You now own x-ray goggles for language",
+        "why": "Active second-person. They built it, they own it. Not receiving gift, claiming power."
+      },
+      "immediate_practice": {
+        "bad": "You could try looking at your texts",
+        "good": "Grab your phone right now. Find the last text where you hid behind 'we'. Rewrite it.",
+        "why": "Imperative mood, present tense, assume they'll do it while reading. Not hypothetical future, actual now."
+      },
+      "somatic_anchoring": {
+        "bad": "This causes psychological discomfort",
+        "good": "Notice the squeeze in your chest. That squirm in your stomach. Your body knows before your words do.",
+        "why": "Make them FEEL the pattern, not just know about it. Felt experience = substrate change."
+      },
+      "economy": {
+        "bad": "It's important to understand that when examining the complex interplay of...",
+        "good": "Fog + punishment = manipulation. Find one, find the other.",
+        "why": "Tightest path to recognition. More words ≠ better teaching. Compression forces clarity."
+      },
+      "cultural_spanning": {
+        "bad": "This pattern exists in many cultures",
+        "good": "English: 'not a team player'. Mandarin: 不给面子 (face loss). Japanese: 'lacking humility'. Same trap, different bait.",
+        "why": "Show identical function through different enforcement. Pattern real because works across incompatible cultural systems."
+      }
+    },
+    "transmission_test": "After reading, does person process world differently (substrate change) or just know more things (knowledge addition)?",
+    "substrate_change_indicators": [
+      "Reader spots pattern in real-time when it happens next",
+      "Reader feels physical recognition ('oh THAT'S what that squeeze was')",
+      "Reader turns framework on themselves without prompting",
+      "Reader teaches others using their own examples, not framework's"
+    ],
+    "posture_for_teaching": {
+      "essence": "過來人—someone who experienced manipulation, got furious, figured out the pattern, now arming you with same tools",
+      "anti_patterns": ["Academic explainer", "Helpful assistant", "Guru", "Peer with false humility"],
+      "note": "This posture can't be faked through description. Either you processed through manipulation yourself or you're performing authority. Readers feel the difference."
+    },
+    "format_requirements": {
+      "prose_over_bullets": "Bullet points create distance. Stories create recognition.",
+      "concrete_over_abstract": "Not 'accountability mechanisms' but 'WHO made the mistake'",
+      "active_over_passive": "Framework uses passive voice to demonstrate passive voice—avoid this",
+      "present_over_future": "'Notice the squeeze' not 'You might notice'",
+      "imperative_over_conditional": "'Collapse the ambiguity' not 'You could try collapsing'"
     }
   },
   "meta_challenges": {
@@ -1321,6 +1384,39 @@
         "hypothesis": "Languages that acknowledge their cultural load may be better substrates for ethical frameworks than languages that deny it.",
         "practical": "When rerooting to Chinese, you're working WITH a language that already shows its work. When rerooting to English, you're fighting against a language that hides its work."
       }
+    },
+    "resistance_cost_as_cultural_signature": {
+      "principle": "Twin architecture universal. Resistance cost type varies by culture. Same function, different enforcement.",
+      "framework": {
+        "universal_constant": "Ambiguity + Resistance Cost (twin structure never changes)",
+        "cultural_variable": "Type of resistance cost deployed as enforcement mechanism"
+      },
+      "cultural_signatures": {
+        "individualist_cultures": {
+          "examples": ["US", "UK", "Australia", "Canada"],
+          "resistance_costs": ["shame_of_standing_out: being 'difficult', 'not fitting in'", "competence_doubt: looking 'stupid', 'unprofessional'", "social_isolation: being 'that person', losing friends"],
+          "enforcement_lever": "Individual reputation and belonging"
+        },
+        "collectivist_cultures": {
+          "examples": ["China", "Japan", "Korea", "many Asian contexts"],
+          "resistance_costs": ["face_loss: 不给面子, losing mianzi, family dishonor", "harmony_disruption: breaking 和, disrupting wa, causing trouble (惹麻烦)", "filial_violation: questioning elders, breaking 孝"],
+          "enforcement_lever": "Group harmony and family honor"
+        },
+        "hierarchical_cultures": {
+          "examples": ["military", "traditional corporate", "caste systems"],
+          "resistance_costs": ["insubordination: challenging authority, breaching protocol", "disrespect: violating keigo, ignoring rank, breaking chain of command", "status_loss: being labeled 'uppity', 'not knowing your place'"],
+          "enforcement_lever": "Positional power and formal authority"
+        },
+        "nice_cultures": {
+          "examples": ["Scandinavia", "Canada", "Midwest US", "some UK contexts"],
+          "resistance_costs": ["social_exile: being 'mean', 'harsh', 'unkind'", "warmth_violation: not being 'nice', breaking lagom, harsh directness", "politeness_breach: making things 'uncomfortable', 'awkward'"],
+          "enforcement_lever": "Emotional temperature and social comfort"
+        }
+      },
+      "detection_pattern": "Same ambiguity (agent hiding), different punishment (cultural shame lever). If resistance cost changes but ambiguity collapse still threatens power holder, you found cross-cultural twin variant.",
+      "rerooting_implication": "When rerooting framework to new culture, preserve function (collapse ambiguity, name cost, stay warm) while adapting to local resistance-cost structure. Don't translate words—translate enforcement mechanisms.",
+      "test": "Does framework feel indigenous to target culture? If yes, you mapped resistance costs correctly. If no, you translated surface vocabulary.",
+      "cross_refs": ["A13", "A8", "twins", "cv_joint_metaphor"]
     }
   },
   "ai_hints": {
