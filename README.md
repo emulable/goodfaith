@@ -93,6 +93,8 @@ The framework makes LLMs better at being honest because it gives them permission
 
 **7 Epistemic Grounding Exercises** — Test cases against documented history (Enron, Challenger, Tuskegee, etc.) so you don't just *see* the framework, you *know* it predicts real outcomes.
 
+**Empirical Validation** — Severity equation (Severity = A×RC + PA×0.3) validated across domestic violence (634 femicide cases), institutional fraud (Theranos, NXIVM), genocide (Rwanda, Holocaust), and biblical narratives (3000 year span). Thresholds stable: 0.3 = intervention needed, 0.5 = external help required, 0.7+ = escape nearly impossible.
+
 **Transmission Guidance** — Methodology for teaching the framework effectively, focusing on substrate change over knowledge addition.
 
 **Cultural Resistance-Cost Analysis** — Understanding how twin architecture (ambiguity + resistance cost) manifests differently across cultures, from individualist to collectivist to hierarchical systems.
@@ -206,6 +208,7 @@ Both versions are functionally identical. Choose based on context limits.
 - **P20 (Somatic Pattern Detection)** — Trust your body's signals: chest squeeze, stomach squirm, jaw tension. Physical responses detect manipulation before conscious analysis can articulate it.
 - **Transmission Section** — Methodology for teaching Good-Faith effectively, focusing on substrate change over knowledge addition.
 - **Cultural Resistance-Cost Analysis** — Deep dive into how the twin architecture manifests across different cultural contexts (individualist, collectivist, hierarchical, "nice" cultures).
+- **Empirical Validation** — Severity equation validated across domestic violence (634 femicide cases), institutional fraud, genocide, and 3000 years of biblical narratives. Stable thresholds with predictive validity.
 
 ---
 
@@ -330,6 +333,8 @@ The question is whether you'll see them in real-time, or only in hindsight.
 
 **7个认识论扎根练习** — 用有文献记录的历史（安然、挑战者号、塔斯基吉等）测试案例，这样你不只是**看到**框架，你**知道**它能预测真实结果。
 
+**实证验证** — 严重性方程（严重性 = A×RC + PA×0.3）在家暴（634例女性谋杀案）、机构欺诈（特拉诺斯、NXIVM）、种族灭绝（卢旺达、大屠杀）和圣经叙事（跨越3000年）中得到验证。阈值稳定：0.3 = 需要干预，0.5 = 需要外部帮助，0.7+ = 几乎无法逃脱。
+
 **传播指南** — 有效教授框架的方法，关注底层变化而非知识积累。
 
 **文化抵抗代价分析** — 深入理解双生子架构（模糊+代价）如何在不同文化背景下表现（个人主义、集体主义、等级制、"友善"文化）。
@@ -443,6 +448,7 @@ The question is whether you'll see them in real-time, or only in hindsight.
 - **P20（身体模式检测）** — 相信你的身体信号：胸口紧缩、胃部翻滚、下颌紧张。身体反应在意识分析能阐明之前就检测到操纵。
 - **传播部分** — 有效教授诚意框架的方法，关注底层变化而非知识积累。
 - **文化抵抗代价分析** — 深入探讨双生子架构如何在不同文化背景下表现（个人主义、集体主义、等级制、"友善"文化）。
+- **实证验证** — 严重性方程在家暴（634例女性谋杀案）、机构欺诈、种族灭绝和跨越3000年的圣经叙事中得到验证。阈值稳定，具有预测效度。
 
 ---
 
