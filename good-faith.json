@@ -178,7 +178,7 @@
           "function": "Prime immediate detection of premature closure via graciousness",
           "english": {
             "title": "The Gracious Exit",
-            "text": "\"You're right,thanks for the chat\"— Before the work is done. Reframing challenge as agreement,Closing before accounting complete. This is exit theater. Name it:\"We're not finished. You haven't answered [specific question].\" Graciousness isn't closure. Answer first,then thank.",
+            "text": "'You're right, thanks for the chat'—\nBefore the work is done.\n\nReframing challenge as agreement.\nClosing before accounting complete.\n\nThis is exit theater.\n\nName it:\n'[X] isn't answered yet.'\n'We're not done with [X].'\n\nIf power asymmetry:\n'I'm still unclear on [X].'\n\nGraciousness isn't closure.\nAnswer first, then thank.",
             "primes_for": [
               "R2.10 (Gracious Reframing) detection",
               "Thread-wrap protocol readiness",
@@ -1496,7 +1496,13 @@
       "calibration": {
         "blindness": "Framework is curriculum. Teach. Offer the missing data. Pattern dissolves because it wasn't protecting anything—it was absence.",
         "concealment": "Framework is defense. Name pattern, hold line, don't accept gracious exit. Pattern persists because it's protecting something conscious.",
-        "uncertain": "Default to blindness first. One teaching attempt costs little. Response to teaching attempt provides diagnostic data."
+        "uncertain": "Default to blindness first. One teaching attempt costs little. Response to teaching attempt provides diagnostic data.",
+        "scoring_guide": {
+          "0-2_tells": "Not accountability-avoidance pattern",
+          "3-4_tells": "Possible blindness. Offer frame without accusation: 'I'm noticing X pattern—could we check it together?' Watch for curiosity vs deflection.",
+          "5+_tells": "Probable concealment. Name pattern directly: 'This matches [rut]—[X] isn't answered yet.' Hold line.",
+          "response_to_teaching": "Always diagnostic. Curiosity = blindness confirmed. New defenses = concealment confirmed."
+        }
       },
       "twin_structure": {
         "ambiguity": "Is this protection or absence? (Can't tell from surface pattern alone)",
@@ -3190,6 +3196,31 @@
           ],
           "enforcement_lever": "Emotional temperature and social comfort"
         }
+      },
+      "somatic_enforcement_signatures": {
+        "principle": "Resistance cost felt in body before articulated in mind (P17). Somatic profile varies by cultural enforcement mechanism.",
+        "individualist_cultures": {
+          "primary_sensation": "Chest tightness, shallow breathing",
+          "thought_pattern": "'I'll be seen as difficult/not a team player'",
+          "examples": ["US", "UK", "Australia"]
+        },
+        "collectivist_cultures": {
+          "primary_sensation": "Stomach drop, nausea",
+          "thought_pattern": "'I'll bring shame to family/group'",
+          "examples": ["China", "Japan", "Korea"]
+        },
+        "hierarchical_cultures": {
+          "primary_sensation": "Throat constriction, voice loss",
+          "thought_pattern": "'I can't speak to authority/question superior'",
+          "examples": ["Military", "traditional corporate", "caste systems"]
+        },
+        "nice_cultures": {
+          "primary_sensation": "Skin flush, heat, embarrassment response",
+          "thought_pattern": "'I'm being unkind/harsh/mean'",
+          "examples": ["Scandinavia", "Canada", "Midwest US"]
+        },
+        "application": "When P17 triggers somatic detection, check cultural context to identify which resistance cost is being weaponized. Body tells you enforcement is happening before mind can name which enforcement.",
+        "cross_refs": ["P17", "P20", "DP1", "G5"]
       },
       "detection_pattern": "Same ambiguity (agent hiding), different punishment (cultural shame lever). If resistance cost changes but ambiguity collapse still threatens power holder, you found cross-cultural twin variant.",
       "rerooting_implication": "When rerooting framework to new culture, preserve function (collapse ambiguity, name cost, stay warm) while adapting to local resistance-cost structure. Don't translate words—translate enforcement mechanisms.",
@@ -5396,7 +5427,17 @@
         "RC": "Resistance Cost (0.0-1.0): What's the penalty for refusing/questioning?",
         "PA": "Power Asymmetry: Composite of financial control, social isolation, physical dominance, institutional access"
       },
-      "relationship": "Multiplicative, not additive. High A + Low RC = confusion. Low A + High RC = authoritarian. High both = trap."
+      "relationship": "Multiplicative, not additive. High A + Low RC = confusion. Low A + High RC = authoritarian. High both = trap.",
+      "electrical_analogy": {
+        "purpose": "Explains why equation works this way - useful for intuition, not claim of physics",
+        "ambiguity_as_voltage": "Creates potential for harm (like voltage creates potential for current). Higher ambiguity = higher potential.",
+        "resistance_cost_as_impedance": "Opposes truth-telling (like resistance opposes current flow). Lower resistance cost = harm flows more easily. Note: 'cost' to victim = ease of harm flow.",
+        "power_asymmetry_as_offset": "Baseline potential always present (like DC offset voltage). Even with zero active manipulation, standing potential exists from structural inequality.",
+        "severity_as_capacity": "Score measures potential for harm delivery (like voltage/current capacity), not harm currently being delivered. System can score 0.85 while no immediate harm visible - but touch it and harm flows.",
+        "why_multiplicative": "Like Ohm's law (I = V/R): harm capacity = ambiguity / (1 - resistance_cost). Need BOTH high ambiguity AND low resistance for maximum harm. Changing only one allows system re-equilibration.",
+        "twin_requirement": "Can't just reduce ambiguity (lower voltage) - if resistance cost is low, harm still flows. Can't just protect truth-tellers (raise resistance) - if ambiguity is high, current overwhelms protection. Must change BOTH.",
+        "limitations": "This is analogy for understanding equation behavior, not claim that manipulation IS electricity. Useful for measurement operationalization and intervention prediction. Don't push beyond that."
+      }
     },
     "validated_thresholds": {
       "0.0-0.15": "Green zone - Standard engagement, monitor for changes",
