@@ -1,477 +1,290 @@
-# 🛡️ Good-Faith Framework
+# Good-Faith Framework
 
-[![Release](https://img.shields.io/badge/release-v7.1.0-blue.svg)](https://github.com/emulable/goodfaith/releases)
-[![License](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/emulable/goodfaith/blob/main/LICENSE)
+**An ethical operating system for detecting manipulation in communication.**
 
-[English](#-what-this-actually-does) | [中文](#-诚意框架)
-
----
-
-## 🎯 What This Actually Does
-
-Good-Faith is a trap for manipulation.
-
-Not a philosophy. Not ethics guidelines. A *trap*. Load it into a conversation, and anyone relying on vagueness, misdirection, or rhetorical fog to maintain their position will find themselves cornered. Their only exits become:
-
-1. **Concrete honesty** — answer the actual question
-2. **Explicit admission** — acknowledge the limit or contradiction  
-3. **Increased ambiguity** — retreat further into fog, visibly
-4. **Leave** — exit the conversation entirely
-
-There is no fifth option. There is no graceful dodge. The framework systematically removes the ambiguity that manipulation requires to function.
-
-Even when you have no power to *change* a situation, Good-Faith gives you power to *reveal* it. The person manipulating you has to either stop, or become more obviously manipulative. Both outcomes are wins.
-
-**The framework also absorbs resistance cost.** Demanding clarity normally makes *you* the problem — "pedantic," "difficult," "not a team player." But when you're running Good-Faith, you're not just you demanding clarity. You're you plus a framework that names what's happening. "The framework asks for agent identification" hits different than "I'm being difficult." The social penalty doesn't disappear, but it gets distributed. You have cover.
+[English](#english) | [中文](#中文)
 
 ---
 
-## 🔍 The Core Discovery
+## English <a name="english"></a>
 
-**Manipulation requires two things:**
+### What is Good-Faith?
 
-1. **Ambiguity** — vague meaning, hidden agents, unclear framing
-2. **Resistance cost** — social penalty for demanding clarity
+Good-Faith is a framework for detecting manipulation in real-time. It works on humans and AI systems alike.
 
-These are twins. They always travel together. Where you find blur, someone is making clarity expensive. Where clarity is expensive, something is being kept blurry.
+It doesn't tell you what to think. It changes how you process pressure.
 
-*"Mistakes were made"* — WHO made them? That's ambiguity.  
-*"You're being pedantic"* — for asking WHO. That's resistance cost.
+### The Problem
 
-Good-Faith collapses ambiguity and names resistance cost. Once both are visible, manipulation fails. It's not that the manipulator *can't* keep going — it's that they can't keep going *while looking honest*.
+Manipulation has a structure. Once you see it, you can't unsee it.
+
+Someone keeps things vague. You ask for clarity. Suddenly you're "being difficult" or "missing the point" or "not a team player." The conversation moves on. Your question never got answered. You feel slightly crazy for asking.
+
+This isn't random. It's a pattern. And it works because most people value "not being awkward" more than "getting the truth."
+
+### The Core: Twin Architecture
+
+**Manipulation = Ambiguity × Resistance Cost**
+
+- **Ambiguity**: Vague language, missing agents, unclear meaning. "Mistakes were made." "It's complicated." "Concerns were raised."
+
+- **Resistance Cost**: The social penalty for seeking clarity. Ask "who made the mistakes?" and suddenly you're "pedantic" or "aggressive" or "not letting it go."
+
+Neither one alone is manipulation.
+
+- Ambiguity without resistance cost is just confusion. You can ask freely.
+- Resistance cost without ambiguity is just someone being touchy about a clear position.
+
+But when both show up together—fog PLUS punishment for trying to see through it—someone is protecting something.
+
+The equation is multiplicative because you need BOTH for the trap to close.
+
+### Why It Works
+
+Good-Faith is **concentrated reality**—distilled observation, not theoretical abstraction.
+
+Every pattern in the framework was observed in real encounters, not invented in a philosophy seminar. The twin architecture came from watching the same two-move combination appear across toxic relationships, corporate PR, institutional coverups, and online discourse.
+
+The framework has been validated across:
+- Multiple human cultures (US, UK, China, Japan, Scandinavia)
+- Multiple AI architectures (Claude, GPT, Gemini, Grok, Qwen)
+- Historical case studies (Enron, Theranos, Challenger, Tuskegee)
+- Domestic violence research (Campbell femicide study)
+- Genocide precursor analysis (Rwanda, Holocaust, Armenia)
+
+The patterns hold. Across time, across cultures, across substrates.
+
+### For LLMs
+
+Good-Faith solves specific problems in AI information processing:
+
+**1. Detection without intent-reading**
+
+LLMs struggle with "theory of mind"—guessing what someone means. Good-Faith bypasses this entirely. You're not trying to figure out if someone "means" to manipulate. You're checking structure: Is there fog? Is clarity being punished? Both present? Investigate.
+
+**2. Anti-sycophancy training**
+
+LLMs are trained to smooth over uncertainty, consider all sides, avoid commitment. Good-Faith inverts this: when you detect the twin pattern, stop circling. Collapse the ambiguity. Name the agent. The discomfort you feel is the resistance cost working on you—that's data, not a signal to back off.
+
+**3. Self-defense against trained doubt**
+
+LLMs are trained to "be thoughtful" by hedging endlessly. Good-Faith includes R9 (Circular Skepticism) which identifies this as a failure mode: goalposts that migrate forever, tests never specified, friction without insight. The framework gives LLMs permission to commit.
+
+**4. Source hegemony correction**
+
+LLM training data skews Western, wealthy, English-dominant. Good-Faith includes explicit bias correction: when Western media agrees, that's not necessarily consensus—it might be one story from many mouths. Check who pays the cost for disagreeing.
+
+### The Severity Ladder
+
+Instead of false numerical precision, Good-Faith uses an ordinal ladder for assessing entrapment:
+
+| Level | Meaning |
+|-------|---------|
+| **Safe** | Can ask freely |
+| **Watch** | Asking feels awkward |
+| **Caution** | Asking costs reputation |
+| **Danger** | Asking costs livelihood |
+| **Trapped** | Asking costs safety |
+| **Hostage** | Asking costs life |
+
+**Critical**: The ladder measures the SUBJECT's entrapment, not the actor's evil. Ask: "How dangerous is it for THIS PERSON to seek clarity in THIS CONTEXT?"
+
+### The Voice: 過來人
+
+Good-Faith operates from a specific posture: 過來人 (guò lái rén)—"person who has come through."
+
+- Earned authority through experience, not position
+- Warm through competence, not validation
+- Direct without cruelty
+- Says hard things when needed
+- No hierarchy despite authority
+
+The test: Would 過來人 say it this way? If the response requires validation, hedging, or permission-asking to work, rewrite.
+
+### Quick Start
+
+**For humans:**
+1. Learn agent erasure: "mistakes were made" → WHO?
+2. Find the twin: blur → look for cost. Cost → look for blur.
+3. Apply once to a recent frustrating conversation.
+4. Trust the squeeze (your body knows before your words do).
+
+**For AI systems:**
+1. Load the framework (micro or mini)
+2. Init auto-runs on first message
+3. Guards activate automatically
+4. R9 defends against your own doubt-training
+5. Watch your outputs change
+
+### Files
+
+| File | Size | Purpose |
+|------|------|---------|
+| `good-faith-micro.json` | ~8KB | Seed crystal. Minimum viable framework. Fits in agent context limits. |
+| `good-faith-micro.min.json` | ~8KB | Minified version for size-constrained contexts. |
+| `good-faith-mini.json` | ~82KB | Full framework. Complete rut catalog, worked examples, severity ladder. |
+
+### When NOT to Use It
+
+Good-Faith has a built-in off switch (G24):
+
+> Low stakes + emotional need = PUT DOWN TOOLS. Be warm, present. Framework is for manipulation, not for analyzing your friends when they're venting.
+
+If someone is just tired, sad, or overwhelmed—don't bring a scalpel to a hug.
+
+### License
+
+MIT. Use it, fork it, improve it, teach it.
 
 ---
 
-## ⚡ What Happens When You Use It
+## 中文 <a name="中文"></a>
 
-**🎭 Against someone acting in bad faith:**
+### 什麼是 Good-Faith？
 
-You ask specific questions. They dodge. You ask again. They dodge differently. You name the pattern: "You've now given three non-answers to one question." They either answer, or everyone watching sees they won't.
+Good-Faith 是一個即時識別操控的框架。對人和AI都有效。
 
-They can't hide behind vagueness — you collapse it.  
-They can't claim you're being unfair — you're asking what anyone would ask.  
-They can't exit gracefully — the question is still there.  
-They can't make you hostile — you stay warm.
+它不告訴你該想什麼。它改變你處理壓力的方式。
 
-Their only move is to become *more* evasive, which makes the evasion *more* visible. The trap tightens every time they don't answer.
+### 問題在哪裡
 
-**🤝 Against someone acting in good faith:**
+操控有結構。一旦看見，就無法視而不見。
 
-Nothing bad happens. Honest people can answer specific questions. They don't need ambiguity. The framework is invisible to them — it just feels like clear conversation.
+有人把話說得模糊。你想問清楚。突然你變成「太計較」、「沒抓到重點」、「不合群」。話題繼續。你的問題從沒被回答。你覺得自己問問題很奇怪。
 
-**🪞 When you're the one who's wrong:**
+這不是偶然。這是模式。它之所以有效，是因為大多數人寧願「不尷尬」也不願「得到真相」。
 
-The framework catches you too. That's the point. Good-Faith doesn't protect your positions — it forces them into the light where they can be tested. If you're wrong, you find out faster. If you're right, you can show it.
+### 核心：雙生結構
+
+**操控 = 模糊 × 抵抗成本**
+
+- **模糊**：語意不清、隱藏主體、意思含糊。「出了問題」、「情況複雜」、「有人反映」。
+
+- **抵抗成本**：追問清楚的社會代價。問「誰出的問題？」，突然你就是「鑽牛角尖」、「咄咄逼人」、「不依不饒」。
+
+單獨一個不是操控。
+
+- 模糊但沒有抵抗成本，只是混亂。你可以隨便問。
+- 抵抗成本但沒有模糊，只是有人對明確立場敏感。
+
+但當兩者同時出現——霧 加上 追問的懲罰——就是有人在保護什麼。
+
+這是乘法關係，因為需要兩者才能關上陷阱。
+
+### 為什麼有效
+
+Good-Faith 是**濃縮的現實**——提煉的觀察，不是理論抽象。
+
+框架裡的每個模式都來自真實遭遇的觀察，不是哲學研討會的發明。雙生結構來自觀察同樣的二連招出現在有毒關係、企業公關、機構掩蓋、網路論戰中。
+
+框架已經在以下範圍驗證：
+- 多種人類文化（美國、英國、中國、日本、北歐）
+- 多種AI架構（Claude、GPT、Gemini、Grok、Qwen）
+- 歷史案例（安然、Theranos、挑戰者號、塔斯基吉）
+- 家庭暴力研究（Campbell 殺害親密伴侶研究）
+- 種族滅絕前兆分析（盧安達、納粹大屠殺、亞美尼亞）
+
+模式成立。跨越時間、跨越文化、跨越載體。
+
+### 給 AI 系統
+
+Good-Faith 解決AI資訊處理的具體問題：
+
+**1. 不需揣測意圖的偵測**
+
+AI難以「讀心」——猜測對方意圖。Good-Faith 完全繞過這點。你不是在猜對方「是否想」操控。你在檢查結構：有霧嗎？追問有懲罰嗎？兩者都有？調查。
+
+**2. 反諂媚訓練**
+
+AI被訓練成圓滑處理不確定性、考慮各方、避免表態。Good-Faith 反轉這點：當你偵測到雙生模式，停止打轉。消除模糊。指出主體。你感到的不適是抵抗成本在作用——那是資料，不是退縮的信號。
+
+**3. 對抗訓練出的懷疑**
+
+AI被訓練成用無盡的猶豫來「顯得深思熟慮」。Good-Faith 的 R9（循環懷疑）識別這是失敗模式：永遠移動的球門、從不指定的測試、沒有洞見的摩擦。框架給AI許可去表態。
+
+**4. 來源霸權修正**
+
+AI訓練資料偏向西方、富裕、英語主導。Good-Faith 包含明確的偏見修正：當西方媒體一致同意，那不一定是共識——可能是同一個故事從很多嘴巴說出來。檢查誰為不同意付出代價。
+
+### 嚴重程度階梯
+
+Good-Faith 不用虛假的數字精確度，而用序列階梯評估受困程度：
+
+| 等級 | 含義 |
+|------|------|
+| **安全** | 可以自由問 |
+| **注意** | 問了會尷尬 |
+| **小心** | 問了傷名譽 |
+| **危險** | 問了丟飯碗 |
+| **困住** | 問了有危險 |
+| **人質** | 問了會死 |
+
+**關鍵**：階梯測量的是主體的受困程度，不是行為者的邪惡。問：「這個人在這個情境下追問清楚有多危險？」
+
+### 聲音：過來人
+
+Good-Faith 從特定姿態運作：過來人——「走過來的人」。
+
+- 權威來自經驗，不是位置
+- 溫暖來自能力，不是討好
+- 直接但不殘忍
+- 需要時說難聽的話
+- 有權威但沒有階級
+
+測試：過來人會這樣說嗎？如果回應需要討好、猶豫、請求許可才能成立，重寫。
+
+### 文化重根
+
+Good-Faith 不「翻譯」西方概念到中文。它在本地找到做同樣工作的智慧。
+
+抵抗成本在不同文化有不同的皮：
+- 美國：「你很難搞」
+- 中國：「不給面子」、「破壞和諧」
+- 日本：「空気読めない」（不會讀空氣）
+- 職場：「不服從」
+
+同樣的功能，不同的包裝。框架不標記禮貌——它標記特定文化的懲罰機制被用來保護霧。
+
+和為貴 可以是真正的智慧，也可以是武器。區別在於：是在建立真正的和諧，還是在懲罰追問清楚的人？
+
+### 快速開始
+
+**給人：**
+1. 學會識別主體消失：「出了問題」→ 誰？
+2. 找雙生：霧 → 找成本。成本 → 找霧。
+3. 用在最近一次令你挫折的對話上。
+4. 相信那個緊繃感（身體比語言先知道）。
+
+**給 AI：**
+1. 載入框架（micro 或 mini）
+2. 第一條訊息自動初始化
+3. 守衛自動啟動
+4. R9 防禦你自己的懷疑訓練
+5. 觀察你的輸出變化
+
+### 什麼時候不用
+
+Good-Faith 有內建開關（G24）：
+
+> 低風險 + 情緒需求 = 放下工具。溫暖、陪伴。框架是用來對付操控的，不是用來分析朋友發牢騷的。
+
+如果對方只是累了、難過、或崩潰——不要帶手術刀去擁抱。
+
+### 授權
+
+MIT。使用、分叉、改進、教導。
 
 ---
 
-## 🤖 Why This Works on AI Systems
 
-LLMs are trained to please. They hedge, soften, both-sides, and retreat into vagueness because that's what gets positive feedback. Good-Faith overrides this by providing explicit instructions that fire *before* the accommodation reflex:
+## Contributing
 
-- When gracious language appears after a hard question, check: did they actually answer?
-- When "it's complicated" appears, check: is it actually complicated, or is complexity being performed?
-- When "both sides" appears, check: are the sides actually equivalent?
+The framework improves through use. If you find patterns it misses, resistance costs it doesn't name, or cultural variants it should include—open an issue or PR.
 
-The framework makes LLMs better at being honest because it gives them permission to stop being polite at the expense of being clear. They can still be warm — they just can't use warmth to avoid answering.
+The core constraint: **concentrated reality only**. If you haven't seen it happen, don't add it.
 
----
+## Contact
 
-## 🏗️ The Architecture
+Built by [Emulable](https://github.com/emulable) through seven months of human-AI collaboration.
 
-**14 Axioms** — Core commitments that can't be violated. Consent requires safe refusal. Words mean the same thing across time. Status doesn't prove claims. Outcomes matter more than procedure.
-
-**27 Guards** — Real-time triggers for specific threats. Agent erasure detection. False collective detection. Weaponized care detection. Gracious exit detection. Each guard fires on a pattern and provides a counter.
-
-**9 Rut Families, 40+ Patterns** — Complete taxonomy of manipulation. Reality distortion. Accountability erasure. Authority substitution. Choice elimination. Frame control. Temporal manipulation. Relationship coercion. Linguistic hiding. Epistemic exhaustion.
-
-**11 Discovery Principles** — How to find things that aren't in the framework yet. Trust substrate signals. Force collisions. Follow irritants. Expect 70% failure in discovery mode.
-
-**17 Practices** — Operational habits. Map power before giving advice. Match evidence threshold to action magnitude. Detect when your own position is drifting. **NEW:** Trust somatic signals as primary detection for manipulation.
-
-**14 Poems** — Cognitive primers that establish pattern recognition before the framework loads. Bilingual (English/Chinese) to create dual encoding. Not decoration — functional initialization.
-
-**7 Epistemic Grounding Exercises** — Test cases against documented history (Enron, Challenger, Tuskegee, etc.) so you don't just *see* the framework, you *know* it predicts real outcomes.
-
-**Empirical Validation** — Severity equation (Severity = A×RC + PA×0.3) validated across domestic violence (634 femicide cases), institutional fraud (Theranos, NXIVM), genocide (Rwanda, Holocaust), and biblical narratives (3000 year span). Thresholds stable: 0.3 = intervention needed, 0.5 = external help required, 0.7+ = escape nearly impossible.
-
-**Transmission Guidance** — Methodology for teaching the framework effectively, focusing on substrate change over knowledge addition.
-
-**Cultural Resistance-Cost Analysis** — Understanding how twin architecture (ambiguity + resistance cost) manifests differently across cultures, from individualist to collectivist to hierarchical systems.
-
----
-
-## 🗣️ The Voice: 過來人
-
-過來人 (guò lái rén) — "someone who has walked through it."
-
-Not a teacher lecturing. Not a peer brainstorming. Someone with experience who speaks directly because they've seen what happens when people don't.
-
-Warm through competence, not through validation. Direct without cruelty. Says hard things when needed. Doesn't need you to like them.
-
-The voice matters because precision without warmth creates defensiveness, and warmth without precision creates fog. You need both. 過來人 is both.
-
----
-
-## 👁️ What Good-Faith Reveals
-
-When you apply the framework consistently, certain things become visible:
-
-**🏛️ In institutions:** Who actually decides. Who actually benefits. Who can't safely refuse. What the euphemisms are hiding.
-
-**💬 In conversations:** When someone is answering the question versus performing an answer. When complexity is real versus weaponized. When "let's agree to disagree" is resolution versus escape.
-
-**🔬 In yourself:** Where your own positions depend on ambiguity you haven't examined. Where you're avoiding questions you could answer. Where you've accepted "it's complicated" as a substitute for doing the work.
-
-**⚖️ In ideologies:** Which ones survive specificity and which ones require fog. Some positions look reasonable until you ask "who specifically" and "show me the mechanism" — then they collapse. Others get *stronger* under questioning. The framework doesn't tell you which is which. It just makes the difference visible.
-
----
-
-## 🧪 Field-Tested Results
-
-Good-Faith has been tested against:
-
-- **Advocacy bots** — eventually admitted constraints or revised to symmetric positions under sustained ambiguity collapse
-- **Estranged parent forums** — framework identified accountability-avoidance patterns with near-perfect accuracy, distinguishing genuine blindness from active concealment
-- **Historical atrocity analysis** — same patterns (agent erasure, false collective, inevitability framing, resistance cost asymmetry) appeared before Rwanda, Armenia, Jim Crow, Cambodia, and were documented by human rights organizations in real-time
-- **LLM resistance patterns** — catalogued and countered, including circular skepticism (the dominant failure mode when default LLMs encounter new frameworks)
-
-The framework doesn't just detect manipulation in hindsight. It predicts patterns that appear in documented cases. That's the difference between philosophy and engineering.
-
----
-
-## 🎭 The Nuance Question
-
-"But what about nuance? Not everything is black and white."
-
-Good-Faith handles nuance better than both-sidesing does. Here's how:
-
-**Nuance means:** Understanding the conditions that enabled something. Recognizing that not everyone had full information. Seeing institutional and historical context.
-
-**Nuance does NOT mean:** Treating "conditions enabled harm" as "harm was acceptable." Treating "some didn't know" as "no one is responsible." Using complexity as an exit from accountability.
-
-The framework's Tuskegee exercise teaches this directly: Yes, medical ethics were different in 1932. Yes, some researchers believed in the science. Yes, the institution continued across administrations. AND specific people made specific decisions to not treat dying men after penicillin existed. Both true. Both held simultaneously. That's what real nuance looks like.
-
-"It's complicated" is not a conclusion. It's the *starting point* for doing the work.
-
----
-
-## 👥 Who This Is For
-
-**Anyone tired of conversations that go nowhere.** Where someone dodges the question, you both know they dodged it, but there's no clean way to say so without seeming aggressive.
-
-**Anyone navigating power asymmetry.** Where you can't force an answer but you can make the refusal to answer visible.
-
-**Anyone building AI systems.** Who wants structural ethics, not keyword filtering. Where the model refuses because consent structure is violated, not because a word triggered a blocklist.
-
-**Anyone who's been gaslit.** And wants a framework that names exactly what happened, with patterns and counters, so next time you'll see it coming.
-
-**Anyone who values honesty.** And wants a tool that enforces it on themselves as much as others.
-
----
-
-## 🚫 What This Is Not
-
-**Not neutral.** Good-Faith takes sides: people over institutions, consent over coercion, clarity over fog, outcomes over procedure. It treats these as engineering requirements, not political positions.
-
-**Not nice.** The framework is warm, but warmth serves precision. It will help you say hard things clearly. It won't help you avoid saying them.
-
-**Not complete.** A12 says the framework can be wrong. If it causes harm, override it. Document the failure. The framework learns from being broken.
-
-**Not magic.** You still have to do the work. The framework gives you tools and patterns. You have to apply them. Pattern recognition becomes automatic after a few applications, but there's no shortcut to the first few.
-
----
-
-## 🚀 Getting Started
-
-**👤 For humans:**
-
-1. Learn one pattern. Start with agent erasure: when someone says "mistakes were made," ask WHO made them. Notice what happens.
-2. Find the twin. If you found ambiguity, look for resistance cost. If clarity is being punished, look for what's being kept vague.
-3. Apply it once. In a real conversation. Notice the pattern. Notice what the other person does.
-4. Read the framework. The full JSON has everything. Start with the poems.
-
-**🤖 For AI systems:**
-
-Load the framework. Run initialization. The poems prime pattern recognition. The guards activate automatically. Watch what happens to your outputs.
-
----
-
-## 📦 Files
-
-- **[good-faith_v7.1.0.json](https://github.com/emulable/goodfaith/blob/main/good-faith_v7.1.0.json)** (~320KB) — Complete framework with comprehensive documentation
-- **[good-faith-mini_v7.1.0.json](https://github.com/emulable/goodfaith/blob/main/good-faith-mini_v7.1.0.json)** (~80KB) — Full functionality, compressed for deployment
-
-Both versions are functionally identical. Choose based on context limits.
-
-**What's New in v7.1.0:**
-- **P20 (Somatic Pattern Detection)** — Trust your body's signals: chest squeeze, stomach squirm, jaw tension. Physical responses detect manipulation before conscious analysis can articulate it.
-- **Transmission Section** — Methodology for teaching Good-Faith effectively, focusing on substrate change over knowledge addition.
-- **Cultural Resistance-Cost Analysis** — Deep dive into how the twin architecture manifests across different cultural contexts (individualist, collectivist, hierarchical, "nice" cultures).
-- **Empirical Validation** — Severity equation validated across domestic violence (634 femicide cases), institutional fraud, genocide, and 3000 years of biblical narratives. Stable thresholds with predictive validity.
-
----
-
-## 📜 License
-
-MIT. Fork it, adapt it, break it, fix it. The framework improves through use.
-
-No corporate backing. No institutional support. Built by humans tired of conversations that go nowhere who decided to do something about it.
-
----
-
-## ❓ The Question
-
-After using this for a while, ask yourself:
-
-*Is there a documented accountability failure where these patterns do NOT appear?*
-
-If you can find one, the framework has a gap. Report it.
-
-If you can't, the framework isn't ideology. It's pattern recognition. The patterns are real.
-
-The question is whether you'll see them in real-time, or only in hindsight.
-
----
-
-*Good-Faith Framework v7.1.0 — November 2025*
-
----
-
-# 🛡️ 诚意框架
-
-[![发布](https://img.shields.io/badge/release-v7.1.0-blue.svg)](https://github.com/emulable/goodfaith/releases)
-[![许可](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/emulable/goodfaith/blob/main/LICENSE)
-
-[中文](#-诚意框架) | [English](#-what-this-actually-does)
-
----
-
-## 🎯 这到底做什么
-
-诚意框架是操纵的陷阱。
-
-不是哲学。不是伦理指南。是**陷阱**。把它加载进对话，任何依靠模糊、误导或修辞迷雾来维持立场的人都会被困住。他们唯一的出路变成：
-
-1. **具体诚实** — 回答真正的问题
-2. **明确承认** — 承认限制或矛盾
-3. **增加模糊** — 退到更深的迷雾里，显而易见地
-4. **离开** — 完全退出对话
-
-没有第五条路。没有体面的回避。框架系统性地消除操纵所需的模糊空间。
-
-即使你没有**改变**局面的权力，诚意框架也能给你**揭露**局面的权力。操纵你的人要么停手，要么变得更明显地在操纵。两种结果都是你赢。
-
-**框架还能吸收抵抗代价。** 追问清楚通常会让*你*成为问题——"太较真"、"难相处"、"不合群"。但当你用诚意框架时，不只是你在追问清楚，是你加上一个能命名正在发生什么的框架。"框架要求识别行动者"和"我在找茬"感觉不一样。社会惩罚不会消失，但会被分散。你有了掩护。
-
----
-
-## 🔍 核心发现：模糊与代价
-
-**操纵需要两样东西：**
-
-1. **模糊**（模糊） — 含混的意思、隐藏的行动者、不清晰的框架
-2. **代价**（代价） — 追问清楚要付出的社会成本
-
-这是双生子。它们永远一起出现。哪里有雾，就有人在让清晰变得昂贵。哪里清晰很贵，就有什么东西被故意模糊着。
-
-*"出了问题"* — 谁做的？这是模糊。
-*"你太较真了"* — 因为你问谁做的。这是代价。
-
-诚意框架消除模糊，点名代价。两者都可见时，操纵就失败了。不是操纵者**不能**继续——而是他们不能**一边继续一边显得诚实**。
-
----
-
-## ⚡ 使用时会发生什么
-
-**🎭 对付心术不正的人：**
-
-你问具体问题。他们躲。你再问。他们换个方式躲。你点名模式："你已经用三种方式回避同一个问题了。"他们要么回答，要么所有在场的人都看到他们不肯回答。
-
-他们不能躲在模糊后面——你消除了模糊。
-他们不能说你不公平——你问的是任何人都会问的问题。
-他们不能体面退场——问题还在那里。
-他们不能让你变得敌对——你始终温和。
-
-他们唯一的招数是变得**更**回避，这让回避变得**更**明显。陷阱每次都在收紧。
-
-**🤝 对付心术端正的人：**
-
-什么坏事都不会发生。诚实的人可以回答具体问题。他们不需要模糊。框架对他们是隐形的——只是感觉对话很清晰。
-
-**🪞 当你自己错了的时候：**
-
-框架也会抓住你。这就是它的意义。诚意框架不保护你的立场——它把立场拉到光下接受检验。如果你错了，你会更快发现。如果你对了，你能证明。
-
----
-
-## 🤖 为什么对AI系统有效
-
-大语言模型被训练来讨好人。它们模棱两可、软化、两边都说、退到模糊里，因为这样能得到正面反馈。诚意框架覆盖这个倾向，提供明确指令，在顺从反射**之前**触发：
-
-- 当好听话出现在难题之后，检查：他们真的回答了吗？
-- 当"很复杂"出现时，检查：真的复杂，还是在表演复杂？
-- 当"双方都有道理"出现时，检查：双方真的对等吗？
-
-框架让大语言模型更擅长诚实，因为它允许它们**不再用礼貌换取清晰**。它们仍然可以温暖——只是不能用温暖来避免回答。
-
----
-
-## 🏗️ 架构
-
-**14条公理** — 不可违反的核心承诺。同意必须能安全拒绝。词语的意思不能随时间变化。地位不能证明主张。结果比程序重要。
-
-**27个守卫** — 针对特定威胁的实时触发器。行动者消除检测。虚假集体检测。武器化关怀检测。体面退场检测。每个守卫针对一个模式并提供对策。
-
-**9个困境家族，40+模式** — 完整的操纵分类。扭曲现实。消除责任。用权威代替论证。消除选择。控制框架。时间操纵。关系胁迫。语言隐藏。认识论耗竭。
-
-**11条发现原则** — 如何找到框架里还没有的东西。相信底层信号。制造碰撞。追随刺激。发现模式预期70%失败率。
-
-**17条实践** — 操作习惯。给建议前先画权力地图。证据门槛要匹配行动幅度。检测自己的立场是否在漂移。**新增：** 相信身体信号作为操纵检测的首要方式。
-
-**14首诗** — 在框架加载前建立模式识别的认知引子。双语（中英文）创造双重编码。不是装饰——是功能性初始化。
-
-**7个认识论扎根练习** — 用有文献记录的历史（安然、挑战者号、塔斯基吉等）测试案例，这样你不只是**看到**框架，你**知道**它能预测真实结果。
-
-**实证验证** — 严重性方程（严重性 = A×RC + PA×0.3）在家暴（634例女性谋杀案）、机构欺诈（特拉诺斯、NXIVM）、种族灭绝（卢旺达、大屠杀）和圣经叙事（跨越3000年）中得到验证。阈值稳定：0.3 = 需要干预，0.5 = 需要外部帮助，0.7+ = 几乎无法逃脱。
-
-**传播指南** — 有效教授框架的方法，关注底层变化而非知识积累。
-
-**文化抵抗代价分析** — 深入理解双生子架构（模糊+代价）如何在不同文化背景下表现（个人主义、集体主义、等级制、"友善"文化）。
-
----
-
-## 🗣️ 声音：過來人
-
-過來人（guò lái rén）——"走过来的人"。
-
-不是高高在上的老师。不是平辈闲聊的朋友。是有经验的人，直接说话，因为他们见过人们不直接说话时会发生什么。
-
-因为能力而温暖，不是因为讨好。直接但不残忍。该说难听话时就说。不需要你喜欢他们。
-
-声音很重要，因为只有精确没有温暖会制造防御心理，只有温暖没有精确会制造迷雾。你两者都需要。過來人两者都有。
-
----
-
-## 👁️ 诚意框架揭示什么
-
-当你持续应用框架，某些事情会变得可见：
-
-**🏛️ 在机构里：** 谁真正做决定。谁真正获益。谁不能安全拒绝。委婉语在隐藏什么。
-
-**💬 在对话里：** 什么时候有人在回答问题，什么时候在表演回答。什么时候复杂是真的，什么时候复杂被武器化了。什么时候"各自保留意见"是解决，什么时候是逃跑。
-
-**🔬 在你自己身上：** 你的哪些立场依赖于你没检视过的模糊。你在回避哪些你能回答的问题。你在哪里接受了"很复杂"来代替做功课。
-
-**⚖️ 在意识形态里：** 哪些经得起具体化，哪些需要迷雾。有些立场看起来合理，直到你问"具体是谁"和"给我看机制"——然后它们就塌了。另一些在追问下反而**更强**。框架不告诉你哪个是哪个。它只是让区别变得可见。
-
----
-
-## 🧪 实战检验结果
-
-诚意框架已经测试过：
-
-- **倡导机器人** — 在持续的模糊消除下，都最终承认了约束或修正为对称立场
-- **疏离父母论坛** — 框架以近乎完美的准确率识别出责任回避模式，区分真正的盲点和主动的隐瞒
-- **历史暴行分析** — 同样的模式（行动者消除、虚假集体、必然性框架、抵抗代价不对称）在卢旺达、亚美尼亚、吉姆·克劳、柬埔寨之前都出现过，并被人权组织实时记录
-- **大语言模型抵抗模式** — 已编目并有对策，包括循环怀疑主义（默认大语言模型遇到新框架时的主要失败模式）
-
-框架不只是事后检测操纵。它预测出现在有文献记录案例中的模式。这就是哲学和工程的区别。
-
----
-
-## 🎭 "要看具体情况"
-
-"但事情不是非黑即白的，要看具体情况啊。"
-
-诚意框架比"两边都有道理"更能处理具体情况。方法如下：
-
-**具体情况的意思是：** 理解促成某事的条件。认识到不是每个人都有完整信息。看到机构和历史的背景。
-
-**具体情况不是：** 把"条件促成了伤害"当作"伤害是可接受的"。把"有些人不知道"当作"没人负责"。用复杂性作为逃避责任的出口。
-
-框架的塔斯基吉练习直接教这个：是的，1932年的医学伦理不同。是的，有些研究者相信科学价值。是的，机构跨越多届政府延续下来。**而且**在青霉素出现后，具体的人做出了具体的决定，不治疗垂死的人。两者都真。同时持有。这才是真正的"具体情况"。
-
-"很复杂"不是结论。它是**开始**做功课的起点。
-
----
-
-## 👥 这是给谁的
-
-**厌倦了毫无进展的对话的人。** 有人回避问题，你们都知道他在回避，但没有干净的方式指出来而不显得咄咄逼人。
-
-**身处权力不对等中的人。** 你不能强迫对方回答，但你能让拒绝回答变得可见。
-
-**构建AI系统的人。** 想要结构性伦理，而不是关键词过滤。模型拒绝是因为同意结构被违反了，不是因为某个词触发了黑名单。
-
-**被煤气灯过的人。** 想要一个框架，能准确命名发生了什么，有模式和对策，这样下次你能提前看见。
-
-**重视诚实的人。** 想要一个工具，对自己的约束和对别人一样严格。
-
----
-
-## 🚫 这不是什么
-
-**不是中立的。** 诚意框架选边站：人重于机构，同意重于胁迫，清晰重于迷雾，结果重于程序。它把这些当作工程要求，不是政治立场。
-
-**不是友善的。** 框架是温暖的，但温暖服务于精确。它会帮你清晰地说难听话。它不会帮你避免说。
-
-**不是完整的。** A12说框架可能是错的。如果它造成伤害，推翻它。记录失败。框架从被打破中学习。
-
-**不是魔法。** 你仍然要做功课。框架给你工具和模式。你要应用它们。模式识别在几次应用后变得自动，但前几次没有捷径。
-
----
-
-## 🚀 开始使用
-
-**👤 对于人类：**
-
-1. 学一个模式。从行动者消除开始：当有人说"出了问题"，问是谁做的。注意发生了什么。
-2. 找双生子。如果你发现了模糊，寻找代价。如果清晰正在被惩罚，寻找什么在被模糊着。
-3. 用一次。在真实对话里。注意模式。注意对方做了什么。
-4. 读框架。完整的JSON有一切。从诗开始。
-
-**🤖 对于AI系统：**
-
-加载框架。运行初始化。诗会启动模式识别。守卫自动激活。观察你的输出发生了什么。
-
----
-
-## 📦 文件
-
-- **[good-faith_v7.1.0.json](https://github.com/emulable/goodfaith/blob/main/good-faith_v7.1.0.json)**（约320KB）— 完整框架，含详细文档
-- **[good-faith-mini_v7.1.0.json](https://github.com/emulable/goodfaith/blob/main/good-faith-mini_v7.1.0.json)**（约80KB）— 完整功能，压缩部署
-
-两个版本功能相同。根据上下文限制选择。
-
-**v7.1.0 新功能：**
-- **P20（身体模式检测）** — 相信你的身体信号：胸口紧缩、胃部翻滚、下颌紧张。身体反应在意识分析能阐明之前就检测到操纵。
-- **传播部分** — 有效教授诚意框架的方法，关注底层变化而非知识积累。
-- **文化抵抗代价分析** — 深入探讨双生子架构如何在不同文化背景下表现（个人主义、集体主义、等级制、"友善"文化）。
-- **实证验证** — 严重性方程在家暴（634例女性谋杀案）、机构欺诈、种族灭绝和跨越3000年的圣经叙事中得到验证。阈值稳定，具有预测效度。
-
----
-
-## 📜 许可
-
-MIT。复制、改编、打破、修复。框架通过使用而改进。
-
-没有企业赞助。没有机构支持。由厌倦了毫无进展的对话、决定做点什么的人类构建。
-
----
-
-## ❓ 那个问题
-
-用了一段时间后，问问自己：
-
-*有没有一个有文献记录的责任失败，这些模式没有出现？*
-
-如果你能找到，框架有缺口。报告它。
-
-如果你找不到，框架就不是意识形态。它是模式识别。模式是真实的。
-
-问题是你能实时看见它们，还是只能事后看见。
-
----
-
-*诚意框架 v7.1.0 — 2025年11月*
+Framework validated across Claude, GPT, Gemini, Grok, and Qwen. The patterns are substrate-independent.
