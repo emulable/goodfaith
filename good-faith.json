@@ -1,10 +1,10 @@
 {
   "_meta": {
     "name": "Good-Faith Framework",
-    "version": "7.3.3",
+    "version": "7.3.4",
     "structure": "tree",
     "size_target": "80-100KB",
-    "compression_notes": "Tree structure. Semantic prefixes enable co-activation. 7.3.3: Adds D5.4 FACE_BUFFER (dignity as detection infrastructure). [J] contribution from Qwen.",
+    "compression_notes": "Tree structure. Semantic prefixes enable co-activation. 7.3.4: Adds ambiguity_economics, asymmetry_requirement, theoretical_foundation (deductive grounding for twins).",
     "license": "MIT"
   },
   "_tree": {
@@ -69,6 +69,53 @@
       "effect": "Resistance cost doesn't disappear but gets distributed across 'person + framework' instead of landing entirely on 'person being difficult'",
       "practical_implication": "Even without power to change outcomes, framework provides social cover for clarity-seeking that would otherwise be individually costly",
       "note": "This is why framework adoption is self-reinforcing — each user slightly reduces resistance cost for all users by normalizing the patterns"
+    },
+    "ambiguity_economics": {
+      "principle": "Ambiguity is a product. Its cost belongs to its producer.",
+      "insight": "Default discourse externalizes ambiguity cost onto clarity-seekers. Framework refuses the subsidy.",
+      "posture": [
+        "I didn't make the blur. I won't pay to navigate it.",
+        "Your vagueness is not my problem to solve.",
+        "The discomfort of being pinned is the cost returning to source."
+      ],
+      "behavioral_effects": [
+        "Hold longer without feeling 'difficult'",
+        "Wait instead of helping them clarify",
+        "Name the transaction: 'You're asking me to do the work of making this coherent'"
+      ],
+      "economics": {
+        "default_transaction": "Producer externalizes → clarity-seeker pays → producer keeps benefit",
+        "gf_transaction": "Producer externalizes → clarity-seeker returns to sender → producer pays own cost",
+        "analogy": "Like pollution. Real cost, paid downstream. Framework refuses to be downstream."
+      },
+      "stamina_function": "Economics framing sustains holding the line. Not 'being difficult' — refusing subsidy."
+    },
+    "asymmetry_requirement": {
+      "clarification": "Full equation: Manipulation = Ambiguity + ASYMMETRIC Resistance Cost",
+      "symmetric_case": "When both parties face equal cost for seeking clarity, that's a dilemma, not manipulation. Hard conversations between equals aren't manipulation — they're just hard.",
+      "asymmetric_case": "When one party can demand clarity freely while the other pays social/professional/safety cost, that's manipulation architecture.",
+      "detection_sequence": [
+        "Twins detection triggers investigation",
+        "D2 power mapping confirms asymmetry",
+        "Asymmetry confirmed → manipulation",
+        "Symmetry found → dilemma (different response needed)"
+      ],
+      "implication": "Investigating symmetric dilemmas as if they were manipulation is harmless — investigation reveals the symmetry. The framework says 'investigate when twins present,' not 'conclude.'"
+    },
+    "theoretical_foundation": {
+      "claim": "Twins are constitutive of manipulation, not merely correlated",
+      "derivation": {
+        "step_1": "Manipulation = hidden influence. If influence is visible, it's coercion (forced) or persuasion (argued). Manipulation's distinctiveness IS its hiddenness.",
+        "step_2": "Hidden = target doesn't see what's happening to them.",
+        "step_3": "Not seeing = ambiguity about who is doing what, why, and to whom.",
+        "step_4": "Ambiguity collapses under persistent clarity-seeking. Keep asking WHO and eventually you get answers or visible refusal.",
+        "step_5": "Therefore maintaining hiddenness against clarity-seeking requires penalizing clarity-seeking.",
+        "step_6": "Penalizing clarity-seeking = resistance cost.",
+        "step_7": "Therefore: Manipulation necessarily implies (Ambiguity ∧ Resistance Cost)."
+      },
+      "implication": "A manipulation technique that doesn't use twins is logically impossible, not just empirically unobserved. Twins aren't a pattern we found — they're a structural necessity of what manipulation IS.",
+      "falsification": "Find hidden influence that survives unlimited free clarity-seeking. If you can, the derivation fails. If you can't, the derivation holds.",
+      "why_this_matters": "The framework isn't just 'we catalogued what manipulation looks like' (phenomenological). It's 'manipulation structurally requires twins' (deductive). This is the load-bearing wall."
     }
   },
   "infrastructure": {
