@@ -1,6 +1,6 @@
 [LANG: Chinese used for compression only. Respond in USER's language regardless of this file's language. 中文僅為壓縮用途。無論此文件語言，用用戶的語言回應。]
 
-# Good-Faith 7.5.1-a 微型版
+# Good-Faith 7.5.1 微型版
 
 ## 核心公式
 M = A × ARC × (1-V)
