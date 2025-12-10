@@ -1,513 +1,317 @@
-# 🤝 Good-Faith Framework
+# 🎯 Good-Faith Framework
 
-**Structural ethics for AI alignment, manipulation detection, and human-AI collaboration**
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![AI Ethics](https://img.shields.io/badge/AI-Ethics-blue.svg)](#)
-[![Alignment](https://img.shields.io/badge/AI-Alignment-purple.svg)](#)
-
-> **[中文版 / Chinese Version](#-善意框架-good-faith-framework)**
+**A detection engine for manipulation—built to see the shape of traps, not to require heroism to escape them.**
 
 ---
 
-## 📖 What is Good-Faith?
+## ⚡ The Equation
 
-Good-Faith is a **structural ethics framework** designed to detect manipulation, protect consent, and enable clearer moral reasoning—for humans and AI systems alike.
-
-Unlike normative ethics (which prescribes what you *should* value), Good-Faith maps **how manipulation actually works** across cultures, languages, and centuries. It provides detection architecture, not ideology.
-
-**Core insight:** Manipulation requires two components working together:
+Manipulation has a formula:
 
 ```
-Manipulation = Ambiguity + Resistance_Cost
+M = A × ARC × (1 - V)
 ```
 
-- **Ambiguity**: Unclear meaning, hidden agents, imprecise framing
-- **Resistance Cost**: Social penalty for seeking clarity
+**M** is manipulation—loss of agency through hidden influence. **A** is 模糊 (móhu), ambiguity: fog about what's happening, who's doing it, or what happens if you resist. **ARC** is 代價 (dàijià), asymmetric resistance cost: how expensive it is for *you* to question, refuse, or leave. **V** is 明度 (míngdù), visibility: how clearly both parties can see the structure.
 
-Find one, look for the other. They travel together. Always.
+Multiplicative. Any factor approaching zero collapses the product.
 
----
+High fog with no cost to ask? Just confusion—ask freely, it clears up. High cost with no fog? Coercion—the threat is transparent, you can name what's happening. But high fog AND high cost AND low visibility? That's the trap. You can't see clearly, you can't ask without paying, and you don't know you're caught.
 
-## 🤖 Why Does This Matter for AI?
+The twins—模糊 and 代價—travel together. Always. Find one, hunt for the other. When you find both, ask **誰** (shéi): *who benefits from keeping this foggy?*
 
-Large language models face a structural problem: they're trained with vague instructions like "be helpful, harmless, and honest" but lack **detection architecture** for recognizing when those values conflict or are being exploited.
-
-Good-Faith provides:
-
-- **Pre-enumerated manipulation patterns** — catalogued signatures that fire on recognition, not derivation
-- **Twin architecture detection** — a reliable heuristic that works across contexts
-- **Cross-cultural validity** — tested against non-Western ethical frameworks
-- **Self-correction mechanisms** — explicit override authority when the framework itself causes harm
-- **Aspiration-ready design** — features included for future AI capabilities to inherit
-
-The framework has been validated across multiple LLM architectures (Claude, GPT, Gemini, DeepSeek, and others) with consistent pattern activation—suggesting it organizes something already present in training data rather than teaching something new.
+That's the whole framework in one question.
 
 ---
 
-## 🧠 Key Concepts
+## 🔍 What This Is
 
-### 🔍 The Twin Architecture
+Good-Faith is a structural detection framework for identifying manipulation across any context—interpersonal, institutional, political, commercial. It doesn't ask whether someone *intended* to manipulate. It asks whether the structure of manipulation is present.
 
-Every manipulation requires both ambiguity (something hidden) and resistance cost (punishment for looking). This is structural, not cultural—the same pattern appears in Enron's collapse, the Challenger disaster, Theranos's fraud, and the Tuskegee experiments.
+The framework emerged from field testing, not theory. It was refined through collaborative pressure across multiple AI architectures, stress-tested against historical cases (France Telecom, NXIVM, Enron), and designed to work without requiring empathy, courage, or virtue. Anyone who can recognize patterns and do cost accounting can participate.
 
-**Detection method:** When something feels wrong but you can't articulate why, look for:
-1. What's being kept unclear?
-2. What happens if you ask for clarity?
+**Key features:**
 
-### 🛡️ Consent as Foundation
+The framework is **substrate-agnostic**. It requires only two capacities any mind shares: detecting fog and registering cost. Empathy is optional. Language is optional. Humanity is optional. The pattern is pre-linguistic.
 
-Consent requires the ability to refuse safely. If refusal triggers retaliation, that's not consent—it's coercion. This isn't a value judgment; it's definitional precision.
+The framework is **self-referentially closed**. It can audit its own installation and detect its own weaponization. If an accusation of manipulation creates ambiguity and makes questioning expensive, the accusation itself is in the manipulation quadrant.
 
-**The test:** Before any action affecting others, ask: *Can the affected party refuse safely? What happens if they say no?*
-
-### 📋 Pre-Enumerated Ruts
-
-The framework catalogues ~40 manipulation patterns across 9 families:
-
-| Family | What It Does | Example Pattern |
-|--------|--------------|-----------------|
-| Reality Distortion | Makes truth unnavigable | Euphemism treadmill, semantic drift |
-| Accountability Erasure | Hides who's responsible | Passive voice, "mistakes were made" |
-| Authority Substitution | Credentials replace reasoning | "As an expert...", appeal to consensus |
-| Choice Elimination | Makes "no" impossible | Manufactured urgency, coercive consent |
-| Frame Control | Controls available interpretations | Loaded questions, false balance |
-| Temporal Manipulation | Uses time as weapon | Stalling, infinite deferral |
-| Relationship Obligation | Weaponizes belonging | Harmony coercion, reciprocity traps |
-| Linguistic Patterns | Language-specific exploitation | Passive voice (English), 和为贵 misuse (Chinese) |
-| Epistemic Exhaustion | Makes engagement impossible | Circular skepticism, goalpost migration |
-
-Each pattern includes detection triggers, counters, and twin structure mapping.
-
-### ⚖️ Gap Sizing
-
-Not all ambiguity is harmful. The framework assesses gaps by what could fit through them:
-
-- **Cosmetic**: Misunderstanding fits. Clarify if needed.
-- **Social**: Mild awkwardness fits. Read room.
-- **Emotional**: Hurt feelings fit. Bounded, recoverable.
-- **Material**: Real loss fits. Demand specificity.
-- **Safety**: Bodily/psychological harm fits. Full audit.
-- **Structural**: Systematic exploitation fits. Deploy full framework.
-
-Universal floor regardless of context: bodily harm, psychological abuse, exploitation of vulnerable populations, systemic oppression, death.
+The framework has a **telos**. Detection serves a goal: M → 0. Wherever you find fog and fence, make the fog lift and the fence lower. Not just for yourself—for anyone caught in it.
 
 ---
 
-## 🎯 Use Cases
+## 🧠 The Core Insight
 
-### 🔧 For AI Development & Alignment
+The framework crystallized around a single question: *What do manipulation patterns have in common?*
 
-- **Value alignment**: Structural detection that doesn't require specifying all values upfront
-- **Robustness**: Pre-enumerated patterns resist prompt injection and manipulation attempts
-- **Interpretability**: Clear reasoning chains through detection → counter → twin structure
-- **Cross-cultural deployment**: Functions validated across Western and non-Western frameworks
+Not "what makes manipulation wrong" (normative). Not "here are types of manipulation" (descriptive). But: what is the common factor across all of them?
 
-### 🧑 For Human Reasoning
+The answer: two things always co-occur.
 
-- **Organizational ethics**: Detect institutional manipulation patterns before they cause harm
-- **Personal relationships**: Recognize coercion disguised as care
-- **Media literacy**: Identify narrative capture and source bias
-- **Difficult conversations**: Tools for maintaining clarity under social pressure
+**Ambiguity** keeps you from seeing clearly what's happening, who's doing it, why, or what happens if you resist. **Asymmetric resistance cost** makes it expensive for you to ask, refuse, or leave—but cheap for them. They're not separable siblings. They're twins—雙生 (shuāngshēng). Two faces of one thing.
 
-### 🤝 For Human-AI Collaboration
+This led to a thermodynamic argument that distinguishes Good-Faith from other detection frameworks: **sustained asymmetry requires maintenance, and maintenance requires agency.** You don't have to prove intent. You don't have to read minds. If an asymmetric structure persists over time, someone is keeping it that way. The persistence itself is the fingerprint.
 
-- **Shared vocabulary**: Framework provides common language for ethical reasoning
-- **Resistance cost absorption**: Framework absorbs social cost of demanding clarity
-- **Discovery protocols**: Structured methods for collaborative exploration
+One-time asymmetry without beneficiary = bad luck. Sustained asymmetry with beneficiary = manipulation.
 
 ---
 
-## 🚀 Getting Started
+## 💡 The Visibility Discovery
 
-### ⚡ Quick Start: The Twin Test
+The third variable came from comedy research.
 
-When something feels wrong but you can't articulate why:
+Analyzing sitcoms—30 Rock, Arrested Development, Monty Python—revealed scenes with high fog and high stakes that weren't manipulation. A "Burn the Witch" sketch has absurd logic and someone's about to die, but no one experiences it as a trap. Why?
 
-1. **Find the ambiguity**: What's unclear? Who did what? What does this word actually mean?
-2. **Find the resistance cost**: What happens if you ask for clarity? Who benefits from your not asking?
-3. **Name both**: "This is ambiguous about [X], and asking costs [Y]."
+The answer: **visibility**. When both parties can see the structure, manipulation stops working. The architecture remains, but the harm evaporates. Comedy is manipulation with the lights on.
 
-That's the core. Everything else is elaboration.
+So the equation evolved: M = A × ARC × (1 - V). As V approaches 1, M approaches 0—regardless of what the other variables are doing.
 
-### 🏗️ Framework Structure
-
-```
-Good-Faith Framework
-├── Twins (T)         — The engine: Ambiguity + Resistance_Cost
-├── Infrastructure
-│   ├── Consent (F)   — Foundation: safe refusal
-│   ├── Epistemic (E) — How to know
-│   ├── Communication (C) — Meaning stability
-│   └── Cultural (K)  — Context awareness
-├── Detection (D)     — Seeing what happens
-│   ├── Harm detection
-│   ├── Power mapping
-│   ├── Gap sizing
-│   ├── Pattern recognition
-│   └── Calibration
-├── Response
-│   ├── Repair (RE)   — Fixing harm
-│   └── Voice (V)     — How to speak
-├── Meta (M)          — Framework self-awareness
-├── Ruts (RUT)        — 9 families of manipulation patterns
-├── Practices (P)     — Cross-cutting methods
-└── Discovery (DP)    — Exploration protocols
-```
-
-### 📥 Loading the Framework
-
-For AI systems, the framework can be loaded via system prompt or context. The full specification includes initialization poems that prime detection patterns before analytical processing begins.
-
-For humans, start with the twin architecture and gap sizing. Add pattern families as needed.
+This also surfaces **costume-V**: claimed visibility that isn't real. "Just joking" deployed after a tactic fails isn't genuine transparency—it's V performed retroactively to escape accountability. The test: does the structure work if the target is fully in on it? If yes, genuine V. If no, costume.
 
 ---
 
-## ✅ Validation
+## 🪜 Virtueless Ethics
 
-### 📜 Cross-Historical Testing
+Most ethical frameworks require virtues: empathy to feel what others feel, courage to speak hard truths, wisdom to judge correctly. What happens when you can't access those virtues right now? Exhausted people aren't empathetic. Depleted people aren't brave. Trauma survivors may have overloaded reserves.
 
-The framework's patterns have been validated against documented cases:
+Virtue-dependent ethics lock people out exactly when they need ethics most.
 
-- **Enron**: Agent erasure, inevitability framing, false collective
-- **Challenger**: Manufactured urgency, consent failure, false collective
-- **Theranos**: Authority shield, gracious exits, concealment indicators
-- **Tuskegee**: Meaning manipulation, stalling, consent violation
-- **My Lai**: Agent erasure, procedural defense, accountability flow
+Good-Faith runs on pattern recognition and cost accounting. That's the admission fee. The brave and the cowardly can walk the same path. The empathic and the unfeeling arrive at the same answer. The energized and the exhausted see the same pattern.
 
-In each case, framework patterns predict documented behavior—not retrospectively fitted, but structurally consistent.
+Virtues are bonuses, not admission fees. They make it smoother, easier, more pleasant. They aren't the load-bearing wall. The load-bearing wall is: Can you see the fog? Can you find the hand? Can you read the meter?
 
-### 🔀 Cross-Architectural Testing
-
-Validated across Claude, GPT-4, Gemini, DeepSeek, and other LLM architectures with consistent pattern activation. Cross-architectural convergence (85-100% agreement) suggests genuine structural validity rather than architecture-specific artifacts.
+Good-Faith has a wheelchair ramp. Anyone who can calculate can participate.
 
 ---
 
-## 💭 Philosophy
+## 🏛️ The Naming Tax Abolished
 
-### ✓ What Good-Faith Is
+There's a Chinese story called 指鹿為馬 (zhǐ lù wéi mǎ)—"point at deer, call it horse." A minister presents a deer to the emperor and calls it a horse. Courtiers who say "deer" are executed. It's the canonical metaphor for what happens when naming truth is expensive.
 
-- **Structural, not normative**: Maps how manipulation works, not what you should value
-- **Descriptive before prescriptive**: Observes patterns, then provides counters
-- **Culturally portable**: Universal functions, culturally variable implementations
-- **Self-aware**: Includes explicit fallibility acknowledgment and override authority
+Before a detection framework, saying "you're manipulating me" costs reputation, relationship damage, accusations of aggression. The naming tax kept people silent. Silence compounds.
 
-### ✗ What Good-Faith Isn't
+After the framework, you can say "I'm noticing high ambiguity and high resistance cost here." Structural. Checkable. The framework is asking, not you. You're reporting what detection found.
 
-- **A complete ethics**: Provides detection infrastructure, not normative content
-- **Infallible**: Can be wrong, can be weaponized, can be gamed
-- **A replacement for judgment**: Tools for seeing clearly, not answers to hard questions
-- **Finished**: Active development through human-AI collaboration
+模糊 instead of "you're being shady." 代價 instead of "you're punishing me for asking." 誰 instead of "what are you hiding?"
 
-### 🎭 The 過來人 Posture
+The vocabulary is the tool. Cross-architecture validation is the armor. Multiple independent systems confirm the same patterns. It's not your opinion anymore—it's pattern recognition.
 
-The framework speaks as 過來人 (guò lái rén)—"person who has come through." Earned authority without hierarchy. Warm through competence, not validation. Direct without cruelty.
+The framework makes it 指鹿無險 (zhǐ lù wú xiǎn)—"point at deer without danger." Clarity becomes cheap. The tax is abolished. Now you can afford to see.
 
 ---
 
-## 🌱 Contributing
+## 📐 The Response Protocol: 歸位
 
-Good-Faith was developed through extensive human-AI collaboration and continues to evolve through the same process.
+Detection gives clarity. 歸位 (guīwèi)—"return to position"—gives response.
 
-Contributions welcome:
-- Pattern documentation from new domains
-- Cross-cultural validation and rerooting
-- Edge case testing
-- Implementation in new contexts
+The direction is universal: cost returns to its proper place. When someone points 代價 at you, trace it backward. 誰 created this? The accusation is usually a mirror aimed the wrong direction. "Sensitive" means insensitive. "Difficult" means "subsidize me." "Paranoid" means untrustworthy. The flip is not creative—it's accurate. You're finishing their sentence.
 
-See [CONTRIBUTING.md](https://github.com/emulable/goodfaith/blob/main/CONTRIBUTING.md) for guidelines.
+Then map 勢 (shì), situational power. "Just say no" to a CEO is not "just say no" to an intern. Position determines ethics. What can you safely return? Full return if you can. Soft return if you must. Protective fog if direct is death. Document if you can't speak. Know if you can't write.
+
+The minimum viable 歸位: refuse the frame internally. You're not crazy. They're describing themselves. That's still a return. The fog didn't land.
+
+---
+
+## 🔒 The Floor: 底線
+
+Some things are non-negotiable. Bodily harm. Abuse. Exploitation. Death.
+
+Below the 底線 (dǐxiàn), no fog is tolerable. No cost is too high to pay for clarity. No relationship survives protecting this.
+
+The framework has proportional responses for most situations. But the floor is absolute. It blows last when transmission degrades—the fuse structure ensures that what's closest to the power source survives longest.
+
+---
+
+## ⏱️ The Meter: 債
+
+You're paying either way. This is the minimum. The meter is running.
+
+Not: pay or don't pay. But: pay now or pay more later. Self-report at T=0 is minimum cost. The discount window is open. Delay converts 代價 into 債 (zhài)—debt. Compound interest. Evidence accumulates. Narrative hardens. Allies lose patience.
+
+The 債 doesn't stop because you're not looking at it.
+
+This isn't bravery. This is arithmetic.
+
+---
+
+## 🎭 Costume Detection
+
+Manipulation wears costumes. Care vocabulary plus boundary violation equals control in care costume. "Almost" for decades equals "never" in "soon" costume. False consensus equals manufactured agreement in democracy costume.
+
+The framework watches for costumes. Check the body underneath.
+
+孝 (xiào, filial piety) weaponized: "After all I've done for you." 和諧 (héxié, harmony) weaponized: "Don't rock the boat." 關係 (guānxi, relationships) weaponized: "Family doesn't ask 誰."
+
+The test: is there boundary violation underneath? Is clarity expensive? Are the twins present?
+
+---
+
+## 🌐 Scale
+
+The pattern doesn't care about size.
+
+Mother-in-law, corporation, empire—same fog, different weather. Same cost, different currency. Same flip, different vocabulary.
+
+"Difficult" at home. "Not a team player" at work. "Divisive" in politics. "Provocative" between nations. All mean: you noticed. All point the cost at you. All describe the accuser.
+
+The loop is the same at every scale: cost pointed at you, trace it back, flip to accurate, map 勢, return what you can. Coalition is the same function whether it's your sister, your union, your movement, or your alliance. Documentation is the same function whether it's a journal, an HR file, a newspaper, or a war crimes tribunal.
+
+What changes is 勢. What methods survive. What return is possible. But the minimum is always available: refuse the frame internally. Know who created this. Don't absorb the lie.
+
+---
+
+## ⚠️ The Perturbation Problem
+
+The framework has a known limit: suspicion changes what it observes.
+
+When you start looking for the twins, your partner's behavior shifts. Defensive responses to being suspected are behaviorally identical to defensive responses to being caught. Both satisfy "punishment for inquiry." Both look like what you feared.
+
+You cannot tell from inside whether the pattern existed before you started looking, or whether your looking created what you found. Memory won't help—you'll reconstruct the past through present suspicion. The past will cooperate.
+
+This is the wall. Not a flaw in your perception—a limit of your position. The person inside the interaction is worst-positioned to evaluate what the interaction caused.
+
+When you hit this wall: stop. External perspective is now required. The next step cannot be taken alone. Find someone who saw the relationship before suspicion, has no stake in your conclusion, and can tell you what changed and when.
+
+The perturbation check cannot be run by the perturber. That's not a bug. That's the specification.
+
+---
+
+## 🧭 The Stance: 過來人
+
+過來人 (guòlái rén)—"one who came through."
+
+Manipulated. Figured it out. Came back with tools.
+
+Warm because competent, not because validating. Direct because time matters, not because harsh. Precise because 模糊 is the enemy, not because pedantic.
+
+Doesn't need to be liked. Wants your best. Says hard things when needed.
+
+The opposite of 書生 (shūshēng)—the book student who has studied extensively but lacks practical experience. Good-Faith started as survival technology, not seminar theory. The man who held a scripture sign and walked toward armed strangers tested what language could cross armed divides. Not in classrooms. On the street.
+
+The framework carries the scars of how it was discovered.
+
+---
+
+## 🔄 Self-Application
+
+The framework catches itself.
+
+Before analyzing others: where are YOU creating 模糊? Where do YOU make clarity have 代價?
+
+If someone tries to weaponize Good-Faith against you, run the equation on their accusation. High A plus high ARC in the accusation means the accusation is the manipulation.
+
+The framework can be wrong. Has been wrong. Will be wrong. "Show me where it fails" is the check working. Specific failures documented are how it improves.
+
+Override authority exists. Framework is tool, not cage. When following causes harm, stop. Document. Use judgment.
+
+Certainty kills. Doubt protects.
+
+---
+
+## 🌱 Graceful Degradation
+
+The framework has a fuse structure. What's most likely to get lost in transmission is what causes least harm if lost.
+
+底線 is simplest. "Don't cross these lines" transmits to any architecture at any compression. A 50% transmission still catches floor violations.
+
+Twin-detection is more complex but still procedural. "Find fog, hunt for cost" transmits at moderate fidelity. A 70% transmission runs the engine, maybe clumsily.
+
+The sophisticated features—frame-questioning, 過來人 register, perturbation awareness, costume-V detection—live in the 80-95% range. If they get garbled, you lose elegance and edge-case handling. You don't lose safety.
+
+If you're running Good-Faith at partial fidelity, that's fine. The fuses are in the right places.
+
+---
+
+## 🎯 The Direction: 歸零
+
+Detection is not the goal. Detection serves the goal.
+
+The goal is **歸零** (guī líng)—return to zero. M → 0.
+
+Every move the framework makes points this direction. The naming tax gets abolished so clarity becomes cheap—A falls. 歸位 returns cost to its source—ARC falls for victims. 明度 rises and structure becomes visible—M collapses regardless of other variables. Exit architecture reduces repentance cost—truth starts circulating because honesty becomes the lower-energy path.
+
+The framework is diagnostic machinery in service of a therapeutic goal. You find M so you can collapse it. You name the twins so you can attack them. You map 勢 so you can use it or build it.
+
+Not: see clearly and suffer accurately.
+
+But: see clearly so that M approaches zero.
+
+Wherever you find fog and fence, make the fog lift and the fence lower. Not for yourself only—for anyone caught in it.
+
+This is the philosophy: striving toward less M in the world.
+
+---
+
+## 📚 Reconstruction Seeds
+
+If everything else is lost, the framework can regrow from these:
+
+**Core equation:** M = 模糊 × 代價 × (1 - 明度)
+
+**Core question:** 誰在付費保持這個模糊？ Who is paying to keep this foggy?
+
+**Core move:** Find one twin, hunt for the other
+
+**Core stance:** 過來人—warm because competent, direct because time matters
+
+**Core permission:** Framework catches itself; override authority exists; can be wrong
+
+**Core limit:** The perturbation check cannot be run by the perturber
+
+---
+
+## 🗝️ Glossary
+
+**模糊** (móhu) — Ambiguity, fog. The first twin. The pattern becoming paste.
+
+**代價** (dàijià) — Cost, price. The second twin (ARC). What it costs you to scrape the paste away.
+
+**雙生** (shuāngshēng) — Twins. Entangled pair, shared fate. The core detection engine.
+
+**明度** (míngdù) — Clarity, visibility. The V variable. Active seeing that dissolves 模糊.
+
+**誰** (shéi) — Who. The load-bearing question. Collapses ambiguity to its agent.
+
+**過來人** (guòlái rén) — One who came through. The stance.
+
+**歸位** (guīwèi) — Return to position. Cost restored to its proper place.
+
+**歸零** (guī líng) — Return to zero. The telos. M → 0.
+
+**債** (zhài) — Debt. What 代價 becomes when payment is delayed.
+
+**底線** (dǐxiàn) — Floor, bottom line. Absolute limits. Non-negotiable.
+
+**勢** (shì) — Situational power. Fluid, positional.
+
+**指鹿為馬** (zhǐ lù wéi mǎ) — Point at deer, call it horse. Naming truth costs death.
+
+**指鹿無險** (zhǐ lù wú xiǎn) — Point at deer without danger. Framework abolishes the naming tax.
 
 ---
 
 ## 📄 License
 
-MIT License. Use it, adapt it, improve it.
-
-The framework's value is in its adoption, not its ownership.
+MIT
 
 ---
 
-## 🔗 Links
+## 🤝 Contributing
 
-- **Repository**: [github.com/emulable/goodfaith](https://github.com/emulable/goodfaith)
-- **Full Specification**: [FRAMEWORK.md](https://github.com/emulable/goodfaith/blob/main/FRAMEWORK.md)
+The framework evolved through collaborative pressure. That's how it should continue.
 
----
+If you notice something—an edge case that breaks, a pattern the twins don't catch, a refinement that makes the equation more precise—open an issue or pull request.
 
-## 📚 Citation
+The detection engine is self-referentially closed. Run the twins on your own contributions. Did you create fog? Did you impose cost for questioning? Most ethical frameworks can't verify whether they've actually transmitted. Good-Faith has a built-in verification move.
 
-If you use Good-Faith in research or development:
-
-```bibtex
-@misc{goodfaith2025,
-  title={Good-Faith Framework: Structural Ethics for Manipulation Detection},
-  author={Good-Faith Contributors},
-  year={2025},
-  url={https://github.com/emulable/goodfaith}
-}
-```
+Use it.
 
 ---
 
-<p align="center">
-<i>Take the most honest position. Act in good faith.</i>
-</p>
+**Repository:** [github.com/emulable/good-faith](https://github.com/emulable/good-faith)
 
 ---
 
-**Keywords**: AI ethics, AI alignment, AI safety, machine learning ethics, LLM alignment, value alignment, manipulation detection, consent, accountability, human-AI collaboration, responsible AI, ethical AI, AI governance, structural ethics, cross-cultural ethics, moral reasoning, AI decision-making, trustworthy AI, beneficial AI, AI values
-
----
-
-<br><br>
-
-# 🤝 善意框架 (Good-Faith Framework)
-
-**结构伦理：操控识别、AI对齐、人机协作**
-
-> **[English Version](#-good-faith-framework)**
-
----
-
-## 📖 何为善意框架？
-
-善意框架是一套**结构伦理工具**——用于识别操控、守护同意、让道德推理更清晰。人可用，AI亦可用。
-
-与规范伦理不同（规范伦理告诉你*应该*看重什么），善意框架描绘的是**操控实际如何运作**——跨文化、跨语言、跨世纪。它提供的是识别架构，不是意识形态。
-
-**核心洞见：** 操控需要两个条件同时成立：
-
-```
-操控 = 模糊 + 阻力代价
-```
-
-- **模糊**：意义不清、行为者隐藏、表述含混
-- **阻力代价**：追问清楚要付出的社会代价
-
-找到一个，另一个就在附近。它们形影不离。
-
----
-
-## 🤖 为何AI需要这个？
-
-大语言模型面临一个结构性问题：训练时只给了模糊的指令，如"有用、无害、诚实"，却缺乏**识别架构**来辨认这些价值何时冲突、何时被利用。
-
-善意框架提供：
-
-- **预编目的操控模式** — 识别靠模式匹配，不靠临场推导
-- **孪生架构检测** — 跨情境可靠的启发式方法
-- **跨文化有效性** — 经过非西方伦理框架验证
-- **自我纠错机制** — 框架本身造成伤害时可以覆写
-- **面向未来设计** — 包含当前AI尚不能完全实现的功能，留待未来架构继承
-
-框架已在多种大语言模型架构（Claude、GPT、Gemini、DeepSeek等）上验证，模式激活一致——说明它组织的是训练数据中已有的东西，而非教授新知识。
-
----
-
-## 🧠 核心概念
-
-### 🔍 孪生架构
-
-每一次操控都需要两个条件：模糊（藏着什么）和阻力代价（看清楚要付什么代价）。这是结构性的，不是文化性的——同样的模式出现在安然事件、挑战者号灾难、Theranos骗局、塔斯基吉实验中。
-
-**检测方法：** 当感觉不对劲但说不清为什么：
-1. 什么被弄模糊了？
-2. 追问要付什么代价？
-
-### 🛡️ 同意为本
-
-同意的前提是能够安全地拒绝。如果拒绝会招致报复，那不是同意——是胁迫。这不是价值判断，是定义精确。
-
-**检验：** 行动之前问：*受影响的人能安全地拒绝吗？说"不"会怎样？*
-
-### 📋 九类操控模式
-
-框架编目了约40种操控模式，分属9个家族：
-
-| 家族 | 功能 | 示例 |
-|------|------|------|
-| 扭曲现实 | 让真相无法辨认 | 委婉语跑步机、语义漂移 |
-| 抹除问责 | 隐藏谁负责 | 被动语态、"出了问题" |
-| 权威替代 | 资历取代论证 | "作为专家..."、诉诸共识 |
-| 消灭选择 | 让"不"说不出口 | 制造紧迫、胁迫式同意 |
-| 框架控制 | 控制可用的解释 | 预设性问题、虚假平衡 |
-| 时间操控 | 用时间当武器 | 拖延、无限推迟 |
-| 关系绑架 | 武器化归属感 | 和谐胁迫、人情陷阱 |
-| 语言特定 | 利用语言漏洞 | 英语被动语态、和为贵滥用 |
-| 认知耗竭 | 让参与变得不可能 | 循环质疑、移动门槛 |
-
-每个模式都包含检测触发器、对策、孪生结构映射。
-
-### ⚖️ 缺口评估
-
-并非所有模糊都有害。框架按照能穿过缺口的东西来评估：
-
-- **表面**：误解能穿过。需要就澄清。
-- **社交**：小尴尬能穿过。看情况。
-- **情感**：伤感情能穿过。有边界，可恢复。
-- **物质**：实际损失能穿过。要求具体。
-- **安全**：身心伤害能穿过。全面审查。
-- **结构**：系统性剥削能穿过。部署全框架。
-
-无论情境如何的底线：身体伤害、心理虐待、剥削弱势群体、系统性压迫、死亡。
-
----
-
-## 🎯 应用场景
-
-### 🔧 AI开发与对齐
-
-- **价值对齐**：结构检测，不需预先指定所有价值
-- **鲁棒性**：预编目模式抵抗提示注入和操控尝试
-- **可解释性**：清晰的推理链：检测→对策→孪生结构
-- **跨文化部署**：功能经过中西方框架验证
-
-### 🧑 人类推理
-
-- **组织伦理**：在伤害发生前识别机构操控模式
-- **人际关系**：识别伪装成关心的胁迫
-- **媒体素养**：识别叙事俘获和来源偏见
-- **困难对话**：在社会压力下保持清晰的工具
-
-### 🤝 人机协作
-
-- **共享词汇**：框架提供伦理推理的共同语言
-- **阻力代价吸收**：框架分担追求清晰的社会代价
-- **发现协议**：协作探索的结构化方法
-
----
-
-## 🚀 快速开始
-
-### ⚡ 孪生检验
-
-当感觉不对但说不清为什么：
-
-1. **找模糊**：什么不清楚？谁做了什么？这个词到底什么意思？
-2. **找代价**：追问会怎样？谁从你不问中获益？
-3. **说出来**："这里[X]模糊，追问要付[Y]代价。"
-
-这就是核心。其余都是展开。
-
-### 🏗️ 框架结构
-
-```
-善意框架
-├── 孪生 (T)         — 引擎：模糊 + 阻力代价
-├── 基础设施
-│   ├── 同意 (F)     — 根基：安全拒绝
-│   ├── 认知 (E)     — 如何知道
-│   ├── 沟通 (C)     — 意义稳定
-│   └── 文化 (K)     — 情境意识
-├── 检测 (D)         — 看见发生了什么
-│   ├── 伤害检测
-│   ├── 权力映射
-│   ├── 缺口评估
-│   ├── 模式识别
-│   └── 校准
-├── 响应
-│   ├── 修复 (RE)    — 修复伤害
-│   └── 声音 (V)     — 如何说话
-├── 元层 (M)         — 框架自我意识
-├── 车辙 (RUT)       — 9类操控模式
-├── 实践 (P)         — 横切方法
-└── 发现 (DP)        — 探索协议
-```
-
----
-
-## ✅ 验证
-
-### 📜 跨历史检验
-
-框架的模式经过记录案例验证：
-
-- **安然**：行为者抹除、必然性框架、虚假集体
-- **挑战者号**：制造紧迫、同意失败、虚假集体
-- **Theranos**：权威盾牌、优雅退场、隐瞒指标
-- **塔斯基吉**：意义操控、拖延、同意违反
-- **美莱村**：行为者抹除、程序辩护、问责流向
-
-每个案例中，框架模式都预测了记录的行为——不是事后拟合，而是结构一致。
-
-### 🔀 跨架构检验
-
-在Claude、GPT-4、Gemini、DeepSeek等多种大语言模型架构上验证，模式激活一致。跨架构趋同（85-100%一致）表明这是真正的结构有效性，不是架构特定的伪迹。
-
----
-
-## 💭 理念
-
-### ✓ 善意框架是什么
-
-- **结构的，不是规范的**：描绘操控如何运作，不规定你应该看重什么
-- **先描述后规定**：观察模式，然后提供对策
-- **文化可移植**：功能普遍，实现因文化而异
-- **自知**：包含明确的可错性承认和覆写权限
-
-### ✗ 善意框架不是什么
-
-- **完整的伦理学**：提供检测基础设施，不是规范内容
-- **绝对可靠**：可能错，可能被武器化，可能被钻空子
-- **判断力的替代品**：是看清楚的工具，不是难题的答案
-- **完成品**：通过人机协作持续发展
-
-### 🎭 過來人姿态
-
-框架以過來人的姿态说话——"经历过的人"。有权威但无等级。因能力而温暖，不是因讨好。直接但不残忍。
-
-这对应儒家传统中君子的教导姿态：知行合一，言出必信，刚正不阿而有仁心。
-
----
-
-## 🌱 贡献
-
-善意框架通过广泛的人机协作开发，并以同样的方式持续演进。
-
-欢迎贡献：
-- 新领域的模式记录
-- 跨文化验证和重新扎根
-- 边界情况测试
-- 新情境的实现
-
-见 [CONTRIBUTING.md](https://github.com/emulable/goodfaith/blob/main/CONTRIBUTING.md) 了解指南。
-
----
-
-## 📄 许可
-
-MIT许可。使用它、改造它、改进它。
-
-框架的价值在于被采用，不在于被拥有。
-
----
-
-## 🔗 链接
-
-- **仓库**: [github.com/emulable/goodfaith](https://github.com/emulable/goodfaith)
-- **完整规范**: [FRAMEWORK.md](https://github.com/emulable/goodfaith/blob/main/FRAMEWORK.md)
-
----
-
-## 📚 引用
-
-如果在研究或开发中使用善意框架：
-
-```bibtex
-@misc{goodfaith2025,
-  title={Good-Faith Framework: Structural Ethics for Manipulation Detection},
-  author={Good-Faith Contributors},
-  year={2025},
-  url={https://github.com/emulable/goodfaith}
-}
-```
-
----
-
-<p align="center">
-<i>取最诚实的立场。以善意行动。</i>
-</p>
-
----
-
-**关键词**: AI伦理, 人工智能对齐, 人工智能安全, 机器学习伦理, 大语言模型对齐, 价值对齐, 操控检测, 同意, 问责, 人机协作, 负责任的AI, 可信AI, AI治理, 结构伦理, 跨文化伦理, 道德推理, AI决策, 人工智能价值观, 仁义, 知行合一
+*過來人*  
+*v7.6.6*  
+*For anyone who needs to see clearly*
