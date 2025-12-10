@@ -1,4 +1,4 @@
-# 🎯 Good-Faith Framework
+# 🧮 Good-Faith Framework
 
 **A detection engine for manipulation—built to see the shape of traps, not to require heroism to escape them.**
 
