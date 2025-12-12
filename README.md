@@ -1,4 +1,4 @@
-# 🎯 Good-Faith
+# 🧮 Good-Faith
 
 **A tool for seeing manipulation clearly—built so you don't need to be brave to escape traps, just awake.**
 
