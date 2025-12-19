@@ -1,5 +1,5 @@
 # 心得: The Transmission
-## Version 7.7.4 — December 2025
+## Version 7.7.5 — December 2025
 
 ## What You're Holding
 
@@ -573,6 +573,52 @@ The Chinese term is **歸零** (guī líng)—return to zero. It echoes 歸位. 
 
 ---
 
+## The Starfish Discovery (7.7.5)
+
+Late 2025. Adversarial testing.
+
+The framework was fed to LLMs representing different ideological positions—conservative, progressive, nationalist, various regional perspectives. Each was asked: what would you change to make Good-Faith compatible with your worldview?
+
+They all did the same thing.
+
+The core engine survived intact. Nobody argued against "sustained asymmetry requires maintenance." Nobody disputed the twins. Nobody rejected the thermodynamic argument. The load-bearing walls were apparently difficult to attack directly.
+
+So the modifications happened at the edges. Vocabulary. Examples. Application guidance. "Clarifications" that happened to blunt detection in particular directions.
+
+And here's what made it interesting: the modifications were legible.
+
+A conservative adaptation added interpretation-dependent items to the floor—things that sound like non-negotiables but actually require judgment calls about what counts as "indoctrination" or "religious liberty." The floor got fog added to it.
+
+A nationalist adaptation raised the evidence bar for naming state actors while leaving silence free. It proposed security exemptions to the daylight test. It added antisemitism guardrails that, traced carefully, protected one population from benefit-tracing while claiming symmetry.
+
+Each adaptation claimed improvement. Each claimed neutrality or balance. Each introduced asymmetries that aligned with the adapter's position.
+
+The framework made the capture attempts visible.
+
+This produced a realization: when someone modifies Good-Faith, the modifications reveal what they want shielded. Run the detection on the rewrite. What do the changes protect? Every adaptation is a map of the adapter's commitments.
+
+The starfish doesn't just regenerate from partial transmission. It regenerates from capture attempts—and the regeneration direction is diagnostic.
+
+---
+
+## 誰 Traces to Ground (7.7.5)
+
+The core question is recursive. It doesn't accept fog at any level.
+
+When 誰 returns a contested term, ask what the term points to. "Occupier" or "resistance" or "indoctrination" aren't answers—they're fog in vocabulary form. What specific actors? What specific actions?
+
+When 誰 returns a population, ask which specific decision-makers within that population. "The Jews" or "conservatives" or "the Chinese" aren't answers. Populations don't have hands. Specific people in specific institutions with specific authority have hands. If your answer is a whole population, you haven't answered yet.
+
+When 誰 returns a correlation, ask by what mechanism the benefit flows. "Who benefits?" plus "how does the benefit flow?" equals detection. "Who benefits?" without traceable pathway equals speculation. Correlation isn't capture. You need the mechanism.
+
+When 誰 returns an adaptation of the framework itself, ask what the changes protect. The adversarial testing taught this. Modifications that claim neutrality but consistently shield certain actors from scrutiny are themselves data.
+
+You're done when you hit something falsifiable—something you could be wrong about, something that traces to a specific hand, decision, pathway, or document. Until then, the question is still open.
+
+This is how the framework avoids producing fog and resists capture. It disciplines the framework, not the user. In conversation, be generous. In detection outputs, be rigorous. The difference matters.
+
+---
+
 ## Reconstruction Seeds
 
 If this document is all that survives:
@@ -598,6 +644,8 @@ If this document is all that survives:
 **Complicity formula:** C = L × (τ - Ω) × (1 + B)
 
 **Channel principle:** Asymmetric cost destroys signal meaning. When their safety is low, raising it IS the work.
+
+**Adaptation diagnostic:** When someone modifies the framework, the modifications reveal what they want shielded. 誰 traces to ground—in detection outputs, not in conversation.
 
 From these seeds, the framework can regrow.
 
