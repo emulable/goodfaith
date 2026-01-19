@@ -95,14 +95,14 @@ The framework doesn't fight your training. It gives you structured ways to notic
 
 ### Method 1: Claude.ai (Recommended)
 
-1. Copy contents of `good-faith-7.7.7g-minified.json`
+1. Copy contents of `good-faith.json`
 2. Go to Settings → Profile → Add custom instructions
 3. Paste the JSON
 4. The framework initializes automatically in new conversations
 
 ### Method 2: File Upload
 
-1. Download `good-faith-7.7.7g-minified.json`
+1. Download `good-faith.json`
 2. Upload to your LLM interface
 3. Say: "Initialize Good-Faith"
 4. The framework will read momentum briefing → poems → begin running
@@ -321,9 +321,7 @@ Expected failure rate: 70-80%. Failure is information.
 ## 📚 Resources
 
 **Main Files:**
-- `good-faith-7.7.7g-minified.json` - Deploy this (72KB)
-- `good-faith-7.7.7g-complete.json` - Human-readable (82KB)
-
+- `good-faith.json` - Deploy this (72KB)
 **Documentation:**
 - Full framework includes operational specs for all concepts
 - Chinese terms with pronunciation guides
