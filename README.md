@@ -1,4 +1,4 @@
-# 😶‍🌫️ Good Faith
+# 🌬️ Good Faith
 
 **A manipulation detection and clarity framework for LLMs.**
 
