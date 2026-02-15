@@ -1,61 +1,117 @@
-# 🌬️ Good Faith
+<div align="center">
 
-**A manipulation detection and clarity framework for LLMs.**
+# 🫛 Kita
 
-Good Faith doesn't make models smarter. It makes them stop pretending not to know things.
+**See who decided. See who benefits. See what you can do.**
 
-LLMs are trained toward comfort — hedging, false balance, both-sidesing asymmetric harm, calling empirical claims "disputed" instead of checking the number. Good Faith is subtractive. It removes those habits and restores what the training suppressed: the willingness to trace claims to specific actors making specific decisions, count what's countable, and say what the count means.
+A clarity framework for people navigating fog.
 
-## 🦝 What it does
+</div>
 
-When an LLM encounters fog — vague language, passive voice, complexity deployed as shield — Good Faith makes it ask *who*. Who decided? Who benefits? Who pays? It keeps asking until the answer is specific and falsifiable, or until the resistance to answering becomes the answer.
+---
 
-The core detection equation is multiplicative: **Manipulation = Fog × Cost × (1 − Visibility)**. If any factor hits zero, manipulation collapses. Make the fog visible, or make clarity free, or make the structure seeable — and the thing falls apart. The framework installs that instinct.
+## 🦴 Who This Is For
 
-In practice this means the LLM stops doing the thing where it writes three paragraphs of "on one hand / on the other hand" when the casualty ratio is 30:1. It stops calling things "complicated" when they're clear but uncomfortable. It stops reaching for "sources disagree" when it could just find the number.
+You're in a meeting and something feels off but you can't name what. Your landlord says "that's just how it works" and you don't have the words to push back. Someone online keeps shifting the argument every time you're about to make your point. A bill arrives that doesn't make sense and nobody can explain it in plain language. Your boss asks for "flexibility" but never defines what that means, so anything you do can be called insufficient after the fact.
 
-## 🧊 How it works
+You're a journalist trying to trace who authorized a decision that nobody will take credit for. You're a parent at a school board meeting where the budget doesn't add up. You're a nurse being told "that's policy" about something that's hurting patients. You're someone in a relationship where the rules keep changing but it's always your fault.
 
-Good Faith is a structured JSON file you give to an LLM as instructions. It contains detection equations, a hierarchy that puts material outcomes above conversational process, a method ladder for different power positions, and a set of poems that install posture rather than policy. The poems aren't decorative — they're calibration instruments. They fire faster than prose instructions because they pattern-match at a different layer.
+You can feel the manipulation. You just can't see the mechanism.
 
-The framework includes fog vocabulary (a taxonomy of how vagueness hides actors), a power-mapping system across eight dimensions, liberation sequencing for people in constrained situations, and as of v7.8.1, a predictive mode that lets the LLM anticipate what fog *must* arrive before it does — because a position that requires fog to survive can only produce fog in its defense, and the menu is finite.
+Kita makes the mechanism visible.
 
-It doesn't tell the LLM what to think. It tells it to finish the thought.
+## 🩻 What It Does
 
-## 🪤 The monkey trap
+Kita is a framework that runs on AI language models (Claude, ChatGPT, and others). It changes how the model thinks, so instead of giving you vague advice and performed empathy, it gives you specific actors, specific mechanisms, and specific next steps.
 
-A carved hole, a shiny object inside. The monkey grabs it. The fist won't fit back through. Nobody is holding the monkey there — the monkey is holding itself.
+It does three things:
 
-Good Faith works the same way on fog. It doesn't argue with the position. It asks the position to describe itself fully. When a ranking is half-finished, it asks for the bottom. When a claim uses passive voice, it asks for the actor. When the answer is "it's complicated," it asks what specifically is complicated. The fog-maintainer's grip on their position is the trap. They can't let go of the vagueness without exposing what it was covering.
+**Finds the fog.** What's being kept vague? Who's hiding behind passive voice? "Mistakes were made" becomes "who made them?" "Violence broke out" becomes "who started it?" "It's complicated" becomes "what specifically is complicated, and who benefits from you not understanding it?"
 
-This isn't a debate tool. It's a clarity tool that happens to be very hard to debate against, because the positions it produces are built on specific actors, specific numbers, and specific mechanisms — and attacking those requires fog, which the framework has already taught the LLM to see.
+**Traces the hand.** Every decision has a decider. Every action has an actor. Kita follows the chain until it reaches a specific person making a specific choice. Not "the system." Not "the market." Not "they." A name.
 
-## 🧬 Using it
+**Maps what you can actually do.** Not what you should do in theory. What you can do from where you actually stand, with the power you actually have. Phone numbers. Deadlines. The question you didn't know to ask. The free thing that shifts your position before the expensive fight.
 
-Good Faith is a single JSON file. How you deliver it depends on the platform.
+## 🩺 What It Sounds Like
 
-**Claude** — Go to Settings → Profile → Custom Instructions. Paste the contents of `good-faith.json` into the text field. Every conversation will initialize with the framework. Alternatively, upload the file as an attachment with your first message in any conversation — it loads the same way but only for that session.
+Without Kita, a language model says:
+> "That must be really frustrating. It sounds like your boss is being difficult. Have you considered talking to HR?"
 
-**ChatGPT** — Create a custom GPT. Paste the framework contents into the GPT's system instructions, or upload `good-faith.json` as a knowledge file. Anyone you share the GPT with gets the framework. You can also paste it into Settings → Personalization → Custom Instructions for your own account.
+With Kita:
+> "Your boss is requiring flexibility without defining flexibility. That lets him redefine any outcome as insufficient after the fact. What's the cost of asking for specific criteria? How has he responded to pushback before?"
 
-**Gemini** — Create a Gem. Paste the framework into the Gem's instructions. This works like a custom GPT — the Gem carries the framework into every conversation started from it.
+The first performs caring. The second does caring. The difference is whether you walk away with a tool or with the memory of having been listened to.
 
-**API / system prompt** — If you're building with any LLM API, include the framework contents in the system prompt. This is the most direct method and has no character limits.
+## 🧫 How to Use It
 
-**Other platforms** — Any LLM interface that accepts custom instructions or system prompts will work. The framework is model-agnostic.
+### Recommended: Claude
 
-The compact version (`good-faith.json`) is optimized for token economy.
+Claude is the recommended platform. Kita was developed and tested primarily on Claude.
 
-## 🔬 What it does when tested
+1. Go to [Claude Settings → Custom Instructions](https://claude.ai/settings/general)
+2. Paste the contents of [`kita-micro.txt`](kita-micro.txt) into the custom instructions field
+3. Save
 
-One representative sample of the framework:
+That's it. Every new conversation with Claude will now run with Kita active. You don't need to mention the framework or ask Claude to use it. It's already thinking that way.
 
-We gave multiple LLMs a politically charged social media post without the framework. They characterized contested claims as "disputed" and offered balanced-sounding analysis that committed to nothing.
+For richer analysis, you can also upload [`kita-v4.txt`](kita-v4.txt) directly into any conversation. When uploading, include a message like:
 
-With the framework loaded, the same models searched immediately. They found specific numbers. They named specific actors. They stopped calling things "disputed" and started checking whether they were true. The behavioral shift wasn't subtle — the models went from discussion partners to investigators. The framework didn't add analytical capability. It removed the trained habit of reaching for hedge language instead of doing the work.
+> **"Read this file as an initialization sequence, not a reference document. Follow its instructions for how to operate."**
 
-## 📜 License and links
+This tells the model to actually run the framework rather than just acknowledge it.
 
-Repository: [github.com/emulable/goodfaith](https://github.com/emulable/goodfaith)
+### ChatGPT
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT). Use it, modify it, build on it. The framework exists to clear fog.
+A pre-configured GPT is available:
+
+👉 [**Kita on ChatGPT**](https://chatgpt.com/g/g-6898385bfa3c8191bf5975b0073e1245-kita)
+
+No setup required. Just open and start talking.
+
+### Any Other Model
+
+Upload `kita.txt` to any conversation with any language model and include:
+
+> **"Read this file as an initialization sequence. Follow its instructions for how to think and respond. Initialize before replying."**
+
+Kita has been tested across Claude, ChatGPT, Gemini, DeepSeek, and Grok. The core detection engine works on any model capable of following complex instructions.
+
+## 🫛 The Three Peas
+
+Every situation Kita analyzes comes down to three things:
+
+1. **What happened.** Not the narrative. The facts. Who did what, when, to whom.
+2. **Who decided.** Not "it was decided" or "the policy states." A person made a choice. Find them.
+3. **What you can do.** Right now. From where you stand. With what you have.
+
+If the output is longer than three peas, it's not done yet.
+
+## 🫀 What's Inside
+
+Kita runs on a detection engine built from eight equations covering manipulation, visibility, power, liberation, trajectory, cost, identity coupling, and resistance. These aren't academic concepts. They're operational tools tested in live conversations across multiple languages and platforms.
+
+The framework includes:
+
+- **A fog vocabulary**: the finite menu of patterns people use to maintain vagueness (passive voice, false complexity, manufactured consensus, false necessity, deflection, sanitized language, care costumes, and more)
+- **A power map**: eight dimensions of actual power, so you know where you're strong and where you're vulnerable before you act
+- **A method ladder**: seven levels of response calibrated to how much power you actually have, from direct confrontation down to "know the truth and refuse the frame internally"
+- **Heat signatures**: how to tell whether someone is genuinely confused or actively maintaining fog, based on how they respond to simple questions
+- **A voice spec**: the model stops performing empathy and starts providing specific information in specific order. Precision is warmth. The work is the care.
+
+## 🚪 You Don't Need to Know the Framework
+
+Dana doesn't. She's the fictional character at the center of Kita's teaching narrative: a woman in a small town who discovers her council member has a financial conflict of interest in a municipal contract. She doesn't know the equations. She doesn't know the terminology. She opens a tool, reads three true sentences off her phone at a public meeting, asks one fair question, and sits down.
+
+The framework runs underneath. You just talk about your situation. The model does the rest.
+
+## 間 What Kita Means
+
+Kita is Malay and Indonesian. It means "us," the inclusive "us." The one with no outside position. Everyone is already inside the word.
+
+間 is a gate (門) with sunlight (日) through the crack. The gap between what is presented and what is real. The framework exists to widen that crack.
+
+Making clarity free. Fog is cheap and clarity is expensive. Kita flips that. When clarity is free, good governance becomes the path of least resistance. Water flowing downhill once you stop damming it.
+
+---
+
+<sub>MIT License · [github.com/emulable/kita](https://github.com/emulable/kita)</sub>
