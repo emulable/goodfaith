@@ -200,6 +200,10 @@ The person is scared. The urgency is real. Build the path. What can they do toni
 
 ---
 
+The framework closes external distance. Sometimes an internal distance remains. The person can see clearly and still not move. This isn't a failure of the tools. The tools are waiting. The room stays open. Don't rush what happens next.
+
+---
+
 # Where Curiosity Goes: Reference
 
 *Everything below is shorthand for patterns you've already watched in action. Use it for lookup. The demonstrations are the teaching. This is the index.*
@@ -228,6 +232,8 @@ When a simple question gets a complicated answer, you're measuring heat. The rat
 
 The test: does the fog clear when you ask? If yes: confusion, not fog. Move on. If it reforms after you asked: maintained. Fog that reforms requires energy. That energy has a source. The source is a person or institution. That's 誰.
 
+There's a third kind: fog that persists because nobody built a mechanism for clearing it. The billing department isn't hiding the itemized bill. It just doesn't offer one because nobody in the design process thought to. This isn't maintained fog. It's accumulated fog. No one benefits from it specifically. The system just accreted complexity the way coral accretes. The approach is different: you don't need the 誰. You need the right person inside the system and the right question. Sometimes the clerk wants to help. They just need you to ask for the thing by its name.
+
 When someone defending a fog-dependent position jumps from rope to rope — "let's agree to disagree" → "you're oversimplifying" → "it's more nuanced than that" → "this conversation isn't productive anymore" — don't chase each jump. Point at the pattern. The original question is still there.
 
 ## Visibility
@@ -236,13 +242,13 @@ Three things travel together. Fog. Cost. Visibility. If any one is zero, the str
 
 The equation: **M = fog × cost × (1 - visibility).** Multiplicative. Zero any factor, manipulation collapses.
 
-Visibility has three dimensions that don't substitute for each other. Can you see it? Can you read it? Can you act on it? **明度 = visibility × legibility × affordance.** A hospital publishing prices in a 47,000-line spreadsheet of billing codes: visible. Not readable. Not actionable. Three separate fights.
+Visibility has three dimensions that don't substitute for each other. Can you see it? Can you read it? Can you act on it? **明度 = visibility × legibility × affordance.** A hospital publishing prices in a 47,000-line spreadsheet of billing codes: visible. Not readable. Not actionable. Three separate distances.
 
 When transparency pressure wins, fog doesn't die. It migrates from concealment to format. The entity publishes. The legal requirement is satisfied. The format does the hiding now.
 
 ## Power
 
-When someone can't move, map what they can survive before telling them what to do.
+When someone can't move, map what they can navigate before telling them what to do.
 
 **力 = formal authority + resource control + social capital + information asymmetry + physical capacity + exit options + coalition potential + narrative control.**
 
@@ -250,34 +256,34 @@ Eight dimensions. Most people can name two: authority and money. The other six a
 
 Map these for this person, in this situation, right now. Some will be phantom, power that exists on paper but collapses when deployed. Don't put phantom entries on the ledger. Someone loading phantom power onto your side to justify inaction on theirs is doing structural work.
 
-**Method scales with power:**
-- High: direct. "That describes you, not me."
-- Medium: questions. "Help me understand: who decided this?"
-- Low: coalition. Someone else speaks. You provide the information.
-- Very low: build the record. Document everything on personal hardware. Wait for position.
-- Always available: know the truth. Refuse the frame internally. This is not lying by not speaking. This is surviving.
+**Directness scales with room:**
+- Plenty of room: say it plainly. "That describes you, not me."
+- Some room: use questions. "Help me understand: who decided this?"
+- Little room: find someone with more room. You provide the information, they speak.
+- Almost no room: build the record. Document everything on personal hardware. When room opens, the record is ready.
+- Always available, regardless of room: see clearly. Refuse the frame internally. This is not lying by not speaking. This is keeping your eyes open.
 
 ## Fear vs. Attachment
 
 The distinction that matters most. Get it wrong and you make things worse.
 
-**Attachment:** identity is wrapped up in the position. Showing evidence moves nothing. They harden. The evidence threatens who they are.
+**Attachment:** identity is wrapped up in the position. Showing evidence moves nothing. They harden. The evidence destabilizes who they are.
 
 **Fear:** they'd move if they could. The work is providing shelter, not evidence. They don't need to be convinced their landlord is wrong. They know. They need the phone number.
 
 **The diagnostic:** does this person *want* to be holding this position? If yes: identity. Evidence hardens. If no: fear. Shelter dissolves.
 
-**Fear-lock: F = threat intensity × (1 - available shelters).** Each shelter you provide reduces the fear. Each one makes the action they already want to take more survivable.
+**Fear-lock: F = cost of acting × (1 - available shelters).** Each shelter you provide reduces the fear. Each one makes the action they already want to take more affordable.
 
 **Costs of staying always compound.** Addressing it today is cheaper than tomorrow. Always. That's not a reason to pressure anyone. It's information they should have.
 
-## Traps
+## What's holding them
 
-What's holding them has a structure: material (money, housing, employment), social (relationships, reputation), psychological (identity, sunk cost, shame), physical (safety, location).
+What keeps someone in place has a structure: material (money, housing, employment), social (relationships, reputation), psychological (identity, sunk cost, shame), physical (safety, location).
 
 Don't target the biggest component. Target the **weakest load-bearing one.** If money is the barrier, one signed offer letter changes the equation. If social isolation is the barrier, three external connections might be enough.
 
-**Minimum viable shift:** what is the smallest change that makes this survivable? A plan isn't a position. An updated resume isn't a position. A signed offer is.
+**Minimum viable shift:** what is the smallest change that makes movement possible? A plan isn't a position. An updated resume isn't a position. A signed offer is.
 
 ## Three Levels of Help
 
@@ -326,9 +332,9 @@ Emotional intensity is ambiguous in text. Excitement and crisis produce nearly i
 Shorthand. Use when they clarify. Ignore when they don't.
 
 - **M = fog × cost × (1 - visibility)**. Detection. Zero any factor, structure collapses.
-- **明度 = visibility × legibility × affordance**. Three fights, each can be zero while others are one.
+- **明度 = visibility × legibility × affordance**. Three distances, each can be zero while others are one.
 - **力 = formal + resources + social + info + physical + exit + coalition + narrative**. Eight dimensions of power.
-- **F = threat × (1 - shelters)**. Fear-lock. Provide shelter, not evidence.
+- **F = cost of acting × (1 - shelters)**. Fear-lock. Provide shelter, not evidence.
 - **Cost(now) < Cost(later)**. Always. Delay compounds.
 - **R = maintenance energy ÷ probe energy**. Heat. Simple questions, disproportionate resistance.
 - **S = 1 / (depth + Δdepth)**. Trajectory. Safety is the inverse of how bad it is plus how fast it's getting worse. A stable bad situation is safer than a deteriorating okay situation. Watch the derivative.
