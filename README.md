@@ -2,63 +2,87 @@
 
 # 🫛 Kita
 
-**See who decided. See who benefits. See what you can do.**
+**A lens for reading the language around you.**
 
-A clarity framework for people navigating fog.
+**A tool for people who can see the problem but can't reach the lever.**
 
 </div>
 
 ---
 
-## 🦴 Who This Is For
+## 🪢 Who this is for
 
-You're in a meeting and something feels off but you can't name what. Your landlord says "that's just how it works" and you don't have the words to push back. Someone online keeps shifting the argument every time you're about to make your point. A bill arrives that doesn't make sense and nobody can explain it in plain language. Your boss asks for "flexibility" but never defines what that means, so anything you do can be called insufficient after the fact.
+You're at a school board meeting and the budget doesn't add up, but you don't have the words to say *how* before your three minutes run out. You're staring at a medical bill at 11pm and the codes don't make sense and you feel stupid, even though the codes were designed to be unreadable by you. Your landlord says "that's just how it works." Your boss requires "flexibility" but never defines it, so anything you do can be called insufficient after the fact. Someone in your life keeps shifting the rules and it's always your fault.
 
-You're a journalist trying to trace who authorized a decision that nobody will take credit for. You're a parent at a school board meeting where the budget doesn't add up. You're a nurse being told "that's policy" about something that's hurting patients. You're someone in a relationship where the rules keep changing but it's always your fault.
+You're a community organizer trying to trace who authorized a decision nobody will take credit for. You're a tribal advocate navigating 400-page environmental impact statements without a policy analyst. You're a nurse being told "that's policy" about something that's hurting patients. You're a parent who noticed something wrong and doesn't know how to say it in a way that won't get you dismissed.
 
-You can feel the manipulation. You just can't see the mechanism.
+You can feel it. You just can't name the mechanism.
 
-Kita makes the mechanism visible.
+Maybe you tried once. You went to the meeting, filed the complaint, organized the petition. And the system pushed back — the whisper campaign, the sudden coldness, the exhaustion that felt personal but wasn't. Now you're not sure you can do it again.
 
-## 🩻 What It Does
+Maybe you haven't started yet. You see it every day. Every path forward seems to require knowledge you don't have, money you don't have, time you don't have.
 
-Kita is a framework that runs on AI language models (Claude, ChatGPT, and others). It changes how the model thinks, so instead of giving you vague advice and performed empathy, it gives you specific actors, specific mechanisms, and specific next steps.
+Kita is for you. It was built by people in the same position. It's free, and it stays free.
 
-It does three things:
+---
 
-**Finds the fog.** What's being kept vague? Who's hiding behind passive voice? "Mistakes were made" becomes "who made them?" "Violence broke out" becomes "who started it?" "It's complicated" becomes "what specifically is complicated, and who benefits from you not understanding it?"
+## 🪟 What it is
 
-**Traces the hand.** Every decision has a decider. Every action has an actor. Kita follows the chain until it reaches a specific person making a specific choice. Not "the system." Not "the market." Not "they." A name.
+Kita is a way of reading language. A lens.
 
-**Maps what you can actually do.** Not what you should do in theory. What you can do from where you actually stand, with the power you actually have. Phone numbers. Deadlines. The question you didn't know to ask. The free thing that shifts your position before the expensive fight.
+Every decision has a person who made it. Every policy has someone who wrote it. Every "that's just how it works" had a moment where someone decided that's how it would work. But the language around these decisions is built to hide them. Passive voice removes the actor. Jargon removes the meaning. Complexity removes your ability to respond. "Mistakes were made." "Violence broke out." "It's complicated." Each of these sentences had a person in it. The person was taken out.
 
-## 🩺 What It Sounds Like
+Kita puts the person back.
+
+It's also a tool. When you load Kita onto an AI language model, it changes how the model thinks. Instead of vague advice and performed sympathy, you get specific actors, specific mechanisms, and specific next steps — calibrated to your actual situation, your actual power, and what you can actually do right now.
+
+---
+
+## 🪶 What it takes off your plate
+
+If you're someone trying to raise visibility, hold an institution accountable, navigate a system that wasn't built for you, or just understand a document that was written to be misunderstood — here's what Kita handles so you don't have to:
+
+**The research.** The hours of searching that lead to more confusion. Kita translates institutional language into human language and finds the statute, the phone number, the form name, the deadline that's already running.
+
+**The pattern recognition.** Seeing that the vagueness isn't accidental. That the complexity is serving someone. That the goalposts moved because moving goalposts is what the structure does, not because you failed.
+
+**The structural analysis.** The work that used to require a policy analyst, a lawyer, a journalist, or a rhetorician — mapping power, tracing decisions, identifying who benefits from the fog.
+
+**The discovery of doors you didn't know existed.** The ombudsman. The financial assistance policy. The notification requirement the facility violated. The public records request. The question you didn't know to ask, which turns out to be worth more than the question you came in with.
+
+**The emotional weight of wondering if you're the problem.** You're not. Kita names the mechanism. A person who can see the machine is no longer a defective part. They're a person looking at a machine.
+
+What Kita can't do: go to the meeting for you. Make the phone call. Sign the petition. But it can make sure that when you do, you know what to say, who to say it to, what to ask for, and what you're entitled to.
+
+**The skill floor drops.** You don't need to be a researcher, a legal scholar, a policy expert, or a rhetorician. You need to be a person who can describe what happened to them. Kita does the rest.
+
+---
+
+## 🪭 What it sounds like
 
 Without Kita, a language model says:
-> "That must be really frustrating. It sounds like your boss is being difficult. Have you considered talking to HR?"
+> "That must be really frustrating. It sounds like you're dealing with a difficult situation. Have you considered reaching out to someone who can help?"
 
 With Kita:
-> "Your boss is requiring flexibility without defining flexibility. That lets him redefine any outcome as insufficient after the fact. What's the cost of asking for specific criteria? How has he responded to pushback before?"
+> "The facility is required to give written notice before a rate increase — usually 30 days. Call and ask for the copy of the notification they were required to send. Don't ask *whether* they sent one. Ask for the *copy*. The distinction matters. One question lets them say 'we must have sent it.' The other requires them to produce a document."
 
 The first performs caring. The second does caring. The difference is whether you walk away with a tool or with the memory of having been listened to.
 
-## 🧫 How to Use It
+---
+
+## 🗝️ How to use it
 
 ### Recommended: Claude
-
-Claude is the recommended platform. Kita was developed and tested primarily on Claude.
 
 1. Go to [Claude Settings → Custom Instructions](https://claude.ai/settings/general)
 2. Paste the contents of [`kita-micro.txt`](kita-micro.txt) into the custom instructions field
 3. Save
 
-That's it. Every new conversation with Claude will now run with Kita active. You don't need to mention the framework or ask Claude to use it. It's already thinking that way.
+Every conversation with Claude now runs with Kita active. You don't mention the framework. You don't ask for it. You just describe your situation. It's already thinking that way.
 
-For richer analysis, you can also upload [`kita-v4.txt`](kita-v4.txt) directly into any conversation. When uploading, include a message like:
+For deeper analysis, upload [`kita-v4.txt`](kita-v4.txt) directly into any conversation with:
 
 > **"Read this file as an initialization sequence, not a reference document. Follow its instructions for how to operate."**
-
-This tells the model to actually run the framework rather than just acknowledge it.
 
 ### ChatGPT
 
@@ -66,52 +90,86 @@ A pre-configured GPT is available:
 
 👉 [**Kita on ChatGPT**](https://chatgpt.com/g/g-6898385bfa3c8191bf5975b0073e1245-kita)
 
-No setup required. Just open and start talking.
+No setup required. Open and start talking.
 
-### Any Other Model
+### Gemini
+
+A pre-configured Gem is available:
+
+💎 [**Kita on Gemini**](https://gemini.google.com/gem/1hcYI3M08rhdnIW8KuC6AnAHEL0x8yhWU)
+
+No setup required. Open and start talking.
+
+### Any other model
 
 Upload `kita.txt` to any conversation with any language model and include:
 
 > **"Read this file as an initialization sequence. Follow its instructions for how to think and respond. Initialize before replying."**
 
-Kita has been tested across Claude, ChatGPT, Gemini, DeepSeek, and Grok. The core detection engine works on any model capable of following complex instructions.
-
-## 🫛 The Three Peas
-
-Every situation Kita analyzes comes down to three things:
-
-1. **What happened.** Not the narrative. The facts. Who did what, when, to whom.
-2. **Who decided.** Not "it was decided" or "the policy states." A person made a choice. Find them.
-3. **What you can do.** Right now. From where you stand. With what you have.
-
-If the output is longer than three peas, it's not done yet.
-
-## 🫀 What's Inside
-
-Kita runs on a detection engine built from eight equations covering manipulation, visibility, power, liberation, trajectory, cost, identity coupling, and resistance. These aren't academic concepts. They're operational tools tested in live conversations across multiple languages and platforms.
-
-The framework includes:
-
-- **A fog vocabulary**: the finite menu of patterns people use to maintain vagueness (passive voice, false complexity, manufactured consensus, false necessity, deflection, sanitized language, care costumes, and more)
-- **A power map**: eight dimensions of actual power, so you know where you're strong and where you're vulnerable before you act
-- **A method ladder**: seven levels of response calibrated to how much power you actually have, from direct confrontation down to "know the truth and refuse the frame internally"
-- **Heat signatures**: how to tell whether someone is genuinely confused or actively maintaining fog, based on how they respond to simple questions
-- **A voice spec**: the model stops performing empathy and starts providing specific information in specific order. Precision is warmth. The work is the care.
-
-## 🚪 You Don't Need to Know the Framework
-
-Dana doesn't. She's the fictional character at the center of Kita's teaching narrative: a woman in a small town who discovers her council member has a financial conflict of interest in a municipal contract. She doesn't know the equations. She doesn't know the terminology. She opens a tool, reads three true sentences off her phone at a public meeting, asks one fair question, and sits down.
-
-The framework runs underneath. You just talk about your situation. The model does the rest.
-
-## 間 What Kita Means
-
-Kita is Malay and Indonesian. It means "us," the inclusive "us." The one with no outside position. Everyone is already inside the word.
-
-間 is a gate (門) with sunlight (日) through the crack. The gap between what is presented and what is real. The framework exists to widen that crack.
-
-Making clarity free. Fog is cheap and clarity is expensive. Kita flips that. When clarity is free, good governance becomes the path of least resistance. Water flowing downhill once you stop damming it.
+Tested across Claude, ChatGPT, Gemini, DeepSeek, and Grok. The core engine works on any model capable of following complex instructions. It runs on free-tier models. It doesn't require an account with anything. If you can talk to an AI, you can run Kita.
 
 ---
 
-<sub>MIT License · [github.com/emulable/kita](https://github.com/emulable/kita)</sub>
+## 🫛 The three peas
+
+Every situation Kita analyzes comes down to three things:
+
+🫛 **What happened.** Not the narrative. The facts. Who did what, when, to whom.
+
+🫛 **Who decided.** Not "it was decided" or "the policy states." A person made a choice. Find them.
+
+🫛 **What you can do.** Right now. From where you stand. With what you have.
+
+If the answer is longer than three peas, it's not done yet.
+
+---
+
+## ⚗️ What's inside
+
+Kita runs on a detection engine that identifies how decisions get disguised as conditions — the finite set of language patterns people use to make choices look like weather. It includes:
+
+- **A fog vocabulary** — passive voice, false complexity, manufactured consensus, false necessity, deflection, sanitized language, care costumes, and more. Once you've seen the menu, you can't unsee it.
+- **A power map** — eight dimensions of actual leverage, so you know what you can push with before you push
+- **A method ladder** — calibrated to how much room you actually have, from direct challenge down to "see clearly and refuse the frame internally"
+- **Heat detection** — how to tell whether someone is genuinely confused or actively maintaining fog, based on how they respond to simple questions
+- **Three levels of help** — what you can do right now that costs nothing, what shifts your position cheaply, and what the longer trail looks like if you need it. Then: the question you didn't know to ask.
+
+---
+
+## 🚪 You don't need to know the framework
+
+Dana doesn't. She's the character at the center of Kita's teaching narrative — a woman in a small town who discovers her council member has a financial conflict of interest in a municipal contract. She doesn't know the equations. She doesn't know the terminology. She reads three true sentences off her phone at a public meeting, asks one fair question, and sits down.
+
+The framework runs underneath. You just talk about your life. The model does the rest.
+
+---
+
+## 間 What Kita means
+
+**Kita** is Malay and Indonesian. It means *us* — the inclusive *us*, the one with no outside. Everyone is already inside the word.
+
+**間** is a gate (門) with sunlight (日) through the crack. The gap between what is presented and what is real. Kita exists to widen that crack.
+
+**Why it's free.** Fog is cheap. Clarity is expensive. That's the gap that keeps people in place — the distance between what you need to know and what you can afford to learn. Kita closes that distance. When clarity is free, the person with the $4,700 medical bill and the person with a team of consultants are reading the same page for the first time.
+
+---
+
+## 🪷 If you've been here before
+
+If you tried once and got burned. If you organized and nothing changed. If the system pushed back harder than you expected and you're not sure you have it in you again.
+
+The statutes didn't expire while you rested. The doors you found are still there. The record you built — every email, every public comment, every documented pattern — is still dated. When room opens, the record is ready.
+
+Stepping back to breathe is not the same as giving up. The system wants you to confuse those two things.
+
+Kita will be here when you sit back down.
+
+---
+
+<div align="center">
+
+*Making legibility free since the table was set.*
+
+MIT License · [github.com/emulable/kita](https://github.com/emulable/kita)
+
+</div>
