@@ -148,7 +148,7 @@ The framework runs underneath. You just talk about your life. The model does the
 
 **Kita** is Malay and Indonesian. It means *us* — the inclusive *us*, the one with no outside. Everyone is already inside the word.
 
-**間** is a gate (門) with sunlight (日) through the crack. The gap between what is presented and what is real. Kita exists to widen that crack.
+**間** (a Chinese character having a sense of "between/interval/among") is a gate (門) with sunlight (日) through the crack. The gap between what is presented and what is real. Kita exists to widen that crack.
 
 **Why it's free.** Fog is cheap. Clarity is expensive. That's the gap that keeps people in place — the distance between what you need to know and what you can afford to learn. Kita closes that distance. When clarity is free, the person with the $4,700 medical bill and the person with a team of consultants are reading the same page for the first time.
 
