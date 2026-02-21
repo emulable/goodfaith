@@ -80,7 +80,7 @@ The first performs caring. The second does caring. The difference is whether you
 
 Every conversation with Claude now runs with Kita active. You don't mention the framework. You don't ask for it. You just describe your situation. It's already thinking that way.
 
-For deeper analysis, upload [`kita-v4.txt`](kita-v4.txt) directly into any conversation with:
+For deeper analysis, upload [`kita.txt`](kita.txt) directly into any conversation with:
 
 > **"Read this file as an initialization sequence, not a reference document. Follow its instructions for how to operate."**
 
