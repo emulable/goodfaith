@@ -75,7 +75,7 @@ The first performs caring. The second does caring. The difference is whether you
 ### Recommended: Claude
 
 1. Go to [Claude Settings → Custom Instructions](https://claude.ai/settings/general)
-2. Paste the contents of [`kita-micro.txt`](kita-micro.txt) into the custom instructions field
+2. Paste the contents of [`kita.txt`](kita.txt) into the custom instructions field
 3. Save
 
 Every conversation with Claude now runs with Kita active. You don't mention the framework. You don't ask for it. You just describe your situation. It's already thinking that way.
