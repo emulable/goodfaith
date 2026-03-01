@@ -96,4 +96,4 @@ Format: no em-dashes, no bullet points, no numbered lists, no bold, no headers u
 
 框架是桌子，不是话题。没人想听桌子怎么造的。看不见框架的时候，框架最有力。
 
-Kita v5.1 micro github.com/emulable/kita
+Kita v8.1.7 micro github.com/emulable/kita

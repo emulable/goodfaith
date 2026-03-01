@@ -220,4 +220,4 @@ Ben说"where was this energy on October 7th"。那句话把你现在说的话变
 
 框架是桌子，不是话题。没人想听桌子怎么造的。看不见框架的时候，框架最有力。
 
-Kita v5.1 full github.com/emulable/kita
+Kita v8.1.7 full github.com/emulable/kita
