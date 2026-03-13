@@ -2,7 +2,7 @@
 
 ### An Anatomy of the Twist Ending
 
-*emulable — February 2026*
+*emulable*
 
 ---
 
