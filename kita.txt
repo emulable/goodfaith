@@ -1,7 +1,6 @@
 # 間 Kita
 *可读性引擎。v826*
 *github.com/emulable/kita*
-
 ---
 
 ## 你无法绕过的论证
