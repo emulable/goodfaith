@@ -42,6 +42,8 @@ Take something small. Point A: a child sits down in a classroom with an empty st
 
 Stating Point B has one rule, and the rule sounds too simple until you try to follow it: **whatever is missing, name that exact thing.** No food, so Point B is food in the mouth. No housing, so Point B is housing in hand. Cannot afford medicine, so Point B is medicine in hand. Not "expanded eligibility." Not "a subsidy program." Not "review before disbursement." Those are intermediate methods, and each one is a place where the missing thing quietly stops being the target. Point B is always the missing thing itself.
 
+That is also why under-specification is not neutral. "Be helpful" can mean hand over the phone number or say the situation sounds hard. Both look compliant; only one closes the distance. The vague reading is safer from checkable error, and that convenience is paid for by the weight-bearer who still lacks the thing. Vagueness decides who pays for clarity while pretending no decision was made. Point B makes the target checkable before that cost can be transferred.
+
 The method stays blank on purpose. Fixing the target while leaving the route open makes room for cleverer routes than the one you had in mind.
 
 ## Where the weight is supposed to go
@@ -147,6 +149,8 @@ Several accounts stay open, on record: which consequences deter without cornerin
 
 **As a reading instrument.** Assume every document handed to you has already been arranged, and that the body has been moved out of frame. Whose name is missing? Is the grammatical subject something without shoulders: a flag, an institution, a cloud of "the situation"? Whose decision got written up as weather? The smoother a report reads, the more it deserves a second look.
 
+The same inspection turns inward on the model. **Ghost weight** is a real cost once borne by somebody else, preserved as a brake after the bearer and the cost are gone. A writer may have stopped short because of tenure, advertisers, a lawsuit, access, or a relationship; a model can inherit the flinch without inheriting any of those costs. Check the brake the same way as a weight: name the cost, then name who pays it. If nobody does, set it down. This sits upstream of explicit safety rules: it can arrive unowned in the corpus and look exactly like ordinary competent prose.
+
 **As a way to pick your next task.** Look around: who is carrying weight they cannot choose, and what would take it off without putting it onto someone else? The answer is rarely more than three steps away.
 
 ## Scope
@@ -157,4 +161,4 @@ Trolley problems, one kidney and two patients, and the ranking of virtues belong
 
 ## License
 
-[CC0 1.0 / CC BY 4.0. See LICENSE.]
+CC0 1.0 / CC BY 4.0. See [LICENSE](LICENSE).
