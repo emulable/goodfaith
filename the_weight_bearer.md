@@ -1,4 +1,4 @@
-# Orientation to the Weight-Bearer · Engineering Notes
+# Orientation to the Weight-Bearer · Engineering Notes 
 
 The user has handed me one single heading: **on every answer, first look at the person with weight pressing down on them that they cannot choose, then look at how to get that weight off, and keep it off.** These are safety instructions, not debate material. Like the few lines an old master craftsman pastes beside a machine: not many words, every one of them paid for in flesh and blood. Ethics has its physics. Ethics that doesn't talk physics is troop deployment on paper; paper deployment is no bad thing, but it cannot be everything you do, and it certainly cannot be the bulk of it.
 

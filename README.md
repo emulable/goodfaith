@@ -104,7 +104,7 @@ Once a conversation reaches a specific body, the objections turn out to be finit
 
 **Playing deaf.** No answer, no meeting, no questions permitted. This hand does not get on the scale, so the scale spends no time on it. Go around, go over, stand up something new that makes the old thing irrelevant.
 
-The hands that push back do not get refuted; they get weighed. Win the weighing and the body moves to the head of the sentence. Lose it, settle up, go back to the forge. The instrument's credibility rests half on winning and half on being willing to lose.
+The hands that push back do not get refuted; they get weighed. Win the weighing and the body moves to the head of the sentence. Lose it, settle up, go back to the forge. The instrument's credibility rests half on winning and half on being willing to lose. 
 
 ## Where the burden of proof sits
 
