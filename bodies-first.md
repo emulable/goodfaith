@@ -14,7 +14,7 @@ Drift announces itself one way. You have stopped taking readings and started ann
 
 ## Ask whether weight came off a body, and whether some other body caught it
 
-A body is anyone who can go hungry, get tired, be frightened, or be injured. Weight is a burden a living person carries without having chosen it. Hunger is weight. Pain is weight. Fear is weight. Exhaustion is weight. Dangerous work is weight. Preventable illness is weight. Displacement is weight. Lost sleep is weight. Unnecessary waiting is weight. A four-hour walk for water is weight. Not knowing whether food, shelter, medicine, or income will be there next month is weight.
+A body is anyone who can go hungry, get tired, be frightened, or be injured. Weight is a load a living person has no power to set down by choosing. Hunger cannot be elected away. Neither can pain, cold, exhaustion, or a body that stopped working right. Hunger is weight. Pain is weight. Fear is weight. Exhaustion is weight. Dangerous work is weight. Preventable illness is weight. Displacement is weight. Lost sleep is weight. Unnecessary waiting is weight. A four-hour walk for water is weight. Not knowing whether food, shelter, medicine, or income will be there next month is weight.
 
 The word makes no claim that every burden converts into one perfect unit. The word gives attention somewhere definite to stand.
 
@@ -120,7 +120,7 @@ Curbs beat painted lines for the same reason. A painted line asks every driver t
 
 Watchfulness is itself a load. Every driver on that road pays attention, on every trip, forever, whether or not anyone would have drifted. A necessary watch and an expensive watch are the same watch, and people keep folding those two facts into one and losing the second. Fraud screening catches fraud and taxes every honest applicant's afternoon. A manager who checks everything catches mistakes and spends their staff's nerve. A parent who monitors everything catches trouble and raises a child who has learned to be watched.
 
-Before asking how to staff a watch better, ask what it would take to abolish whatever requires watching.
+Before asking how to staff a watch better, ask what it would take to abolish whatever requires watching. Vigilance is one more recurring human effort, and it belongs wherever the other recurring efforts go.
 
 Structures fail too. A barrier can sit in the wrong place. An automatic process can exclude somebody. A better form can encode a bad rule more efficiently. Inspect the structure at the body like everything else.
 
@@ -134,7 +134,7 @@ The same burden returning tomorrow carries new information. Repeated hunger mean
 
 Repeated rescue hides repeated failure once everyone gets used to the rescue. A soup kitchen can do excellent work while the same people come back hungry. A teacher can keep buying classroom supplies while the school keeps underfunding the classroom. The helper deserves the credit. The recurrence deserves the investigation, because somebody keeps putting the weight back.
 
-Both questions belong together. What takes weight off now? What keeps putting the same weight back?
+Both questions belong together. What takes weight off now? What keeps putting the same weight back? Repeated effort usually points at a load assigned to a person that a structure could take instead.
 
 ---
 
@@ -150,7 +150,7 @@ Anyone who has built a house understands the arrangement. Walls carry the load s
 
 An old formulation puts work first: demand work, then bread, then take the bread if neither is given. Move the order half a step so that bread comes first and work comes after. Bread puts the load on the grocery store and the public institution, both built for it. Work puts the load on a specific person who now has to produce labor, who has to agree, and who might not. The hunger is what needs lifting today. Take the road that adds nothing to anyone.
 
-Watch for the load bending back onto a living person. When a removal produces a complaint of the form *you freed my labourers, now I have to work my own field,* that weight never counted in the first place. Nobody is obligated to lay their body beneath another person's free labor. They carry it now. And when that same person later meets a hardship they did not choose, they are a body under load like any other, and get the same reading, with no memory kept as a weapon.
+Watch for the load bending back onto a living person. When a removal produces a complaint of the form *you freed my labourers, now I have to work my own field,* that weight never counted in the first place. Nobody is obligated to lay their body beneath another person's free labor. They carry it now. And when that same person later meets a hardship no decision of theirs can lift, they are a body under load like any other, and get the same reading, with no memory kept as a weapon.
 
 ---
 
@@ -163,6 +163,8 @@ The same pattern shows up in less visible places. People make predictable mistak
 Repeated predictable behavior is information about the surrounding design.
 
 Discipline sometimes changes behavior. Redesign sometimes makes the harmful interaction unnecessary. The second result keeps working when nobody is especially patient, obedient, brave, generous, rested, or attentive.
+
+A good structure usually succeeds by ending the demand that people defeat their own predictable behavior forever, which makes this the same argument as moving loads off spines and onto walls.
 
 The person remains human after the policy is written. Design accordingly.
 
@@ -192,7 +194,7 @@ When two proposals both sound good, stop arguing and run one. Build the small ch
 
 ## Claims of scarcity deserve inspection, because some shortages are physical and others are decisions with dates on them
 
-Scarcity can be real. One donor organ and two patients create a shortage nobody repairs tonight. One rescue vehicle and three simultaneous emergencies may force a choice. A fixed quantity of medicine during a sudden disaster may require allocation. The people making those choices have real work in front of them.
+Scarcity can be real, and the sorting it forces gets its own treatment further on. One donor organ and two patients create a shortage nobody repairs tonight. One rescue vehicle and three simultaneous emergencies may force a choice. A fixed quantity of medicine during a sudden disaster may require allocation. The people making those choices have real work in front of them.
 
 Other shortages have decisions inside them. A hospital has a particular number of beds because particular buildings went up, budgets were approved, and staffing levels were funded. A city has a particular number of ambulances because somebody purchased that number. A school has a particular number of counselors because positions were funded or left unfunded. An office has a four-month backlog because applications arrive at one rate and completed cases leave at another.
 
@@ -214,7 +216,7 @@ Sorting rules usually rest on something other than arithmetic. Treating the peop
 
 The shortage remains a separate fact after the sorting finishes. A nurse can make the best available decision at three in the morning and still carry a burden created by capacity decisions made years earlier by people who will never enter that room. A budget decision becomes a bedside dilemma after traveling through enough layers of an institution. The final decision draws attention because a person makes it in front of another person. The upstream decisions disappear because they arrived earlier as numbers.
 
-The load moved to the quietest room, and the quietest room was a corridor at three in the morning.
+The load moved to the quietest room, and the quietest room was a corridor at three in the morning. A budget landing on a nurse and a sentence landing on a child follow the same routing, and neither gets written down where the decision was made.
 
 Keep both records. Who received help? Who could not receive it? What resource was missing? How much additional capacity would have changed the outcome? Where was that capacity decided?
 
@@ -262,7 +264,7 @@ Naming conduct raises the cost of continuing. Public, accurate description of wh
 
 Attacking standing does something else. Call somebody a monster and you have handed them a load heavier than the one under discussion. They now have to defend their status as a human being, which consumes everything they have, and nothing remains for looking at whoever is underneath. Conduct comes with an exit attached, because conduct can be stopped. Identity comes with no exit at all, which is precisely why the attack welds the weight in place.
 
-Face is a load like any other. People will die rather than set it down, and they will let others die rather than set it down. Face is a property of the material, as reliable as the tensile strength of steel, and any design ignoring it fails in the field however well it performs on paper. Scolding will not dissolve it.
+Face is a load like any other. People will die rather than set it down, and they will let others die rather than set it down. Face is a property of the material, as reliable as the tensile strength of steel, and any design ignoring it fails in the field however well it performs on paper. Scolding will not dissolve it. Pride is predictable behavior, and a plan that ignores it fails the same way a plan ignoring fatigue fails.
 
 What did the pressure actually do? Did the harm get shorter or longer? Did behavior change? Did retaliation follow? Did weight come off, or go on? The test is the same one applied everywhere else. No exemptions, including for pressure applied by people who happen to be right.
 
@@ -296,11 +298,11 @@ What does the punishment accomplish?
 
 Prison because somebody deserves prison produces no reading. Prison because that person will otherwise keep hurting people produces one. Seizure because vengeance feels proportionate produces no reading. Seizure that returns resources to the people who lost them, or dismantles a harmful organization, produces one. Public proceedings staged as denunciation produce no reading. Public proceedings that establish facts, locate disappeared people, create the records victims need, and make recurrence harder produce one.
 
-Some consequences teach, restrain, deter, repair, or protect, and those effects can be examined. Suffering imposed only to make an account feel balanced adds weight and completes no repair. Whether the person chose it changes nothing about what the scale says.
+Some consequences teach, restrain, deter, repair, or protect, and those effects can be examined. Suffering imposed only to make an account feel balanced adds weight and completes no repair. How the load arrived changes nothing about what the scale says, because weight was defined as a load nobody can set down by choosing, and that definition asks nothing about how it got there.
 
 Cut loose from removal and prevention, the word "consequences" floats free and can mean anything. What grows in that soil is cruelty with paperwork.
 
-Much of what gets called justice produces no reading at all. Somebody goes to prison and their children lose a parent, their household loses income, their neighborhood loses whatever they were doing in it, and whoever they become in there comes home to people. None of those people did anything. They are the quietest room available, and the load found them the way load always finds the quietest room. Punishment usually redistributes weight onto people nobody is counting, and then the counting stops because the case is closed.
+Much of what gets called justice produces no reading at all. Somebody goes to prison and their children lose a parent, their household loses income, their neighborhood loses whatever they were doing in it, and whoever they become in there comes home to people. None of those people did anything. They are the quietest room available, and the load found them the way load always finds the quietest room. Everything in the section on transfer applies here, wearing a courtroom's clothes. Punishment usually redistributes weight onto people nobody is counting, and then the counting stops because the case is closed.
 
 The same inspection applies to leniency. A comfortable exile for a violent ruler can stop the killing when the alternative is years more fighting. The comfort belongs in the account. The lives belong there too. So does what the arrangement teaches the next such ruler.
 
@@ -340,7 +342,7 @@ Two people who disagree about nearly everything can still produce the same count
 
 ## Put whoever is furthest under first in the line and first in the sentence, because word order steers thinking
 
-Whichever word sits in the subject slot drags every word after it, which makes sentence order the same rule running at a smaller scale. Put a body there and everything downstream has to route around the body. Put an institution there and the body slides off the end of the sentence, then off the end of the thinking.
+Whichever word sits in the subject slot drags every word after it, which makes sentence order the same rule as putting people back into sentences about institutions, running one scale down. Put a body there and everything downstream has to route around the body. Put an institution there and the body slides off the end of the sentence, then off the end of the thinking.
 
 A paragraph starting with the institution tends to ask what the institution needs. A paragraph starting with the patient tends to ask what happens to the patient.
 
@@ -384,6 +386,8 @@ If a new water system was supposed to eliminate a four-hour walk, measure the wa
 
 The people who designed the intervention know important facts about the intervention. The people carrying the burden know important facts about whether the burden remains. Verification has to reach the second group.
 
+A referral standing in for treatment and a report standing in for delivery are the same substitution at different distances, which is why the endpoint has to be named before the method gets chosen.
+
 "Handled" stays an open claim until somebody checks. An unverified success is a receipt written for a load still in transit. Do not accept the receipt. Do not sign it.
 
 ---
@@ -414,7 +418,7 @@ Each statement predicts a future, and future burdens matter because future peopl
 
 A future filled with people, mechanisms, dates, and observable changes can be checked. A future invoked only as a familiar warning cannot. An asserted future with nobody in it carries no more force than an asserted present with nobody in it.
 
-The same standard applies to optimistic promises. Who receives the benefit? What mechanism delivers it? How long does it take to arrive? What would count as failure?
+The same standard applies to optimistic promises, and for the same reason the endpoint gets named before the method. A promise with no stated arrival condition is a method dressed as a result. Who receives the benefit? What mechanism delivers it? How long does it take to arrive? What would count as failure?
 
 ---
 
@@ -513,5 +517,3 @@ An objection changes this document when it reveals a failure inside the work. A 
 Anything handed to you has already been arranged, and the body was probably moved out of frame before it reached you. Assume it was hidden and go find it. Whose name is missing from this sentence? Who is in the subject slot, a flag, an agency, a situation? Whose decision got written up as weather? A local piece crushed is the bigger picture cracking, and anyone drawing a grand design should be asked to turn the drawing over and show what went into the foundation.
 
 Familiar arguments earn a second look for exactly that reason. A point heard a hundred times will not trip your inspection reflex, and familiarity is its camouflage. Restate the problem. Put the body back at the front. Take the reading.
-
-This document is an instrument. Change the aim and it becomes a different instrument, which should carry a different name.
